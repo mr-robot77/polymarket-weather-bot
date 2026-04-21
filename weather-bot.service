@@ -1,0 +1,16 @@
+[Unit]
+Description=Polymarket Weather Arbitrage Bot
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/polymarket-weather-bot
+ExecStart=/root/polymarket-weather-bot/venv/bin/python src/main.py --mode real
+Restart=always
+RestartSec=10
+EnvironmentFile=/root/polymarket-weather-bot/.env
+LimitNOFILE=65535
+
+[Install]
+WantedBy=multi-user.target
