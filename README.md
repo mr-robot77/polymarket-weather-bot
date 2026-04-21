@@ -157,7 +157,7 @@ The result is further capped at `min(raw_bet, 5%_of_bankroll, $2.00, $4.00)`.
 
 ### 5. Order Execution
 
-In live mode, orders are placed via the [`py-clob-client`](https://github.com/Polymarket/py-clob-client) library on the Polygon Mainnet CLOB (`https://clob.polymarket.com`) using FOK (Fill-or-Kill) order type with a 5% slippage tolerance.
+In the current implementation, live mode does **not** submit orders to the Polymarket CLOB. The bot evaluates opportunities, records the trade decision to SQLite, and sends a Telegram alert, but actual order placement via [`py-clob-client`](https://github.com/Polymarket/py-clob-client) is not yet implemented (the `clob_client` in `src/main.py` is currently mocked). Wiring up real FOK order submission on the Polygon Mainnet CLOB is a planned next step.
 
 ---
 
@@ -230,7 +230,8 @@ TELEGRAM_BOT_TOKEN=your_telegram_bot_token
 TELEGRAM_CHAT_ID=your_telegram_chat_id
 ```
 
-> ⚠️ **Never commit your `.env` file.** It is already in `.gitignore`.
+> ⚠️ **Never commit your `.env` file.** Ensure `.env` is listed in your `.gitignore` (a `.gitignore` is now included in this repo).
+> If a `.env` file has already been committed, remove it from the repository and git history with `git rm --cached .env`, then **rotate any exposed private keys, bot tokens, and other secrets immediately**.
 
 ---
 
@@ -310,7 +311,7 @@ python src/main.py --once
 python src/main.py --live
 ```
 
-> ⚠️ **Warning:** Live mode places real orders on Polymarket using your wallet. Start with small amounts and monitor closely.
+> ⚠️ **Warning:** `--live` currently enables the live execution path in the bot, but **it does not place real orders on Polymarket yet**. The current `src/main.py` uses a mocked `clob_client`, so no on-chain order submission occurs. **TODO:** wire `--live` to a real Polymarket CLOB client before treating this mode as real trading.
 
 ### Running as a systemd Service (24/7 on a VPS)
 
