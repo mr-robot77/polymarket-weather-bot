@@ -1,0 +1,16 @@
+{
+    "scan_interval_seconds": 300,
+    "min_liquidity_usd": 100,
+    "max_position_size_pct": 0.02,
+    "max_daily_loss_pct": 0.05,
+    "dry_run": true,
+    "api_retries": 3,
+    "api_timeout": 30,
+    "cities": [
+        {"name": "New York", "lat": 40.7128, "lon": -74.0060},
+        {"name": "Chicago", "lat": 41.8781, "lon": -87.6298},
+        {"name": "London", "lat": 51.5074, "lon": -0.1278},
+        {"name": "Tokyo", "lat": 35.6895, "lon": 139.6917},
+        {"name": "Los Angeles", "lat": 34.0522, "lon": -118.2437}
+    ]
+}
