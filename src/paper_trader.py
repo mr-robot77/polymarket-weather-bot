@@ -21,8 +21,12 @@ class PaperTrader:
         # Dummy size: 2% of balance
         size = self.balance * 0.02
         
+        now = datetime.now()
+        is_morning = 1 if 4 <= now.hour < 12 else 0
+
         trade_record = {
-            "market": market["question"],
+            "market": edge_info["market_title"],
+            "city": edge_info.get("city", "Unknown"),
             "outcome": "Yes",
             "price": edge_info["market_price"],
             "prob": edge_info["forecast_prob"],
@@ -30,8 +34,10 @@ class PaperTrader:
             "size": size,
             "type": edge_info["type"],
             "pnl": 0.0, # Will be updated when market closes
-            "status": "PAPER_OPEN"
+            "status": "PAPER_OPEN",
+            "is_morning": is_morning
         }
+
         
         # Simulate buying (subtract from balance)
         # Note: in real paper trading we'd track the tokens and wait for resolution

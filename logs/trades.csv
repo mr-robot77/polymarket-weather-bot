@@ -1,0 +1,5 @@
+timestamp,market,outcome,price,prob,edge,size,type,pnl,status
+2026-04-21,Miami Temp,Yes,0.4,0.6,0.2,10.0,REAL,5.5,CLOSED
+2026-04-20,Chicago Temp,Yes,0.5,0.7,0.2,10.0,REAL,-10.0,CLOSED
+2026-04-16,NY Temp,Yes,0.3,0.5,0.2,10.0,REAL,20.0,CLOSED
+

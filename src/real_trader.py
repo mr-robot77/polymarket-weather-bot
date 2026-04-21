@@ -1,5 +1,6 @@
 import os
 import json
+from datetime import datetime
 from dotenv import load_dotenv
 from src.logger import logger
 
@@ -34,15 +35,20 @@ class RealTrader:
         # order = self.client.create_order(OrderArgs(...))
         # resp = self.client.post_order(order)
         
+        now = datetime.now()
+        is_morning = 1 if 4 <= now.hour < 12 else 0
+
         trade_record = {
             "market": market["question"],
+            "city": edge_info.get("city", "Unknown"),
             "outcome": "Yes",
             "price": edge_info["market_price"],
             "prob": edge_info["forecast_prob"],
             "edge": edge_info["edge"],
             "size": 10.0, # Placeholder
             "type": "REAL",
-            "status": "EXECUTED"
+            "status": "EXECUTED",
+            "is_morning": is_morning
         }
         
         logger.log_trade(trade_record)

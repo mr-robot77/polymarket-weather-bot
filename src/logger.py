@@ -42,8 +42,8 @@ class BotLogger:
         file_exists = os.path.isfile(csv_file)
         
         headers = [
-            "timestamp", "market", "outcome", "price", "prob", "edge", 
-            "size", "type", "pnl", "status"
+            "timestamp", "market", "city", "outcome", "price", "prob", "edge", 
+            "size", "type", "pnl", "status", "is_morning"
         ]
         
         with open(csv_file, "a", newline="") as f:
