@@ -1,7 +1,7 @@
 import subprocess
 import json
 import os
-from src.logger import logger
+from logger import logger
 
 IMPROVEMENT_PROMPT = """You are an elite quant trading coach. Here is the last 24h trade log (JSON) and current rules.json.
 

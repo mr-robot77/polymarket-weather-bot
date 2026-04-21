@@ -1,0 +1,9 @@
+2026-04-21 18:42:53,368 - INFO - Starting 24/7 autonomous mode.
+2026-04-21 18:42:53,368 - INFO - Starting cycle...
+2026-04-21 18:43:03,021 - INFO - SCAN_COMPLETE: {"found_count": 28}
+2026-04-21 18:43:03,025 - INFO - Found 28 active temperature markets.
+2026-04-21 18:43:03,026 - INFO - Cycle complete.
+2026-04-21 18:43:03,027 - INFO - Starting Telegram Bot listener...
+2026-04-21 18:43:03,661 - INFO - HTTP Request: POST https://api.telegram.org/bot8274319974:AAH1dmm4Gk5hjpaVyZ6URgRuZBoygedlIcg/getMe "HTTP/1.1 200 OK"
+2026-04-21 18:43:03,826 - INFO - HTTP Request: POST https://api.telegram.org/bot8274319974:AAH1dmm4Gk5hjpaVyZ6URgRuZBoygedlIcg/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-21 18:43:03,831 - INFO - Application started
