@@ -56,7 +56,7 @@ async def cmd_wisdom(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None
             # Format timestamp if it's ISO
             if "T" in ts:
                 ts = ts.split("T")[0]
-            insight = entry.get("insight", "No insight recorded.")
+            insight = entry.get("wisdom", entry.get("insight", "No insight recorded."))
             msg += f"📅 <b>{ts}</b>: {insight}\n\n"
             
         await update.message.reply_html(msg)
