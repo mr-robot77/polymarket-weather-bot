@@ -290,7 +290,7 @@ async def error_handler(update: object, context: ContextTypes.DEFAULT_TYPE) -> N
 
 async def cmd_reflect(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text("🧠 Starting self-reflection and improvement cycle... this may take a moment.")
-    from self_improver import self_improver
+    from wisdom import wisdom_manager
     from settler import settler
     
     # Run settlement first
@@ -298,7 +298,7 @@ async def cmd_reflect(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
     await update.message.reply_text(f"✅ Settlement complete ({settled} trades settled). Now analyzing performance...")
     
     # Run improvement
-    self_improver.improve()
+    wisdom_manager.reflect_and_improve()
     await update.message.reply_text("✨ Reflection complete. Check /wisdom or /rules for updates.")
 
 async def post_init(application: Application) -> None:
