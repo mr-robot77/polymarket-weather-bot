@@ -1,0 +1,2 @@
+description = "🤖 Detailed bot health and last scan info"
+prompt = "Show the current operational status of the bot, including mode, last scan time, and database size."

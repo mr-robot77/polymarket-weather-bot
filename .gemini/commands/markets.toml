@@ -1,0 +1,2 @@
+description = "🔍 View currently active weather markets"
+prompt = "List the currently active weather markets found during the latest scan."

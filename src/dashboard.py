@@ -2,6 +2,7 @@ import time
 import json
 import os
 import pandas as pd
+import sqlite3
 from datetime import datetime
 from rich.live import Live
 from rich.layout import Layout
@@ -15,9 +16,20 @@ import plotext as plt
 BOT_NAME = "Polymarket Weather Bot"
 
 def load_trades():
-    if os.path.exists("logs/trades.csv"):
+    if os.path.exists("trades.db"):
         try:
-            return pd.read_csv("logs/trades.csv")
+            conn = sqlite3.connect("trades.db")
+            # Convert to DataFrame with same column names as expected
+            df = pd.read_sql_query("SELECT date as timestamp, city, amount as size, pnl, edge, is_morning, type, status, price FROM trades", conn)
+            conn.close()
+            # Add extra columns expected by dashboard
+            if not df.empty:
+                df["market"] = df["city"] + " Temp"
+                df["outcome"] = "Yes"
+                # Ensure type exists for old rows
+                if "type" not in df.columns:
+                    df["type"] = "REAL"
+            return df
         except Exception:
             return pd.DataFrame()
     return pd.DataFrame()
@@ -44,13 +56,11 @@ def load_actions():
     return actions
 
 def get_header(df_trades, next_refresh_in):
-    # LIVE/DRY badge
-    is_live = False
-    if not df_trades.empty and "type" in df_trades.columns:
-        if (df_trades["type"] == "REAL").any():
-            is_live = True
+    # Check if we are running in live mode by looking at sys.argv or env
+    import sys
+    is_live = "--live" in sys.argv or os.getenv("LIVE_MODE") == "true"
     
-    badge = Text(" LIVE ", style="bold white on green") if is_live else Text(" DRY ", style="bold white on yellow")
+    badge = Text(" LIVE [REALTIME] ", style="bold white on green") if is_live else Text(" PAPER TRADING ", style="bold white on yellow")
     
     header = Table.grid(expand=True)
     header.add_column(justify="left", ratio=1)
@@ -62,7 +72,7 @@ def get_header(df_trades, next_refresh_in):
     refresh_text = Text(f"Refresh in {next_refresh_in}s", style="dim")
     
     header.add_row(title, badge, f"{timestamp} | {refresh_text}")
-    return Panel(header, style="green")
+    return Panel(header, style="green" if is_live else "yellow")
 
 def get_live_stats(df_trades, balance):
     table = Table(box=box.ROUNDED, expand=True, style="cyan")

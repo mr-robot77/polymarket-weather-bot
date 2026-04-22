@@ -1,0 +1,2 @@
+description = "🔄 Restart the bot process"
+prompt = "Restart the bot process to apply updates or clear the current state."

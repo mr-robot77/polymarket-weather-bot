@@ -1,0 +1,10 @@
+timestamp,market,city,outcome,price,prob,edge,size,type,pnl,status,is_morning
+2026-04-22T11:32:24.195586,Will Seattle have more than 5 inches of precipitation in April?,Seattle,Yes,0.009,1.0,0.991,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:32:26.932862,Will London have 70mm or more of precipitation in April?,London,Yes,0.0065,0.5,0.4935,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:32:27.613687,Will Seoul have between 70-75mm of precipitation in April?-N5ag,Seoul,Yes,0.0285,0.49379033467422384,0.4652903346742238,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:32:28.279961,Will Hong Kong have less than 130mm of precipitation in April?,Hong,Yes,0.295,1.0,0.7050000000000001,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:33:25.441160,Will global temperature increase by less than 1.10ºC in April 2026?,Global,Yes,0.028,0.08075665923377151,0.05275665923377151,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:33:26.239256,Will Seattle have more than 5 inches of precipitation in April?,Seattle,Yes,0.009,1.0,0.991,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:33:26.860395,Will London have 70mm or more of precipitation in April?,London,Yes,0.0065,0.5,0.4935,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:33:27.598247,Will Seoul have between 70-75mm of precipitation in April?-N5ag,Seoul,Yes,0.0285,0.49379033467422384,0.4652903346742238,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:33:28.296650,Will Hong Kong have less than 130mm of precipitation in April?,Hong,Yes,0.295,1.0,0.7050000000000001,2.0,PAPER,0.0,OPEN,1

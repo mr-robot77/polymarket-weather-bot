@@ -11,7 +11,7 @@ class Reporter:
 
     def generate_enhanced_stats(self, rows, period_name):
         if not rows:
-            return f"<b>{period_name} Report</b>\nNo trades.\n"
+            return f"<b>{period_name} Report</b>\nTrades: 0\nP&L: $0.00\n"
             
         pnl_total = 0.0
         city_pnl = {}
@@ -19,9 +19,9 @@ class Reporter:
         morning_total = 0
         evening_wins = 0
         evening_total = 0
+        total_trades = len(rows)
         
         for row in rows:
-            # New schema: (id, date, market_id, city, amount, pnl, edge, is_morning)
             pnl = float(row[5] if row[5] is not None else 0.0)
             city = row[3]
             is_morning = row[7]
@@ -36,21 +36,23 @@ class Reporter:
                 evening_total += 1
                 if pnl > 0: evening_wins += 1
                 
-        # Format the stats
         report = f"<b>{period_name} Report</b>\n"
-        report += f"Total P&L: ${pnl_total:.2f}\n"
+        report += f"Total Trades: {total_trades}\n"
+        report += f"Net P&L: {'+' if pnl_total >= 0 else ''}${pnl_total:.2f}\n"
         
-        # City breakdown (top 3)
+        # City breakdown
         sorted_cities = sorted(city_pnl.items(), key=lambda x: x[1], reverse=True)
-        report += "🏙 <b>Top Cities:</b>\n"
-        for city, pnl in sorted_cities[:3]:
-            report += f" - {city}: {'+' if pnl >= 0 else ''}${pnl:.2f}\n"
+        if sorted_cities:
+            report += "🏙 <b>Top Cities:</b>\n"
+            for city, pnl in sorted_cities[:3]:
+                report += f" - {city}: {'+' if pnl >= 0 else ''}${pnl:.2f}\n"
             
-        # Morning vs Evening
-        m_rate = (morning_wins/morning_total*100) if morning_total > 0 else 0
-        e_rate = (evening_wins/evening_total*100) if evening_total > 0 else 0
-        report += f"☀️ Morning WR: {m_rate:.1f}%\n"
-        report += f"🌙 Evening WR: {e_rate:.1f}%\n"
+        # Win Rates
+        if morning_total > 0 or evening_total > 0:
+            m_rate = (morning_wins/morning_total*100) if morning_total > 0 else 0
+            e_rate = (evening_wins/evening_total*100) if evening_total > 0 else 0
+            report += f"☀️ Morning WR: {m_rate:.1f}% ({morning_total} tr)\n"
+            report += f"🌙 Evening WR: {e_rate:.1f}% ({evening_total} tr)\n"
             
         return report + "\n"
 
@@ -63,26 +65,30 @@ class Reporter:
         
         daily_rows = []
         weekly_rows = []
+        all_rows = []
         
         try:
             conn = sqlite3.connect(self.db_path)
             cursor = conn.cursor()
-            # Fetch with new columns
             cursor.execute("SELECT id, date, market_id, city, amount, pnl, edge, is_morning FROM trades")
             for row in cursor.fetchall():
+                all_rows.append(row)
                 ts_str = row[1]
                 if not ts_str:
                     continue
                 try:
-                    ts = datetime.fromisoformat(ts_str)
+                    if "T" in ts_str:
+                        ts = datetime.fromisoformat(ts_str)
+                    else:
+                        ts = datetime.strptime(ts_str, "%Y-%m-%d")
                 except ValueError:
                     continue
                     
-                days_diff = (now - ts).days
+                time_diff = now - ts
                 
-                if days_diff < 1:
+                if time_diff <= timedelta(hours=24):
                     daily_rows.append(row)
-                if days_diff < 7:
+                if time_diff <= timedelta(days=7):
                     weekly_rows.append(row)
             conn.close()
         except sqlite3.Error as e:
@@ -90,11 +96,24 @@ class Reporter:
             return
 
         # Build combined message
+        from paper_trader import paper_trader
+        staked = 0.0
+        try:
+            conn = sqlite3.connect(self.db_path)
+            cursor = conn.cursor()
+            cursor.execute("SELECT SUM(amount) FROM trades WHERE status = 'OPEN'")
+            staked = cursor.fetchone()[0] or 0.0
+            conn.close()
+        except:
+            pass
+
         message = "📊 <b>Enhanced Trading Summary</b>\n\n"
-        message += self.generate_enhanced_stats(daily_rows, "Last 24h")
+        message += f"🏦 <b>Bankroll:</b> ${paper_trader.balance:,.2f}\n"
+        message += f"🔒 <b>Staked:</b> ${staked:,.2f}\n\n"
         
-        if now.weekday() == 0: # Monday
-            message += self.generate_enhanced_stats(weekly_rows, "Weekly Performance")
+        message += self.generate_enhanced_stats(daily_rows, "Last 24h")
+        message += self.generate_enhanced_stats(weekly_rows, "Last 7 Days")
+        message += self.generate_enhanced_stats(all_rows, "Lifetime Performance")
 
         # Send via Telegram
         logging.info("Sending enhanced report to Telegram...")

@@ -3,3 +3,29 @@ timestamp,market,outcome,price,prob,edge,size,type,pnl,status
 2026-04-20,Chicago Temp,Yes,0.5,0.7,0.2,10.0,REAL,-10.0,CLOSED
 2026-04-16,NY Temp,Yes,0.3,0.5,0.2,10.0,REAL,20.0,CLOSED
 
+2026-04-22T11:35:10.485842,Will global temperature increase by less than 1.10ºC in April 2026?,Global,Yes,0.028,0.08075665923377151,0.05275665923377151,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:35:11.110587,Will NYC have more than 6 inches of precipitation in April?,NYC,Yes,0.0055,1.0,0.9945,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:35:11.810172,Will Seattle have more than 5 inches of precipitation in April?,Seattle,Yes,0.009,1.0,0.991,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:35:12.432921,Will London have 70mm or more of precipitation in April?,London,Yes,0.0065,0.5,0.4935,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:35:13.122368,Will Seoul have between 70-75mm of precipitation in April?-N5ag,Seoul,Yes,0.0285,0.49379033467422384,0.4652903346742238,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:35:13.816932,Will Hong Kong have less than 130mm of precipitation in April?,Hong,Yes,0.295,1.0,0.7050000000000001,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:40:27.475153,Will global temperature increase by less than 1.10ºC in April 2026?,Global,Yes,0.0285,0.08075665923377151,0.05225665923377151,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:40:28.091148,Will NYC have more than 6 inches of precipitation in April?,NYC,Yes,0.0055,1.0,0.9945,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:40:28.751365,Will Seattle have more than 5 inches of precipitation in April?,Seattle,Yes,0.009,1.0,0.991,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:40:29.561400,Will London have 70mm or more of precipitation in April?,London,Yes,0.0065,0.5,0.4935,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:40:30.179011,Will Seoul have between 70-75mm of precipitation in April?-N5ag,Seoul,Yes,0.0285,0.49379033467422384,0.4652903346742238,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:40:30.949859,Will Hong Kong have less than 130mm of precipitation in April?,Hong,Yes,0.295,1.0,0.7050000000000001,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:45:45.116780,Will global temperature increase by less than 1.10ºC in April 2026?,Global,Yes,0.029,0.08075665923377151,0.05175665923377151,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:45:45.824570,Will NYC have more than 6 inches of precipitation in April?,NYC,Yes,0.0055,1.0,0.9945,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:45:46.522628,Will Seattle have more than 5 inches of precipitation in April?,Seattle,Yes,0.009,1.0,0.991,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:45:47.172908,Will London have 70mm or more of precipitation in April?,London,Yes,0.0065,0.5,0.4935,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:45:47.776052,Will Seoul have between 70-75mm of precipitation in April?-N5ag,Seoul,Yes,0.0285,0.49379033467422384,0.4652903346742238,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:45:48.423741,Will Hong Kong have less than 130mm of precipitation in April?,Hong,Yes,0.295,1.0,0.7050000000000001,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:51:02.561882,Will global temperature increase by less than 1.10ºC in April 2026?,Global,Yes,0.029,0.08075665923377151,0.05175665923377151,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:51:03.264082,Will NYC have more than 6 inches of precipitation in April?,NYC,Yes,0.0055,1.0,0.9945,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:51:03.955319,Will Seattle have more than 5 inches of precipitation in April?,Seattle,Yes,0.009,1.0,0.991,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:51:04.604030,Will London have 70mm or more of precipitation in April?,London,Yes,0.0065,0.5,0.4935,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:51:05.244132,Will Seoul have between 70-75mm of precipitation in April?-N5ag,Seoul,Yes,0.0285,0.49379033467422384,0.4652903346742238,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:51:05.878469,Will Hong Kong have less than 130mm of precipitation in April?,Hong,Yes,0.295,1.0,0.7050000000000001,2.0,PAPER,0.0,OPEN,1
+2026-04-22T11:56:19.687720,Will global temperature increase by less than 1.10ºC in April 2026?,Global,Yes,0.029,0.08075665923377151,0.05175665923377151,2.0,PAPER,0.0,OPEN,1
+2026-04-22T12:33:56.009410,Will global temperature increase by between 1.10ºC and 1.14ºC in April 2026?,Global,Yes,0.135,0.19349645851630193,0.05849645851630192,2.0,PAPER,0.0,OPEN,0

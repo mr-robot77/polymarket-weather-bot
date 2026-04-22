@@ -23,8 +23,8 @@ def test_parse_market_details_valid(scanner):
     details = scanner.parse_market_details(market)
     assert details is not None
     assert details["city"] == "Chicago"
-    assert details["temp_min"] == 80.0
-    assert details["temp_max"] == 84.0
+    assert details["min_temp"] == 80.0
+    assert details["max_temp"] == 84.0
     assert details["date"] == "April 25"
     assert details["title"] == market["question"]
 

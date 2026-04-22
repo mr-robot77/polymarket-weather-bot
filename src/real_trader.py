@@ -2,7 +2,7 @@ import os
 import json
 from datetime import datetime
 from dotenv import load_dotenv
-from src.logger import logger
+from logger import logger
 
 # Note: In a real environment, you'd need to install py-clob-client
 # from py_clob_client.client import ClobClient

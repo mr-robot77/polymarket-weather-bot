@@ -9,6 +9,22 @@ class WeatherFetcher:
         self.base_url_forecast = "https://api.open-meteo.com/v1/forecast"
         self.quota_exhausted = False
 
+    def get_coordinates(self, city_name: str) -> Optional[Dict[str, float]]:
+        """
+        Uses Open-Meteo Geocoding API to find lat/lon for any city name.
+        """
+        url = "https://geocoding-api.open-meteo.com/v1/search"
+        params = {"name": city_name, "count": 1, "language": "en", "format": "json"}
+        try:
+            resp = requests.get(url, params=params, timeout=10)
+            if resp.status_code == 200:
+                results = resp.json().get("results")
+                if results:
+                    return {"lat": results[0]["latitude"], "lon": results[0]["longitude"]}
+        except Exception as e:
+            logging.error(f"Geocoding error for {city_name}: {e}")
+        return None
+
     def fetch_forecast(self, lat: float, lon: float) -> Optional[Dict[str, Any]]:
         if not self.quota_exhausted:
             params = {

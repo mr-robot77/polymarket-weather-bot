@@ -1,0 +1,2 @@
+description = "📡 View the last 10 market scans"
+prompt = "Show the most recent bot activity, including market scans and trade executions."

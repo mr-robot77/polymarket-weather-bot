@@ -220,3 +220,217 @@
 {"timestamp": "2026-04-21T23:47:26.018886", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
 {"timestamp": "2026-04-21T23:52:34.062612", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
 {"timestamp": "2026-04-21T23:57:41.784061", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T00:02:49.712284", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T00:07:57.574598", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T00:13:05.555075", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T00:18:13.605973", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T00:23:21.492474", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T00:28:29.582777", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T00:33:37.570957", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T00:38:45.339184", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T00:43:53.777164", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T00:49:01.915672", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T00:54:10.051299", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T00:59:18.878682", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T01:04:26.807968", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T01:09:34.959765", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T01:14:43.122363", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T01:19:50.978143", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T01:24:58.716943", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T01:30:07.979199", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T01:35:16.434917", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T01:40:24.271786", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T01:45:32.370237", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T01:50:40.352288", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T01:55:48.309573", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T02:00:56.678039", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T02:06:04.642455", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T02:11:13.034639", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T02:16:21.247756", "action": "SCAN_COMPLETE", "details": {"found_count": 28}}
+{"timestamp": "2026-04-22T02:21:29.832022", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T02:26:38.122684", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T02:31:46.242244", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T02:36:54.203734", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T02:42:02.616093", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T02:47:11.400441", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T02:52:19.509535", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T02:57:28.041589", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T03:02:36.079592", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T03:07:44.520538", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T03:12:52.641653", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T03:18:01.229029", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T03:23:09.396602", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T03:28:17.580714", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T03:33:25.971909", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T03:38:34.704743", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T03:43:42.780057", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T03:48:50.977202", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T03:53:59.230903", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T03:59:07.582752", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T04:04:15.570957", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T04:09:23.861795", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T04:14:32.306621", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T04:19:40.886924", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T04:24:49.193799", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T04:29:57.380780", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T04:35:06.084378", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T04:40:14.271551", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T04:45:22.517123", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T04:50:31.736826", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T04:55:40.093664", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T05:00:48.450317", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T05:05:56.589922", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T05:11:05.154974", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T05:16:13.630765", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T05:21:21.966271", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T05:26:30.262907", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T05:31:38.718291", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T05:36:47.428424", "action": "SCAN_COMPLETE", "details": {"found_count": 29}}
+{"timestamp": "2026-04-22T05:41:55.933783", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T05:47:04.457217", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T05:52:13.270587", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T05:57:21.539651", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T06:02:29.890832", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T06:07:38.229446", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T06:12:47.014866", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T06:17:55.119983", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T06:23:03.971913", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T06:28:14.615450", "action": "SCAN_EXCEPTION", "details": {"error": "HTTPSConnectionPool(host='gamma-api.polymarket.com', port=443): Max retries exceeded with url: /events?active=true&closed=false&limit=100&offset=2700 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7a0607b01580>: Failed to resolve 'gamma-api.polymarket.com' (Name or service not known: gamma-api.polymarket.com using 1 resolver(s))\"))"}}
+{"timestamp": "2026-04-22T06:28:31.869029", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T06:30:06.421414", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T06:34:20.488602", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T06:39:28.740803", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T06:44:37.629439", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T06:48:12.469945", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T06:53:20.563372", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T06:58:29.113516", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T07:03:37.436016", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T07:08:45.674194", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T07:13:54.121062", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T07:19:02.409575", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T07:20:41.728388", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T07:24:11.045070", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T07:27:55.158311", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T07:29:19.429119", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T07:34:02.827774", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T07:34:28.676973", "action": "SCAN_COMPLETE", "details": {"found_count": 30}}
+{"timestamp": "2026-04-22T07:36:42.014802", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T07:37:18.317568", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T07:38:14.839026", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T07:43:25.192329", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T07:48:35.371204", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T07:53:45.561366", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T07:58:55.873860", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T08:02:44.916314", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T08:03:16.551821", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T08:07:29.848683", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T08:11:20.426262", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T08:16:31.413858", "action": "SCAN_COMPLETE", "details": {"found_count": 0}}
+{"timestamp": "2026-04-22T08:18:31.160598", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T08:23:41.307443", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T08:28:51.733559", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T08:34:02.923112", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T08:39:13.432042", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T08:44:23.664935", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T08:49:35.419924", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T08:53:54.571902", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T08:59:20.565716", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T09:02:13.904391", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T09:04:32.434450", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T09:09:42.682815", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T09:14:58.241512", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T09:16:12.181155", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T09:43:17.800983", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T09:45:29.115628", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T09:48:42.215196", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T09:53:20.910674", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T09:55:34.246896", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:00:44.545733", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:00:54.432522", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:01:49.031264", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:06:54.252082", "action": "SELF_IMPROVEMENT_START", "details": {}}
+{"timestamp": "2026-04-22T10:07:01.219657", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:07:50.165548", "action": "RULES_UPDATED", "details": {"new_rules": "{\n    \"edge_threshold\": 0.21,\n    \"min_confidence_interval\": 0.75,\n    \"max_trades_per_day\": 15,\n    \"risk_free_arb_threshold\": 0.02,\n    \"max_rmse_limit\": 2.6,\n    \"min_liquidity_usd\": 1000,\n    \"blacklist\": [\"Chicago\"],\n    \"last_updated\": \"2026-04-22T10:00:00Z\",\n    \"version\": 1.1\n}"}}
+{"timestamp": "2026-04-22T10:08:13.069695", "action": "SELF_IMPROVEMENT_START", "details": {}}
+{"timestamp": "2026-04-22T10:08:40.208667", "action": "RULES_UPDATED", "details": {"new_rules": "{\n    \"edge_threshold\": 0.05,\n    \"min_confidence_interval\": 0.6,\n    \"max_trades_per_day\": 50,\n    \"risk_free_arb_threshold\": 0.01,\n    \"last_updated\": \"2026-04-22T16:50:00Z\",\n    \"version\": 1.3,\n    \"blacklist\": []\n}"}}
+{"timestamp": "2026-04-22T10:12:12.044185", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:17:24.299150", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:22:36.115670", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:24:33.129554", "action": "SCAN_COMPLETE", "details": {"weather_count": 1, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:27:12.123727", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:32:22.452028", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:37:34.651611", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:37:42.540978", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:42:19.419041", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:42:45.881215", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:43:27.828234", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:48:34.101362", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:52:07.760658", "action": "SCAN_COMPLETE", "details": {"weather_count": 16, "total_scanned": 500}}
+{"timestamp": "2026-04-22T10:52:25.822572", "action": "SCAN_COMPLETE", "details": {"weather_count": 23, "total_scanned": 1000}}
+{"timestamp": "2026-04-22T10:53:40.393234", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:53:52.933736", "action": "SCAN_COMPLETE", "details": {"weather_count": 502, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:54:29.775745", "action": "SCAN_COMPLETE", "details": {"weather_count": 502, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:55:44.550930", "action": "SCAN_COMPLETE", "details": {"weather_count": 0, "total_scanned": 200}}
+{"timestamp": "2026-04-22T10:55:59.894324", "action": "SCAN_COMPLETE", "details": {"weather_count": 502, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T10:56:59.126354", "action": "SCAN_COMPLETE", "details": {"weather_count": 502, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:02:10.638171", "action": "SCAN_COMPLETE", "details": {"weather_count": 502, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:04:00.640350", "action": "SCAN_COMPLETE", "details": {"weather_count": 502, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:04:56.412589", "action": "SCAN_COMPLETE", "details": {"weather_count": 502, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:06:06.896398", "action": "SCAN_COMPLETE", "details": {"weather_count": 502, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:11:18.241922", "action": "SCAN_COMPLETE", "details": {"weather_count": 502, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:16:29.759482", "action": "SCAN_COMPLETE", "details": {"weather_count": 502, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:21:40.636647", "action": "SCAN_COMPLETE", "details": {"weather_count": 502, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:26:52.374601", "action": "SCAN_COMPLETE", "details": {"weather_count": 502, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:32:03.609297", "action": "SCAN_COMPLETE", "details": {"weather_count": 502, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:35:01.178174", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:35:10.486338", "action": "TRADE_EXECUTED", "details": {"market": "Will global temperature increase by less than 1.10\u00baC in April 2026?", "city": "Global", "outcome": "Yes", "price": 0.028, "prob": 0.08075665923377151, "edge": 0.05275665923377151, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:35:10.485842"}}
+{"timestamp": "2026-04-22T11:35:11.110657", "action": "TRADE_EXECUTED", "details": {"market": "Will NYC have more than 6 inches of precipitation in April?", "city": "NYC", "outcome": "Yes", "price": 0.0055, "prob": 1.0, "edge": 0.9945, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:35:11.110587"}}
+{"timestamp": "2026-04-22T11:35:11.810236", "action": "TRADE_EXECUTED", "details": {"market": "Will Seattle have more than 5 inches of precipitation in April?", "city": "Seattle", "outcome": "Yes", "price": 0.009, "prob": 1.0, "edge": 0.991, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:35:11.810172"}}
+{"timestamp": "2026-04-22T11:35:12.432973", "action": "TRADE_EXECUTED", "details": {"market": "Will London have 70mm or more of precipitation in April?", "city": "London", "outcome": "Yes", "price": 0.0065, "prob": 0.5, "edge": 0.4935, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:35:12.432921"}}
+{"timestamp": "2026-04-22T11:35:13.122434", "action": "TRADE_EXECUTED", "details": {"market": "Will Seoul have between 70-75mm of precipitation in April?-N5ag", "city": "Seoul", "outcome": "Yes", "price": 0.0285, "prob": 0.49379033467422384, "edge": 0.4652903346742238, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:35:13.122368"}}
+{"timestamp": "2026-04-22T11:35:13.816987", "action": "TRADE_EXECUTED", "details": {"market": "Will Hong Kong have less than 130mm of precipitation in April?", "city": "Hong", "outcome": "Yes", "price": 0.295, "prob": 1.0, "edge": 0.7050000000000001, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:35:13.816932"}}
+{"timestamp": "2026-04-22T11:40:20.270341", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:40:27.475222", "action": "TRADE_EXECUTED", "details": {"market": "Will global temperature increase by less than 1.10\u00baC in April 2026?", "city": "Global", "outcome": "Yes", "price": 0.0285, "prob": 0.08075665923377151, "edge": 0.05225665923377151, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:40:27.475153"}}
+{"timestamp": "2026-04-22T11:40:28.091220", "action": "TRADE_EXECUTED", "details": {"market": "Will NYC have more than 6 inches of precipitation in April?", "city": "NYC", "outcome": "Yes", "price": 0.0055, "prob": 1.0, "edge": 0.9945, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:40:28.091148"}}
+{"timestamp": "2026-04-22T11:40:28.751454", "action": "TRADE_EXECUTED", "details": {"market": "Will Seattle have more than 5 inches of precipitation in April?", "city": "Seattle", "outcome": "Yes", "price": 0.009, "prob": 1.0, "edge": 0.991, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:40:28.751365"}}
+{"timestamp": "2026-04-22T11:40:29.561468", "action": "TRADE_EXECUTED", "details": {"market": "Will London have 70mm or more of precipitation in April?", "city": "London", "outcome": "Yes", "price": 0.0065, "prob": 0.5, "edge": 0.4935, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:40:29.561400"}}
+{"timestamp": "2026-04-22T11:40:30.179091", "action": "TRADE_EXECUTED", "details": {"market": "Will Seoul have between 70-75mm of precipitation in April?-N5ag", "city": "Seoul", "outcome": "Yes", "price": 0.0285, "prob": 0.49379033467422384, "edge": 0.4652903346742238, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:40:30.179011"}}
+{"timestamp": "2026-04-22T11:40:30.950031", "action": "TRADE_EXECUTED", "details": {"market": "Will Hong Kong have less than 130mm of precipitation in April?", "city": "Hong", "outcome": "Yes", "price": 0.295, "prob": 1.0, "edge": 0.7050000000000001, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:40:30.949859"}}
+{"timestamp": "2026-04-22T11:45:37.847190", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:45:45.117258", "action": "TRADE_EXECUTED", "details": {"market": "Will global temperature increase by less than 1.10\u00baC in April 2026?", "city": "Global", "outcome": "Yes", "price": 0.029, "prob": 0.08075665923377151, "edge": 0.05175665923377151, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:45:45.116780"}}
+{"timestamp": "2026-04-22T11:45:45.824652", "action": "TRADE_EXECUTED", "details": {"market": "Will NYC have more than 6 inches of precipitation in April?", "city": "NYC", "outcome": "Yes", "price": 0.0055, "prob": 1.0, "edge": 0.9945, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:45:45.824570"}}
+{"timestamp": "2026-04-22T11:45:46.522681", "action": "TRADE_EXECUTED", "details": {"market": "Will Seattle have more than 5 inches of precipitation in April?", "city": "Seattle", "outcome": "Yes", "price": 0.009, "prob": 1.0, "edge": 0.991, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:45:46.522628"}}
+{"timestamp": "2026-04-22T11:45:47.172973", "action": "TRADE_EXECUTED", "details": {"market": "Will London have 70mm or more of precipitation in April?", "city": "London", "outcome": "Yes", "price": 0.0065, "prob": 0.5, "edge": 0.4935, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:45:47.172908"}}
+{"timestamp": "2026-04-22T11:45:47.776116", "action": "TRADE_EXECUTED", "details": {"market": "Will Seoul have between 70-75mm of precipitation in April?-N5ag", "city": "Seoul", "outcome": "Yes", "price": 0.0285, "prob": 0.49379033467422384, "edge": 0.4652903346742238, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:45:47.776052"}}
+{"timestamp": "2026-04-22T11:45:48.423942", "action": "TRADE_EXECUTED", "details": {"market": "Will Hong Kong have less than 130mm of precipitation in April?", "city": "Hong", "outcome": "Yes", "price": 0.295, "prob": 1.0, "edge": 0.7050000000000001, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:45:48.423741"}}
+{"timestamp": "2026-04-22T11:50:55.129297", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:51:02.561934", "action": "TRADE_EXECUTED", "details": {"market": "Will global temperature increase by less than 1.10\u00baC in April 2026?", "city": "Global", "outcome": "Yes", "price": 0.029, "prob": 0.08075665923377151, "edge": 0.05175665923377151, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:51:02.561882"}}
+{"timestamp": "2026-04-22T11:51:03.264146", "action": "TRADE_EXECUTED", "details": {"market": "Will NYC have more than 6 inches of precipitation in April?", "city": "NYC", "outcome": "Yes", "price": 0.0055, "prob": 1.0, "edge": 0.9945, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:51:03.264082"}}
+{"timestamp": "2026-04-22T11:51:03.955390", "action": "TRADE_EXECUTED", "details": {"market": "Will Seattle have more than 5 inches of precipitation in April?", "city": "Seattle", "outcome": "Yes", "price": 0.009, "prob": 1.0, "edge": 0.991, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:51:03.955319"}}
+{"timestamp": "2026-04-22T11:51:04.604079", "action": "TRADE_EXECUTED", "details": {"market": "Will London have 70mm or more of precipitation in April?", "city": "London", "outcome": "Yes", "price": 0.0065, "prob": 0.5, "edge": 0.4935, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:51:04.604030"}}
+{"timestamp": "2026-04-22T11:51:05.244182", "action": "TRADE_EXECUTED", "details": {"market": "Will Seoul have between 70-75mm of precipitation in April?-N5ag", "city": "Seoul", "outcome": "Yes", "price": 0.0285, "prob": 0.49379033467422384, "edge": 0.4652903346742238, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:51:05.244132"}}
+{"timestamp": "2026-04-22T11:51:05.878549", "action": "TRADE_EXECUTED", "details": {"market": "Will Hong Kong have less than 130mm of precipitation in April?", "city": "Hong", "outcome": "Yes", "price": 0.295, "prob": 1.0, "edge": 0.7050000000000001, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:51:05.878469"}}
+{"timestamp": "2026-04-22T11:53:01.774315", "action": "SELF_IMPROVEMENT_START", "details": {}}
+{"timestamp": "2026-04-22T11:56:11.961636", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T11:56:19.687962", "action": "TRADE_EXECUTED", "details": {"market": "Will global temperature increase by less than 1.10\u00baC in April 2026?", "city": "Global", "outcome": "Yes", "price": 0.029, "prob": 0.08075665923377151, "edge": 0.05175665923377151, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 1, "timestamp": "2026-04-22T11:56:19.687720"}}
+{"timestamp": "2026-04-22T12:01:26.184893", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:02:54.364528", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:04:39.212348", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:06:47.563466", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:07:28.167107", "action": "SELF_IMPROVEMENT_START", "details": {}}
+{"timestamp": "2026-04-22T12:10:54.775959", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:16:12.310863", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:20:16.801239", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:22:25.290830", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:26:39.443235", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:28:44.122407", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:29:09.152816", "action": "SELF_IMPROVEMENT_START", "details": {}}
+{"timestamp": "2026-04-22T12:33:46.869109", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:33:56.009874", "action": "TRADE_EXECUTED", "details": {"market": "Will global temperature increase by between 1.10\u00baC and 1.14\u00baC in April 2026?", "city": "Global", "outcome": "Yes", "price": 0.135, "prob": 0.19349645851630193, "edge": 0.05849645851630192, "size": 2.0, "type": "PAPER", "pnl": 0.0, "status": "OPEN", "is_morning": 0, "timestamp": "2026-04-22T12:33:56.009410"}}
+{"timestamp": "2026-04-22T12:39:03.445964", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:40:23.378335", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:44:18.877717", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:46:05.539077", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:51:21.142133", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:53:22.289725", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}
+{"timestamp": "2026-04-22T12:58:39.950237", "action": "SCAN_COMPLETE", "details": {"weather_count": 44, "total_scanned": 3000}}

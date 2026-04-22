@@ -1,0 +1,2 @@
+description = "📝 View the current AI-generated trading rules"
+prompt = "Show the current trading rules and configuration being used by the bot."

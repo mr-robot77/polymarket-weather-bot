@@ -1,0 +1,17 @@
+description = "🚀 Show help and commands"
+prompt = """
+🚀 **Weather Trading Bot Help**
+
+report - 📊 Enhanced P&L report(Last 24h & Weekly)
+status - 🤖 Detailed bot health and last scan info
+stats - 💰 Total bankroll and all-time trade statistics
+markets - 🔍 View currently active weather markets
+cities - 🏙 View monitored cities
+logs - 📡 View the last 10 market scans
+analyst - 🧠 View latest AI optimization insights
+rules - 📝 View the current AI-generated trading rules
+wisdom - 🧘 View the bot's strategic journal
+reflect - 🧠 Trigger self-improvement
+restart - 🔄 Restart the bot process
+help - 🚀 Show help and commands
+"""

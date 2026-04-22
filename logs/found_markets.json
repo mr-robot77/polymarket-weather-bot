@@ -1,0 +1,1149 @@
+{
+  "timestamp": "2026-04-22T12:58:39.952946",
+  "markets": [
+    {
+      "id": "678691",
+      "question": "Will 2026 rank as the sixth-hottest year on record or lower?",
+      "title": "Will 2026 rank as the sixth-hottest year on record or lower?",
+      "city": "Where",
+      "date": "Unknown",
+      "min_temp": -Infinity,
+      "max_temp": 2026.0,
+      "tokens": [
+        {
+          "price": 0.0225
+        },
+        {
+          "price": 0.9775
+        }
+      ],
+      "clobTokenIds": [
+        "100089942478247842028749951289465207065086650624241682127064158051748974066771",
+        "115397601203343827736128882523157817143467686822353093515494427404337634837177"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-2026-rank-as-the-sixth-hottest-year-on-record-or-lower"
+    },
+    {
+      "id": "1694903",
+      "question": "Will global temperature increase by less than 1.10\u00baC in April 2026?",
+      "title": "Will global temperature increase by less than 1.10\u00baC in April 2026?",
+      "city": "Global",
+      "date": "April 15",
+      "min_temp": -Infinity,
+      "max_temp": 1.1,
+      "tokens": [
+        {
+          "price": 0.0285
+        },
+        {
+          "price": 0.9715
+        }
+      ],
+      "clobTokenIds": [
+        "106987232092119331851503756323253833748533577200200880319563791965438288110964",
+        "97083233676415655602978668500073083175234758634138990962830586540458181707974"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-global-temperature-increase-by-less-than-1pt10c-in-april-2026"
+    },
+    {
+      "id": "1694905",
+      "question": "Will global temperature increase by between 1.15\u00baC and 1.19\u00baC in April 2026?",
+      "title": "Will global temperature increase by between 1.15\u00baC and 1.19\u00baC in April 2026?",
+      "city": "Global",
+      "date": "April 15",
+      "min_temp": 1.15,
+      "max_temp": 1.19,
+      "tokens": [
+        {
+          "price": 0.59
+        },
+        {
+          "price": 0.41
+        }
+      ],
+      "clobTokenIds": [
+        "47912081354368752767254821044160664293940278577709430548636918533805003410858",
+        "42264990790083529484996533877118007470885312480685442874185209424273938260895"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-global-temperature-increase-by-between-1pt15c-and-1pt19c-in-april-2026"
+    },
+    {
+      "id": "1694907",
+      "question": "Will global temperature increase by between 1.25\u00baC and 1.29\u00baC in April 2026?",
+      "title": "Will global temperature increase by between 1.25\u00baC and 1.29\u00baC in April 2026?",
+      "city": "Global",
+      "date": "April 15",
+      "min_temp": 1.25,
+      "max_temp": 1.29,
+      "tokens": [
+        {
+          "price": 0.055
+        },
+        {
+          "price": 0.945
+        }
+      ],
+      "clobTokenIds": [
+        "106553161893936609284085859686549432912399261646114889978383051839095808456226",
+        "110996122142356798921446777179812057897204147067618359685872706064436527428083"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-global-temperature-increase-by-between-1pt25c-and-1pt29c-in-april-2026"
+    },
+    {
+      "id": "1694904",
+      "question": "Will global temperature increase by between 1.10\u00baC and 1.14\u00baC in April 2026?",
+      "title": "Will global temperature increase by between 1.10\u00baC and 1.14\u00baC in April 2026?",
+      "city": "Global",
+      "date": "April 15",
+      "min_temp": 1.1,
+      "max_temp": 1.14,
+      "tokens": [
+        {
+          "price": 0.135
+        },
+        {
+          "price": 0.865
+        }
+      ],
+      "clobTokenIds": [
+        "83031633810830454586089400562573867845758918681662321838538333106997367910495",
+        "13277122919740584923850350734235494122141565323723447393395572649873310835489"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-global-temperature-increase-by-between-1pt10c-and-1pt14c-in-april-2026"
+    },
+    {
+      "id": "1694906",
+      "question": "Will global temperature increase by between 1.20\u00baC and 1.24\u00baC in April 2026?",
+      "title": "Will global temperature increase by between 1.20\u00baC and 1.24\u00baC in April 2026?",
+      "city": "Global",
+      "date": "April 15",
+      "min_temp": 1.2,
+      "max_temp": 1.24,
+      "tokens": [
+        {
+          "price": 0.2
+        },
+        {
+          "price": 0.8
+        }
+      ],
+      "clobTokenIds": [
+        "102878482636468471949240361047222114562647035458708031344718178863860116167492",
+        "106000698254753594145475179399411432795450159364071929531660009164988756600355"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-global-temperature-increase-by-between-1pt20c-and-1pt24c-in-april-2026"
+    },
+    {
+      "id": "1694908",
+      "question": "Will global temperature increase by more than 1.29\u00baC in April 2026?",
+      "title": "Will global temperature increase by more than 1.29\u00baC in April 2026?",
+      "city": "Global",
+      "date": "April 15",
+      "min_temp": 1.29,
+      "max_temp": Infinity,
+      "tokens": [
+        {
+          "price": 0.016
+        },
+        {
+          "price": 0.984
+        }
+      ],
+      "clobTokenIds": [
+        "72712740388988248397918784219019841330515559089076202525436708188625999631932",
+        "40835657787443233781833789358047899630918486545889842453898520644328240744361"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-global-temperature-increase-by-more-than-1pt29c-in-april-2026"
+    },
+    {
+      "id": "1706748",
+      "question": "Will NYC have between 2 and 3 inches of precipitation in April?",
+      "title": "Will NYC have between 2 and 3 inches of precipitation in April?",
+      "city": "NYC",
+      "date": "April 15",
+      "min_temp": 2.0,
+      "max_temp": 3.0,
+      "tokens": [
+        {
+          "price": 0.19
+        },
+        {
+          "price": 0.81
+        }
+      ],
+      "clobTokenIds": [
+        "57717856028673081345303128109015080562494302867554416950233761232695249915662",
+        "32747138681252305988147528091486601023418842016923374259511113654967803479901"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-nyc-have-between-2-and-3-inches-of-precipitation-in-april"
+    },
+    {
+      "id": "1706750",
+      "question": "Will NYC have between 4 and 5 inches of precipitation in April?",
+      "title": "Will NYC have between 4 and 5 inches of precipitation in April?",
+      "city": "NYC",
+      "date": "April 15",
+      "min_temp": 4.0,
+      "max_temp": 5.0,
+      "tokens": [
+        {
+          "price": 0.0285
+        },
+        {
+          "price": 0.9715
+        }
+      ],
+      "clobTokenIds": [
+        "38679765460776857702389947054377992633599597542595771560869429379299521731835",
+        "105656987984677964230731072321424231536235516751704140113736195118968068721879"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-nyc-have-between-4-and-5-inches-of-precipitation-in-april"
+    },
+    {
+      "id": "1706752",
+      "question": "Will NYC have more than 6 inches of precipitation in April?",
+      "title": "Will NYC have more than 6 inches of precipitation in April?",
+      "city": "NYC",
+      "date": "April 15",
+      "min_temp": 6.0,
+      "max_temp": Infinity,
+      "tokens": [
+        {
+          "price": 0.0055
+        },
+        {
+          "price": 0.9945
+        }
+      ],
+      "clobTokenIds": [
+        "9373905957428255851627268951834119471711710373532961329118350591390007403422",
+        "52656916955966357222679759449392743818707500494855180164198342076402126515773"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-nyc-have-more-than-6-inches-of-precipitation-in-april"
+    },
+    {
+      "id": "1706747",
+      "question": "Will NYC have less than 2 inches of precipitation in April?",
+      "title": "Will NYC have less than 2 inches of precipitation in April?",
+      "city": "NYC",
+      "date": "April 15",
+      "min_temp": -Infinity,
+      "max_temp": 2.0,
+      "tokens": [
+        {
+          "price": 0.614
+        },
+        {
+          "price": 0.386
+        }
+      ],
+      "clobTokenIds": [
+        "63858500713747176478752584758430988416303383429767388459076590340933799417431",
+        "113409880230292298233407295132840039308407512477092152217529840507076789827749"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-nyc-have-less-than-2-inches-of-precipitation-in-april"
+    },
+    {
+      "id": "1706749",
+      "question": "Will NYC have between 3 and 4 inches of precipitation in April?",
+      "title": "Will NYC have between 3 and 4 inches of precipitation in April?",
+      "city": "NYC",
+      "date": "April 15",
+      "min_temp": 3.0,
+      "max_temp": 4.0,
+      "tokens": [
+        {
+          "price": 0.035
+        },
+        {
+          "price": 0.965
+        }
+      ],
+      "clobTokenIds": [
+        "54564975463869910781542885878223241849111760184699124229806291047131802684420",
+        "76069768608584606270238845356415784893324601326284637785064814886830024212732"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-nyc-have-between-3-and-4-inches-of-precipitation-in-april"
+    },
+    {
+      "id": "1706751",
+      "question": "Will NYC have between 5 and 6 inches of precipitation in April?",
+      "title": "Will NYC have between 5 and 6 inches of precipitation in April?",
+      "city": "NYC",
+      "date": "April 15",
+      "min_temp": 5.0,
+      "max_temp": 6.0,
+      "tokens": [
+        {
+          "price": 0.0325
+        },
+        {
+          "price": 0.9675
+        }
+      ],
+      "clobTokenIds": [
+        "3236036260460672637007991323436387352941839394204335078275058887362912930017",
+        "40088428823061489878476890620161143726440108841689257260099744262279067754640"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-nyc-have-between-5-and-6-inches-of-precipitation-in-april"
+    },
+    {
+      "id": "1706781",
+      "question": "Will Seattle have less than 2.5 inches of precipitation in April?",
+      "title": "Will Seattle have less than 2.5 inches of precipitation in April?",
+      "city": "Seattle",
+      "date": "April 15",
+      "min_temp": -Infinity,
+      "max_temp": 2.5,
+      "tokens": [
+        {
+          "price": 0.0295
+        },
+        {
+          "price": 0.9705
+        }
+      ],
+      "clobTokenIds": [
+        "53270242580199775244739616936040427217548620923217168382658945156600832041421",
+        "90576173359779419595999169180604380741133232551765998963975131125856594678690"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-less-than-2pt5-inches-of-precipitation-in-april"
+    },
+    {
+      "id": "1706782",
+      "question": "Will Seattle have between 2.5 and 3 inches of precipitation in April?",
+      "title": "Will Seattle have between 2.5 and 3 inches of precipitation in April?",
+      "city": "Seattle",
+      "date": "April 15",
+      "min_temp": 2.5,
+      "max_temp": 3.0,
+      "tokens": [
+        {
+          "price": 0.605
+        },
+        {
+          "price": 0.395
+        }
+      ],
+      "clobTokenIds": [
+        "112795100969695566108112390291347818733368092386256798511842317208141869267253",
+        "13571059075027702830959952106112484916661499170878162083043324728925111700706"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-between-2pt5-and-3-inches-of-precipitation-in-april"
+    },
+    {
+      "id": "1706783",
+      "question": "Will Seattle have between 3 and 3.5 inches of precipitation in April?",
+      "title": "Will Seattle have between 3 and 3.5 inches of precipitation in April?",
+      "city": "Seattle",
+      "date": "April 15",
+      "min_temp": 3.0,
+      "max_temp": 3.5,
+      "tokens": [
+        {
+          "price": 0.235
+        },
+        {
+          "price": 0.765
+        }
+      ],
+      "clobTokenIds": [
+        "41752011864423597916233347786066068786287343816366712982702683219216947590794",
+        "68716002330443385375925285537216626854795594394956800780614716947057523434027"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-between-3-and-3pt5-inches-of-precipitation-in-april"
+    },
+    {
+      "id": "1706784",
+      "question": "Will Seattle have between 3.5 and 4 inches of precipitation in April?",
+      "title": "Will Seattle have between 3.5 and 4 inches of precipitation in April?",
+      "city": "Seattle",
+      "date": "April 15",
+      "min_temp": 3.5,
+      "max_temp": 4.0,
+      "tokens": [
+        {
+          "price": 0.0065
+        },
+        {
+          "price": 0.9935
+        }
+      ],
+      "clobTokenIds": [
+        "35870414777226076640576583989491301683276157386778726951190076667859686394188",
+        "63437460552674174449939745781151557721378183758882216519266162809905954275944"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-between-3pt5-and-4-inches-of-precipitation-in-april"
+    },
+    {
+      "id": "1706785",
+      "question": "Will Seattle have between 4 and 4.5 inches of precipitation in April?",
+      "title": "Will Seattle have between 4 and 4.5 inches of precipitation in April?",
+      "city": "Seattle",
+      "date": "April 15",
+      "min_temp": 4.0,
+      "max_temp": 4.5,
+      "tokens": [
+        {
+          "price": 0.0225
+        },
+        {
+          "price": 0.9775
+        }
+      ],
+      "clobTokenIds": [
+        "70552751979891009675796525023310834393496378305601899247774135035851384497901",
+        "8914940939307638544669961685130124348027569290088544505085205292518863638242"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-between-4-and-4pt5-inches-of-precipitation-in-april"
+    },
+    {
+      "id": "1706786",
+      "question": "Will Seattle have between 4.5 and 5 inches of precipitation in April?",
+      "title": "Will Seattle have between 4.5 and 5 inches of precipitation in April?",
+      "city": "Seattle",
+      "date": "April 15",
+      "min_temp": 4.5,
+      "max_temp": 5.0,
+      "tokens": [
+        {
+          "price": 0.017
+        },
+        {
+          "price": 0.983
+        }
+      ],
+      "clobTokenIds": [
+        "9801831286557416759167454308209223593666858045954832198007274378054436674477",
+        "70729635647933933445554638663966796270634571472272554051708122262188974166773"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-between-4pt5-and-5-inches-of-precipitation-in-april"
+    },
+    {
+      "id": "1706787",
+      "question": "Will Seattle have more than 5 inches of precipitation in April?",
+      "title": "Will Seattle have more than 5 inches of precipitation in April?",
+      "city": "Seattle",
+      "date": "April 15",
+      "min_temp": 5.0,
+      "max_temp": Infinity,
+      "tokens": [
+        {
+          "price": 0.009
+        },
+        {
+          "price": 0.991
+        }
+      ],
+      "clobTokenIds": [
+        "64321315309196868534395626259825880646987926515506770089504973056321990696675",
+        "76016199602151777057327089553647593207277786039636303696313198701040353357664"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-more-than-5-inches-of-precipitation-in-april"
+    },
+    {
+      "id": "1706816",
+      "question": "Will London have less than 20mm of precipitation in April?",
+      "title": "Will London have less than 20mm of precipitation in April?",
+      "city": "London",
+      "date": "April 15",
+      "min_temp": -Infinity,
+      "max_temp": 20.0,
+      "tokens": [
+        {
+          "price": 0.834
+        },
+        {
+          "price": 0.166
+        }
+      ],
+      "clobTokenIds": [
+        "53777716639291851441970211467973069733521406694501496079437082964010476618058",
+        "86993217358886279990837420918051945346125508613936973444268220881199647792817"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-less-than-20mm-of-precipitation-in-april"
+    },
+    {
+      "id": "1706817",
+      "question": "Will London have between 20-30mm of precipitation in April?",
+      "title": "Will London have between 20-30mm of precipitation in April?",
+      "city": "London",
+      "date": "April 15",
+      "min_temp": 20.0,
+      "max_temp": 30.0,
+      "tokens": [
+        {
+          "price": 0.047
+        },
+        {
+          "price": 0.953
+        }
+      ],
+      "clobTokenIds": [
+        "45714514058704895778940197125906188973638001031577187897315881892547241896658",
+        "8869264450280198229642937143136660591808169272311581468695456529716555559521"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-between-20-30mm-of-precipitation-in-april"
+    },
+    {
+      "id": "1706818",
+      "question": "Will London have between 30-40mm of precipitation in April?",
+      "title": "Will London have between 30-40mm of precipitation in April?",
+      "city": "London",
+      "date": "April 15",
+      "min_temp": 30.0,
+      "max_temp": 40.0,
+      "tokens": [
+        {
+          "price": 0.0155
+        },
+        {
+          "price": 0.9845
+        }
+      ],
+      "clobTokenIds": [
+        "82150514435328701446965256271743448012395846166106769480258928530246123624288",
+        "37946940750431822990595780729500227086921923506708666207257370217552509046218"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-between-30-40mm-of-precipitation-in-april"
+    },
+    {
+      "id": "1706819",
+      "question": "Will London have between 40-50mm of precipitation in April?",
+      "title": "Will London have between 40-50mm of precipitation in April?",
+      "city": "London",
+      "date": "April 15",
+      "min_temp": 40.0,
+      "max_temp": 50.0,
+      "tokens": [
+        {
+          "price": 0.0135
+        },
+        {
+          "price": 0.9865
+        }
+      ],
+      "clobTokenIds": [
+        "65563283087987011069558737631162335477444554396644512455829568385108758182168",
+        "34384979072293025162000885341415898201252850741275454617304210698845936650747"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-between-40-50mm-of-precipitation-in-april"
+    },
+    {
+      "id": "1706820",
+      "question": "Will London have between 50-60mm of precipitation in April?",
+      "title": "Will London have between 50-60mm of precipitation in April?",
+      "city": "London",
+      "date": "April 15",
+      "min_temp": 50.0,
+      "max_temp": 60.0,
+      "tokens": [
+        {
+          "price": 0.0205
+        },
+        {
+          "price": 0.9795
+        }
+      ],
+      "clobTokenIds": [
+        "87362869043815415940903363721462771791262464210423919428026149680871155647274",
+        "60030731254526976509675057139938616811270489215932221506794189970360011254652"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-between-50-60mm-of-precipitation-in-april"
+    },
+    {
+      "id": "1706821",
+      "question": "Will London have between 60-70mm of precipitation in April?",
+      "title": "Will London have between 60-70mm of precipitation in April?",
+      "city": "London",
+      "date": "April 15",
+      "min_temp": 60.0,
+      "max_temp": 70.0,
+      "tokens": [
+        {
+          "price": 0.011
+        },
+        {
+          "price": 0.989
+        }
+      ],
+      "clobTokenIds": [
+        "2746457331672491950060854244708000600611295563432210086634847364586036886180",
+        "115221606776810810356285017664504169176270758291237520375110077325828245180622"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-between-60-70mm-of-precipitation-in-april"
+    },
+    {
+      "id": "1706822",
+      "question": "Will London have 70mm or more of precipitation in April?",
+      "title": "Will London have 70mm or more of precipitation in April?",
+      "city": "London",
+      "date": "April 15",
+      "min_temp": 70.0,
+      "max_temp": Infinity,
+      "tokens": [
+        {
+          "price": 0.0065
+        },
+        {
+          "price": 0.9935
+        }
+      ],
+      "clobTokenIds": [
+        "114316844919846542286196454453267019941369308272383558367555926780720605957053",
+        "31627382811422686586565965327573384011509376055192212165183374550737036295830"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-70mm-or-more-of-precipitation-in-april"
+    },
+    {
+      "id": "1706917",
+      "question": "Will Seoul have less than 40mm of precipitation in April?",
+      "title": "Will Seoul have less than 40mm of precipitation in April?",
+      "city": "Seoul",
+      "date": "April 15",
+      "min_temp": -Infinity,
+      "max_temp": 40.0,
+      "tokens": [
+        {
+          "price": 0.17
+        },
+        {
+          "price": 0.83
+        }
+      ],
+      "clobTokenIds": [
+        "75998283769261212106237079743048877510988962496689040969754882508194936783820",
+        "19610087982563117505870309714470345645808319183325606266239218452514346149255"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-less-than-40mm-of-precipitation-in-april"
+    },
+    {
+      "id": "1706918",
+      "question": "Will Seoul have between 40-45mm of precipitation in April?",
+      "title": "Will Seoul have between 40-45mm of precipitation in April?",
+      "city": "Seoul",
+      "date": "April 15",
+      "min_temp": 40.0,
+      "max_temp": 45.0,
+      "tokens": [
+        {
+          "price": 0.077
+        },
+        {
+          "price": 0.923
+        }
+      ],
+      "clobTokenIds": [
+        "102887305074597757992181125002526718437277015777878152090525694942980576577367",
+        "107960339552778815946919482222058642602004631106068302276885553770488835214209"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-between-40-45mm-of-precipitation-in-april-944"
+    },
+    {
+      "id": "1706919",
+      "question": "Will Seoul have between 45-50mm of precipitation in April?",
+      "title": "Will Seoul have between 45-50mm of precipitation in April?",
+      "city": "Seoul",
+      "date": "April 15",
+      "min_temp": 45.0,
+      "max_temp": 50.0,
+      "tokens": [
+        {
+          "price": 0.0945
+        },
+        {
+          "price": 0.9055
+        }
+      ],
+      "clobTokenIds": [
+        "66788153351740591090546128074792904238503739664242498153481323467257406176946",
+        "66182779234145673022860287205597071562333677157497587883000372567695053125331"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-between-45-50mm-of-precipitation-in-april-476"
+    },
+    {
+      "id": "1706921",
+      "question": "Will Seoul have between 55-60mm of precipitation in April?",
+      "title": "Will Seoul have between 55-60mm of precipitation in April?",
+      "city": "Seoul",
+      "date": "April 15",
+      "min_temp": 55.0,
+      "max_temp": 60.0,
+      "tokens": [
+        {
+          "price": 0.105
+        },
+        {
+          "price": 0.895
+        }
+      ],
+      "clobTokenIds": [
+        "71571058009811790230236303057487580514893112640228607636625751565495968810479",
+        "19385020785585862153559525157840474653795833025160164084677767253503388533671"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-between-55-60mm-of-precipitation-in-april-424"
+    },
+    {
+      "id": "1706923",
+      "question": "Will Seoul have between 65-70mm of precipitation in April?",
+      "title": "Will Seoul have between 65-70mm of precipitation in April?",
+      "city": "Seoul",
+      "date": "April 15",
+      "min_temp": 65.0,
+      "max_temp": 70.0,
+      "tokens": [
+        {
+          "price": 0.075
+        },
+        {
+          "price": 0.925
+        }
+      ],
+      "clobTokenIds": [
+        "5815584123765486525238743828876381401352710545203035076653062427306498397313",
+        "87402056611935463634276278245048348045090534329056956062177829410434845563326"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-between-65-70mm-of-precipitation-in-april"
+    },
+    {
+      "id": "1706920",
+      "question": "Will Seoul have between 50-55mm of precipitation in April?",
+      "title": "Will Seoul have between 50-55mm of precipitation in April?",
+      "city": "Seoul",
+      "date": "April 15",
+      "min_temp": 50.0,
+      "max_temp": 55.0,
+      "tokens": [
+        {
+          "price": 0.32
+        },
+        {
+          "price": 0.68
+        }
+      ],
+      "clobTokenIds": [
+        "106233315175160473328318993499737059767105810587804485087697688627939677056529",
+        "23538978310834784352173959420760595805233354106479785408659708270272196869292"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-between-50-55mm-of-precipitation-in-april-542"
+    },
+    {
+      "id": "1706922",
+      "question": "Will Seoul have between 60-65mm of precipitation in April?",
+      "title": "Will Seoul have between 60-65mm of precipitation in April?",
+      "city": "Seoul",
+      "date": "April 15",
+      "min_temp": 60.0,
+      "max_temp": 65.0,
+      "tokens": [
+        {
+          "price": 0.037
+        },
+        {
+          "price": 0.963
+        }
+      ],
+      "clobTokenIds": [
+        "100291409222064562653629619982800495665097374415538832893491136708150543578582",
+        "57296474783321074044361151373345686910720374867273140473264049994079043441830"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-between-60-65mm-of-precipitation-in-april"
+    },
+    {
+      "id": "1706924",
+      "question": "Will Seoul have 75mm or more of precipitation in April?",
+      "title": "Will Seoul have 75mm or more of precipitation in April?",
+      "city": "Seoul",
+      "date": "April 15",
+      "min_temp": 75.0,
+      "max_temp": Infinity,
+      "tokens": [
+        {
+          "price": 0.1805
+        },
+        {
+          "price": 0.8195
+        }
+      ],
+      "clobTokenIds": [
+        "111222310570874473303331860468671620492417722610328913506749808783114054684424",
+        "1046439987394804090609093637496393959224815445519095024494638839765292066385"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-75mm-or-more-of-precipitation-in-april"
+    },
+    {
+      "id": "1709736",
+      "question": "Will Seoul have between 70-75mm of precipitation in April?-N5ag",
+      "title": "Will Seoul have between 70-75mm of precipitation in April?-N5ag",
+      "city": "Seoul",
+      "date": "April 15",
+      "min_temp": 70.0,
+      "max_temp": 75.0,
+      "tokens": [
+        {
+          "price": 0.0285
+        },
+        {
+          "price": 0.9715
+        }
+      ],
+      "clobTokenIds": [
+        "35768723277763411095105601898958091329040538004916174119383429609642733359457",
+        "2161311997478162475824719835453940416727218997861499649189396476630844699756"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-between-70-75mm-of-precipitation-in-april-n5ag"
+    },
+    {
+      "id": "1706968",
+      "question": "Will Hong Kong have less than 130mm of precipitation in April?",
+      "title": "Will Hong Kong have less than 130mm of precipitation in April?",
+      "city": "Hong",
+      "date": "April 15",
+      "min_temp": -Infinity,
+      "max_temp": 130.0,
+      "tokens": [
+        {
+          "price": 0.29
+        },
+        {
+          "price": 0.71
+        }
+      ],
+      "clobTokenIds": [
+        "98906062461510535586631381531077085231989661123259004829185140185577608818147",
+        "49450174885174993934224640542155260149878605860285530906618318790024342895781"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-less-than-130mm-of-precipitation-in-april"
+    },
+    {
+      "id": "1706969",
+      "question": "Will Hong Kong have between 150-160mm of precipitation in April?",
+      "title": "Will Hong Kong have between 150-160mm of precipitation in April?",
+      "city": "Hong",
+      "date": "April 15",
+      "min_temp": 150.0,
+      "max_temp": 160.0,
+      "tokens": [
+        {
+          "price": 0.07
+        },
+        {
+          "price": 0.93
+        }
+      ],
+      "clobTokenIds": [
+        "52546233861182499997762586244753042379717226230495924787176149819842279265598",
+        "32520120002781265422194189933832530443993817309117233285256143435947879741111"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-between-150-160mm-of-precipitation-in-april-243"
+    },
+    {
+      "id": "1706970",
+      "question": "Will Hong Kong have between 160-170mm of precipitation in April?",
+      "title": "Will Hong Kong have between 160-170mm of precipitation in April?",
+      "city": "Hong",
+      "date": "April 15",
+      "min_temp": 160.0,
+      "max_temp": 170.0,
+      "tokens": [
+        {
+          "price": 0.0265
+        },
+        {
+          "price": 0.9735
+        }
+      ],
+      "clobTokenIds": [
+        "2556232814217599030070702253678867727331230335745462815324829884113872749925",
+        "74794637965815789002923980141515821859738301337820315174800323762152589335243"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-between-160-170mm-of-precipitation-in-april-826"
+    },
+    {
+      "id": "1706971",
+      "question": "Will Hong Kong have between 140-150mm of precipitation in April?",
+      "title": "Will Hong Kong have between 140-150mm of precipitation in April?",
+      "city": "Hong",
+      "date": "April 15",
+      "min_temp": 140.0,
+      "max_temp": 150.0,
+      "tokens": [
+        {
+          "price": 0.0835
+        },
+        {
+          "price": 0.9165
+        }
+      ],
+      "clobTokenIds": [
+        "70676744051081469416130258767731506460718448530817081792142497561870804363590",
+        "34650137354375127319809926746412791797205977660533256771910912340160918551284"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-between-140-150mm-of-precipitation-in-april"
+    },
+    {
+      "id": "1706972",
+      "question": "Will Hong Kong have between 130-140mm of precipitation in April?",
+      "title": "Will Hong Kong have between 130-140mm of precipitation in April?",
+      "city": "Hong",
+      "date": "April 15",
+      "min_temp": 130.0,
+      "max_temp": 140.0,
+      "tokens": [
+        {
+          "price": 0.06
+        },
+        {
+          "price": 0.94
+        }
+      ],
+      "clobTokenIds": [
+        "97738558804277141927972573829229114023450757138564500197098582252832384722364",
+        "50907292568198646309024440406724052040306891898858097936647544959872842349886"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-between-130-140mm-of-precipitation-in-april"
+    },
+    {
+      "id": "1706973",
+      "question": "Will Hong Kong have between 170-180mm of precipitation in April?",
+      "title": "Will Hong Kong have between 170-180mm of precipitation in April?",
+      "city": "Hong",
+      "date": "April 15",
+      "min_temp": 170.0,
+      "max_temp": 180.0,
+      "tokens": [
+        {
+          "price": 0.0265
+        },
+        {
+          "price": 0.9735
+        }
+      ],
+      "clobTokenIds": [
+        "4541887439733988317173314625441364478327336439374978958262376719272046336076",
+        "98227670205427414734451407204651910678112634919704685968701685925638313817020"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-between-170-180mm-of-precipitation-in-april"
+    },
+    {
+      "id": "1706974",
+      "question": "Will Hong Kong have 190mm or more of precipitation in April?",
+      "title": "Will Hong Kong have 190mm or more of precipitation in April?",
+      "city": "Hong",
+      "date": "April 15",
+      "min_temp": 190.0,
+      "max_temp": Infinity,
+      "tokens": [
+        {
+          "price": 0.5
+        },
+        {
+          "price": 0.5
+        }
+      ],
+      "clobTokenIds": [
+        "37367453466831626125930039071273184106603208145947020176960779036055689111487",
+        "77522907997678363814420332490788367548625268325154952038591462626650822595625"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-190mm-or-more-of-precipitation-in-april-275"
+    },
+    {
+      "id": "1709745",
+      "question": "Will Hong Kong have between 180-190mm of precipitation in April?",
+      "title": "Will Hong Kong have between 180-190mm of precipitation in April?",
+      "city": "Hong",
+      "date": "April 15",
+      "min_temp": 180.0,
+      "max_temp": 190.0,
+      "tokens": [
+        {
+          "price": 0.0455
+        },
+        {
+          "price": 0.9545
+        }
+      ],
+      "clobTokenIds": [
+        "99609941704942947637656767809354423282801117990896150923090107101929673036851",
+        "34811195667197891623380302357306767084684836587963568451711717244766089106503"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-between-180-190mm-of-precipitation-in-april-648"
+    }
+  ]
+}
