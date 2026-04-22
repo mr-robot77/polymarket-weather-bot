@@ -418,15 +418,18 @@ The bot runs a built-in Telegram bot for remote control and monitoring. Send any
 
 | Command | Alias | Description |
 |---|---|---|
-| `/start` | — | Activate the bot and confirm it's running |
-| `/help` | — | Show all available commands |
-| `/report` | `/1` | 📊 Enhanced P&L report with city and time-of-day breakdown |
-| `/status` | `/2` | 🤖 Check if the bot is alive and running |
-| `/stats` | `/3` | 💰 Detailed stats: total trades, net P&L, best city, morning vs. evening win rates |
-| `/rules` | `/4` | 📝 Display the current `rules.json` trading parameters |
-| `/analyst` | `/5` | 🧠 Show the latest AI analyst optimization: edge threshold, blacklisted cities, last update |
-| `/logs` | `/6` | 📡 Show the last 10 market scan results with timestamps |
-| `/restart` | — | 🔄 Restart the bot process (systemd will bring it back up) |
+| `/report` | `/1` | 📊 Enhanced P&L report (Last 24h, Weekly, Lifetime) |
+| `/status` | `/2` | 🤖 Detailed bot health, bankroll, and last scan info |
+| `/stats` | `/3` | 💰 Total bankroll and all-time trade performance |
+| `/markets` | `/4` | 🔍 View currently active weather markets on Polymarket |
+| `/cities` | `/5` | 🏙 View the list of monitored cities and their RMSE |
+| `/logs` | `/6` | 📡 View the last 15 market scan and trade events |
+| `/analyst` | `/7` | 🧠 View latest AI optimization insights (edge threshold, blacklist) |
+| `/rules` | `/8` | 📝 View the current AI-generated trading rules (`rules.json`) |
+| `/wisdom` | `/9` | 🧘 View the bot's strategic "Wisdom Journal" |
+| `/reflect` | `/10` | 🧠 Trigger manual settlement and AI self-reflection cycle |
+| `/restart` | `/11` | 🔄 Restart the bot process remotely |
+| `/help` | `/12` | 🚀 Show all available commands and aliases |
 
 **Sample Telegram Report (`/report`):**
 
@@ -464,29 +467,24 @@ Edge: 14.30%
 
 ---
 
-## 🧠 AI Self-Improvement
+## 🧠 AI Self-Improvement (Wisdom Manager)
 
-Every 200 trades, the **Analyst Bot** is triggered automatically. It:
+Every 200 trades (or when triggered manually via `/reflect`), the **Wisdom Manager** is activated. This is the "Master Brain" of the system that:
 
-1. Reads the full trade history from `trades.db`
-2. Computes city-level and time-of-day performance statistics
-3. Sends a structured prompt to the Gemini CLI with the stats and current `rules.json`
-4. Receives recommendations for:
-   - A new `edge_threshold`
-   - Cities to add to the blacklist
-   - City-level RMSE multipliers (to recalibrate forecast confidence)
-5. Automatically overwrites `config/rules.json` with the optimized parameters
+1. **Deep Analysis**: Analyzes the last 50 trades from `trades.db`, looking for patterns in wins and losses (city, time of day, edge ranges).
+2. **Bankroll Awareness**: Factors in current bankroll and lifetime P&L to determine if the strategy should be aggressive or defensive.
+3. **Parameter Optimization**: Sends a comprehensive prompt to the Gemini AI (Master Brain) to get optimized values for:
+   - `edge_threshold`: Minimum edge required to bet.
+   - `kelly_fraction`: Risk multiplier for bet sizing.
+   - City-specific **RMSE**: Recalibrates forecast confidence based on actual performance.
+4. **Wisdom Journal**: Records a "Wisdom Insight" in `logs/wisdom_journal.json`—a profound realization about the market or strategy.
+5. **Auto-Configuration**: Automatically updates `config/rules.json` and `config/config.json` with the new parameters.
 
-**Sample Analyst Output (`/analyst`):**
+**Sample Wisdom Output (`/wisdom`):**
 
 ```
-🧠 Latest Analyst Insights
-
-📅 Last Optimization: 2026-04-20T08:00:00
-🎯 Edge Threshold: 9.50%
-🚫 Blacklisted Cities: Dallas
-
-The Analyst Bot automatically optimizes these parameters every 200 trades.
+📅 2026-04-20: Analysis shows that NYC trades are consistently over-performing at high edge levels; increasing Kelly fraction slightly for NYC markets.
+📅 2026-04-18: In periods of high volatility, the price of entry is less important than the margin of safety.
 ```
 
 > The Analyst Bot uses the [Gemini CLI](https://github.com/google-gemini/gemini-cli). Ensure it is installed and available in your `$PATH`, or set the `GEMINI_PATH` environment variable to its location.
@@ -584,11 +582,11 @@ polymarket-weather-bot/
 │   ├── polymarket_client.py # Thin wrapper around py-clob-client for order execution
 │   ├── real_trader.py       # Live order execution logic
 │   ├── paper_trader.py      # Paper trading simulation with balance tracking
-│   ├── analyst.py           # Gemini-powered AI analyst that optimizes trading rules
-│   ├── self_improver.py     # AI-driven self-improvement loop (rewrites rules.json)
+│   ├── wisdom.py            # AI Wisdom Manager (replaces analyst.py and self_improver.py)
+│   ├── settler.py           # Trade settlement logic (fetches actuals and updates PnL)
 │   ├── reporter.py          # Generates daily/weekly P&L reports and sends to Telegram
 │   ├── telegram_alerts.py   # Sends HTML-formatted trade alerts to Telegram
-│   ├── telegram_bot.py      # Interactive Telegram bot with 7 monitoring commands
+│   ├── telegram_bot.py      # Interactive Telegram bot with 12 monitoring commands
 │   ├── dashboard.py         # Rich-powered live terminal dashboard
 │   ├── logger.py            # Structured JSON action logger
 │   └── edge_detector.py     # Additional edge detection utilities
