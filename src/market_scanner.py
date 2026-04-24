@@ -8,7 +8,7 @@ class MarketScanner:
     def __init__(self):
         self.gamma_api_url = "https://gamma-api.polymarket.com/events"
 
-    def scan_weather_markets(self, pages=30):
+    def scan_weather_markets(self, pages=100):
         """
         Scans for weather-related markets on Polymarket.
         Iterates through events and their child markets.

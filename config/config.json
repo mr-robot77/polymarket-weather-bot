@@ -10,58 +10,76 @@
         "NYC": {
             "name": "New York",
             "lat": 40.7128,
-            "lon": -74.0060,
-            "rmse": 2.5,
-            "aliases": ["nyc", "new york", "new york city"]
+            "lon": -74.006,
+            "rmse": 3.0,
+            "aliases": [
+                "nyc",
+                "new york",
+                "new york city"
+            ]
         },
         "Chicago": {
             "name": "Chicago",
             "lat": 41.8781,
             "lon": -87.6298,
             "rmse": 3.0,
-            "aliases": ["chicago"]
+            "aliases": [
+                "chicago"
+            ]
         },
         "Dallas": {
             "name": "Dallas",
             "lat": 32.78,
-            "lon": -96.80,
+            "lon": -96.8,
             "rmse": 2.8,
-            "aliases": ["dallas"]
+            "aliases": [
+                "dallas"
+            ]
         },
         "Atlanta": {
             "name": "Atlanta",
             "lat": 33.749,
             "lon": -84.388,
             "rmse": 2.2,
-            "aliases": ["atlanta"]
+            "aliases": [
+                "atlanta"
+            ]
         },
         "Miami": {
             "name": "Miami",
             "lat": 25.7617,
             "lon": -80.1918,
             "rmse": 1.5,
-            "aliases": ["miami"]
+            "aliases": [
+                "miami"
+            ]
         },
         "London": {
             "name": "London",
             "lat": 51.5074,
             "lon": -0.1278,
             "rmse": 2.0,
-            "aliases": ["london"]
+            "aliases": [
+                "london"
+            ]
         },
         "Tokyo": {
             "name": "Tokyo",
             "lat": 35.6895,
             "lon": 139.6917,
             "rmse": 1.8,
-            "aliases": ["tokyo"]
+            "aliases": [
+                "tokyo"
+            ]
         },
         "LA": {
             "name": "Los Angeles",
             "lat": 34.0522,
             "lon": -118.2437,
-            "rmse": 1.2,
-            "aliases": ["la", "los angeles"]
+            "rmse": 1.5,
+            "aliases": [
+                "los angeles"
+            ]
         }
     }
 }

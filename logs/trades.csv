@@ -29,3 +29,53 @@ timestamp,market,outcome,price,prob,edge,size,type,pnl,status
 2026-04-22T11:51:05.878469,Will Hong Kong have less than 130mm of precipitation in April?,Hong,Yes,0.295,1.0,0.7050000000000001,2.0,PAPER,0.0,OPEN,1
 2026-04-22T11:56:19.687720,Will global temperature increase by less than 1.10ºC in April 2026?,Global,Yes,0.029,0.08075665923377151,0.05175665923377151,2.0,PAPER,0.0,OPEN,1
 2026-04-22T12:33:56.009410,Will global temperature increase by between 1.10ºC and 1.14ºC in April 2026?,Global,Yes,0.135,0.19349645851630193,0.05849645851630192,2.0,PAPER,0.0,OPEN,0
+2026-04-23T07:05:45.512940,Will there be 8 or more major space weather events this week?,Space,Yes,0.0095,1.0,0.9905,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:46.192296,Will the highest temperature in Toronto be 19°C or higher on April 22?,Toronto,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:46.828441,Will the highest temperature in New York City be between 70-71°F on April 22?,NYC,Yes,0.0005,0.15542174161032418,0.15492174161032418,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:47.547134,Will the highest temperature in Lagos be 39°C or higher on April 22?,LA,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:48.236983,Will the highest temperature in San Francisco be 72°F or higher on April 22?,San Francisco,Yes,0.0005,0.15865525393145707,0.15815525393145707,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:48.874332,Will the highest temperature in San Francisco be between 70-71°F on April 22?,San Francisco be,Yes,0.0005,0.19146246127401312,0.19096246127401312,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:49.526260,Will the highest temperature in London be 23°C or higher on April 23?,London,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:50.194213,Will the highest temperature in Seoul be 23°C or higher on April 23?,Seoul,Yes,0.0145,1.0,0.9855,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:50.919535,Will the lowest temperature in New York City be 58°F or higher on April 23?,NYC,Yes,0.0005,0.9999988207767835,0.9994988207767835,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:51.656124,Will the highest temperature in Tokyo be 23°C or higher on April 23?,Tokyo,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:52.284242,Will the highest temperature in Shanghai be 18°C or higher on April 23?,Shanghai,Yes,0.016,1.0,0.984,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:53.080475,Will the lowest temperature in Paris be 12°C or higher on April 23?,Paris,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:53.826023,Will the highest temperature in Sao Paulo be 33°C or higher on April 23?,Sao Paulo,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:54.507030,Will the highest temperature in Buenos Aires be 26°C or higher on April 23?,Buenos Aires,Yes,0.006,1.0,0.994,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:55.139064,Will the highest temperature in Toronto be 22°C or higher on April 23?,Toronto,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:55.791618,Will the highest temperature in Dallas be between 74-75°F on April 23?,Dallas,Yes,0.0075,0.11604353796944417,0.10854353796944416,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:57.565343,Will the highest temperature in Atlanta be between 86-87°F on April 23?,Atlanta,Yes,0.05,0.07926244644174474,0.029262446441744736,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:58.240372,Will the lowest temperature in Miami be between 76-77°F on April 23?,Miami,Yes,0.0005,0.24297066313399585,0.24247066313399585,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:58.942170,Will the highest temperature in Ankara be 13°C or higher on April 23?,Ankara,Yes,0.0025,1.0,0.9975,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:05:59.562442,Will the highest temperature in Wellington be 17°C or higher on April 23?,Wellington,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:00.289836,Will the highest temperature in Lucknow be 49°C or higher on April 23?,Lucknow,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:00.944765,Will the highest temperature in Munich be 20°C or higher on April 23?,Munich,Yes,0.0125,1.0,0.9875,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:01.621208,Will the highest temperature in Tel Aviv be 28°C or higher on April 23?,Tel Aviv,Yes,0.0045,1.0,0.9955,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:02.249044,Will the highest temperature in Hong Kong be 31°C or higher on April 23?,Hong Kong,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:02.982121,Will the highest temperature in Manila be 39°C or higher on April 23?,LA,Yes,0.0015,1.0,0.9985,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:03.683260,Will the highest temperature in Madrid be 32°C or higher on April 23?,Madrid,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:04.401275,Will the highest temperature in Warsaw be 18°C or higher on April 23?,Warsaw,Yes,0.1425,1.0,0.8575,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:05.043435,Will the highest temperature in Taipei be 36°C or higher on April 23?,Taipei,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:05.665541,Will the highest temperature in Chongqing be 30°C or higher on April 23?,Chongqing,Yes,0.003,1.0,0.997,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:06.316459,Will the highest temperature in Beijing be 32°C or higher on April 23?,Beijing,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:06.945877,Will the highest temperature in Wuhan be 25°C or higher on April 23?,Wuhan,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:07.586947,Will the highest temperature in Chengdu be 31°C or higher on April 23?,Chengdu,Yes,0.007,1.0,0.993,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:08.289357,Will the highest temperature in Shenzhen be 33°C or higher on April 23?,Shenzhen,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:08.983463,Will the highest temperature in Denver be 68°F or higher on April 23?,Denver,Yes,0.0455,0.9973645979220951,0.9518645979220951,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:09.665105,Will the highest temperature in Istanbul be 17°C or higher on April 23?,Istanbul,Yes,0.003,1.0,0.997,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:10.341506,Will the highest temperature in Busan be 23°C or higher on April 23?,Busan,Yes,0.0055,1.0,0.9945,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:11.036164,Will the highest temperature in Amsterdam be 20°C or higher on April 23?,Amsterdam,Yes,0.0015,1.0,0.9985,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:11.724376,Will the highest temperature in Helsinki be 13°C or higher on April 23?,Helsinki,Yes,0.0095,1.0,0.9905,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:12.386054,Will the highest temperature in Panama City be 31°C or higher on April 23?,Panama City,Yes,0.9425,1.0,0.057499999999999996,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:13.076319,Will the highest temperature in Jakarta be 37°C or higher on April 23?,Jakarta,Yes,0.0005,1.0,0.9995,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:13.693163,Will the highest temperature in Jeddah be 35°C or higher on April 23?,Jeddah,Yes,0.031,1.0,0.969,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:14.327144,Will the highest temperature in Cape Town be 27°C or higher on April 23?,Cape Town,Yes,0.0015,1.0,0.9985,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:14.991162,Will the highest temperature in Guangzhou be 29°C or higher on April 23?,Guangzhou,Yes,0.001,1.0,0.999,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:15.608780,Will the highest temperature in Karachi be 35°C or higher on April 23?,Karachi,Yes,0.09,1.0,0.91,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:16.243418,Will the highest temperature in London be 23°C or higher on April 24?,London,Yes,0.0015,1.0,0.9985,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:16.939053,Will the highest temperature in Paris be 25°C or higher on April 24?,Paris,Yes,0.0085,1.0,0.9915,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:17.642649,Will the lowest temperature in Seoul be 17°C or higher on April 24?,Seoul,Yes,0.0015,1.0,0.9985,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:18.263213,Will the lowest temperature in New York City be 60°F or higher on April 24?,NYC,Yes,0.0145,0.9882129426110469,0.9737129426110469,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:18.894835,Will the lowest temperature in Miami be between 78-79°F on April 24?,Miami,Yes,0.024,0.26091612608843917,0.23691612608843918,2.0,PAPER,0.0,OPEN,1
+2026-04-23T07:06:19.570423,Will the highest temperature in Tokyo be 24°C or higher on April 24?,Tokyo,Yes,0.0025,1.0,0.9975,2.0,PAPER,0.0,OPEN,1

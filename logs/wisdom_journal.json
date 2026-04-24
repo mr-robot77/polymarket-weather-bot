@@ -1,0 +1,7 @@
+[
+    {
+        "timestamp": "2026-04-23T07:11:35.052038",
+        "wisdom": "A windfall from a mistake is a warning, not a validation; true growth comes from the precision of the process, not the magnitude of the outlier.",
+        "reasoning": "The recent massive win in Lagos ($3998) is a diagnostic signal of a mapping error where 'Lagos' matched the 'LA' (Los Angeles) alias, combined with a unit-mismatch that generated an artificial edge of 0.9995 on a 2000-to-1 bet. The NYC loss at extreme odds confirms that our current tail-risk model is too aggressive at low price points. With the bankroll now at ~$5,000, we are scaling up trade limits by 10x while tightening the edge threshold and refining city definitions to prevent 'lottery' trades based on mapping collisions and data noise."
+    }
+]
