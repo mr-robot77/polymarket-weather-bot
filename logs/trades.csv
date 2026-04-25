@@ -79,3 +79,7 @@ timestamp,market,outcome,price,prob,edge,size,type,pnl,status
 2026-04-23T07:06:18.263213,Will the lowest temperature in New York City be 60°F or higher on April 24?,NYC,Yes,0.0145,0.9882129426110469,0.9737129426110469,2.0,PAPER,0.0,OPEN,1
 2026-04-23T07:06:18.894835,Will the lowest temperature in Miami be between 78-79°F on April 24?,Miami,Yes,0.024,0.26091612608843917,0.23691612608843918,2.0,PAPER,0.0,OPEN,1
 2026-04-23T07:06:19.570423,Will the highest temperature in Tokyo be 24°C or higher on April 24?,Tokyo,Yes,0.0025,1.0,0.9975,2.0,PAPER,0.0,OPEN,1
+2026-04-24T02:36:59.338134,Will London have between 60-70mm of precipitation in April?,London,Yes,0.0075,0.49999971334842813,0.4924997133484281,20.0,PAPER,0.0,OPEN,0
+2026-04-24T02:52:45.129876,Will London have between 60-70mm of precipitation in April?,London,Yes,0.0075,0.4999683287581669,0.4924683287581669,100.0,PAPER,0.0,OPEN,0
+2026-04-24T09:00:13.200935,Will London have between 60-70mm of precipitation in April?,London,Yes,0.0075,0.49911097470089155,0.49161097470089155,683.2266666666667,PAPER,0.0,OPEN,1
+2026-04-24T12:25:27.809905,Will global temperature increase by between 1.20ºC and 1.24ºC in April 2026?,Global,Yes,0.125,0.19349645851630248,0.06849645851630248,1950.3876606262124,PAPER,0.0,OPEN,0
