@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T23:56:56.545190",
+  "timestamp": "2026-04-25T23:57:31.890487",
   "markets": [
     {
       "id": "678691",
@@ -37,10 +37,10 @@
       "max_temp": 1.1,
       "tokens": [
         {
-          "price": 0.015
+          "price": 0.0335
         },
         {
-          "price": 0.985
+          "price": 0.9665
         }
       ],
       "clobTokenIds": [
@@ -63,10 +63,10 @@
       "max_temp": 1.19,
       "tokens": [
         {
-          "price": 0.665
+          "price": 0.585
         },
         {
-          "price": 0.335
+          "price": 0.415
         }
       ],
       "clobTokenIds": [
@@ -89,10 +89,10 @@
       "max_temp": 1.29,
       "tokens": [
         {
-          "price": 0.057
+          "price": 0.061
         },
         {
-          "price": 0.943
+          "price": 0.939
         }
       ],
       "clobTokenIds": [
@@ -115,10 +115,10 @@
       "max_temp": 1.14,
       "tokens": [
         {
-          "price": 0.13
+          "price": 0.225
         },
         {
-          "price": 0.87
+          "price": 0.775
         }
       ],
       "clobTokenIds": [
@@ -141,10 +141,10 @@
       "max_temp": 1.24,
       "tokens": [
         {
-          "price": 0.145
+          "price": 0.135
         },
         {
-          "price": 0.855
+          "price": 0.865
         }
       ],
       "clobTokenIds": [
@@ -167,10 +167,10 @@
       "max_temp": Infinity,
       "tokens": [
         {
-          "price": 0.0125
+          "price": 0.018
         },
         {
-          "price": 0.9875
+          "price": 0.982
         }
       ],
       "clobTokenIds": [
@@ -219,10 +219,10 @@
       "max_temp": 5.0,
       "tokens": [
         {
-          "price": 0.0125
+          "price": 0.1005
         },
         {
-          "price": 0.9875
+          "price": 0.8995
         }
       ],
       "clobTokenIds": [
@@ -245,10 +245,10 @@
       "max_temp": Infinity,
       "tokens": [
         {
-          "price": 0.0065
+          "price": 0.0025
         },
         {
-          "price": 0.9935
+          "price": 0.9975
         }
       ],
       "clobTokenIds": [
@@ -271,10 +271,10 @@
       "max_temp": 2.0,
       "tokens": [
         {
-          "price": 0.2785
+          "price": 0.174
         },
         {
-          "price": 0.7215
+          "price": 0.826
         }
       ],
       "clobTokenIds": [
@@ -297,10 +297,10 @@
       "max_temp": 4.0,
       "tokens": [
         {
-          "price": 0.1475
+          "price": 0.1975
         },
         {
-          "price": 0.8525
+          "price": 0.8025
         }
       ],
       "clobTokenIds": [
@@ -323,10 +323,10 @@
       "max_temp": 6.0,
       "tokens": [
         {
-          "price": 0.0335
+          "price": 0.017
         },
         {
-          "price": 0.9665
+          "price": 0.983
         }
       ],
       "clobTokenIds": [
@@ -349,10 +349,10 @@
       "max_temp": 2.5,
       "tokens": [
         {
-          "price": 0.0035
+          "price": 0.0005
         },
         {
-          "price": 0.9965
+          "price": 0.9995
         }
       ],
       "clobTokenIds": [
@@ -375,10 +375,10 @@
       "max_temp": 3.0,
       "tokens": [
         {
-          "price": 0.83
+          "price": 0.835
         },
         {
-          "price": 0.17
+          "price": 0.165
         }
       ],
       "clobTokenIds": [
@@ -401,10 +401,10 @@
       "max_temp": 3.5,
       "tokens": [
         {
-          "price": 0.14
+          "price": 0.13
         },
         {
-          "price": 0.86
+          "price": 0.87
         }
       ],
       "clobTokenIds": [
@@ -453,10 +453,10 @@
       "max_temp": 4.5,
       "tokens": [
         {
-          "price": 0.019
+          "price": 0.0125
         },
         {
-          "price": 0.981
+          "price": 0.9875
         }
       ],
       "clobTokenIds": [
@@ -479,10 +479,10 @@
       "max_temp": 5.0,
       "tokens": [
         {
-          "price": 0.0045
+          "price": 0.004
         },
         {
-          "price": 0.9955
+          "price": 0.996
         }
       ],
       "clobTokenIds": [
@@ -531,10 +531,10 @@
       "max_temp": 20.0,
       "tokens": [
         {
-          "price": 0.901
+          "price": 0.9175
         },
         {
-          "price": 0.099
+          "price": 0.0825
         }
       ],
       "clobTokenIds": [
@@ -557,10 +557,10 @@
       "max_temp": 30.0,
       "tokens": [
         {
-          "price": 0.0505
+          "price": 0.045
         },
         {
-          "price": 0.9495
+          "price": 0.955
         }
       ],
       "clobTokenIds": [
@@ -609,10 +609,10 @@
       "max_temp": 50.0,
       "tokens": [
         {
-          "price": 0.018
+          "price": 0.0105
         },
         {
-          "price": 0.982
+          "price": 0.9895
         }
       ],
       "clobTokenIds": [
@@ -635,10 +635,10 @@
       "max_temp": 60.0,
       "tokens": [
         {
-          "price": 0.004
+          "price": 0.0035
         },
         {
-          "price": 0.996
+          "price": 0.9965
         }
       ],
       "clobTokenIds": [
@@ -661,10 +661,10 @@
       "max_temp": 70.0,
       "tokens": [
         {
-          "price": 0.0075
+          "price": 0.0035
         },
         {
-          "price": 0.9925
+          "price": 0.9965
         }
       ],
       "clobTokenIds": [
@@ -687,10 +687,10 @@
       "max_temp": Infinity,
       "tokens": [
         {
-          "price": 0.0035
+          "price": 0.0025
         },
         {
-          "price": 0.9965
+          "price": 0.9975
         }
       ],
       "clobTokenIds": [
@@ -713,10 +713,10 @@
       "max_temp": 40.0,
       "tokens": [
         {
-          "price": 0.255
+          "price": 0.495
         },
         {
-          "price": 0.745
+          "price": 0.505
         }
       ],
       "clobTokenIds": [
@@ -739,10 +739,10 @@
       "max_temp": 45.0,
       "tokens": [
         {
-          "price": 0.046
+          "price": 0.074
         },
         {
-          "price": 0.954
+          "price": 0.926
         }
       ],
       "clobTokenIds": [
@@ -765,10 +765,10 @@
       "max_temp": 50.0,
       "tokens": [
         {
-          "price": 0.3825
+          "price": 0.1765
         },
         {
-          "price": 0.6175
+          "price": 0.8235
         }
       ],
       "clobTokenIds": [
@@ -791,10 +791,10 @@
       "max_temp": 60.0,
       "tokens": [
         {
-          "price": 0.095
+          "price": 0.14
         },
         {
-          "price": 0.905
+          "price": 0.86
         }
       ],
       "clobTokenIds": [
@@ -817,10 +817,10 @@
       "max_temp": 70.0,
       "tokens": [
         {
-          "price": 0.12
+          "price": 0.1245
         },
         {
-          "price": 0.88
+          "price": 0.8755
         }
       ],
       "clobTokenIds": [
@@ -843,10 +843,10 @@
       "max_temp": 55.0,
       "tokens": [
         {
-          "price": 0.2005
+          "price": 0.1975
         },
         {
-          "price": 0.7995
+          "price": 0.8025
         }
       ],
       "clobTokenIds": [
@@ -869,10 +869,10 @@
       "max_temp": 65.0,
       "tokens": [
         {
-          "price": 0.0385
+          "price": 0.0105
         },
         {
-          "price": 0.9615
+          "price": 0.9895
         }
       ],
       "clobTokenIds": [
@@ -895,10 +895,10 @@
       "max_temp": Infinity,
       "tokens": [
         {
-          "price": 0.0065
+          "price": 0.022
         },
         {
-          "price": 0.9935
+          "price": 0.978
         }
       ],
       "clobTokenIds": [
@@ -921,10 +921,10 @@
       "max_temp": 75.0,
       "tokens": [
         {
-          "price": 0.026
+          "price": 0.0185
         },
         {
-          "price": 0.974
+          "price": 0.9815
         }
       ],
       "clobTokenIds": [
@@ -947,10 +947,10 @@
       "max_temp": 130.0,
       "tokens": [
         {
-          "price": 0.145
+          "price": 0.175
         },
         {
-          "price": 0.855
+          "price": 0.825
         }
       ],
       "clobTokenIds": [
@@ -973,10 +973,10 @@
       "max_temp": 160.0,
       "tokens": [
         {
-          "price": 0.13
+          "price": 0.19
         },
         {
-          "price": 0.87
+          "price": 0.81
         }
       ],
       "clobTokenIds": [
@@ -999,10 +999,10 @@
       "max_temp": 170.0,
       "tokens": [
         {
-          "price": 0.006
+          "price": 0.1875
         },
         {
-          "price": 0.994
+          "price": 0.8125
         }
       ],
       "clobTokenIds": [
@@ -1025,10 +1025,10 @@
       "max_temp": 150.0,
       "tokens": [
         {
-          "price": 0.1115
+          "price": 0.2005
         },
         {
-          "price": 0.8885
+          "price": 0.7995
         }
       ],
       "clobTokenIds": [
@@ -1051,10 +1051,10 @@
       "max_temp": 140.0,
       "tokens": [
         {
-          "price": 0.192
+          "price": 0.1675
         },
         {
-          "price": 0.808
+          "price": 0.8325
         }
       ],
       "clobTokenIds": [
@@ -1077,10 +1077,10 @@
       "max_temp": 180.0,
       "tokens": [
         {
-          "price": 0.172
+          "price": 0.0565
         },
         {
-          "price": 0.828
+          "price": 0.9435
         }
       ],
       "clobTokenIds": [
@@ -1103,10 +1103,10 @@
       "max_temp": Infinity,
       "tokens": [
         {
-          "price": 0.1
+          "price": 0.105
         },
         {
-          "price": 0.9
+          "price": 0.895
         }
       ],
       "clobTokenIds": [
@@ -1129,10 +1129,10 @@
       "max_temp": 190.0,
       "tokens": [
         {
-          "price": 0.0855
+          "price": 0.037
         },
         {
-          "price": 0.9145
+          "price": 0.963
         }
       ],
       "clobTokenIds": [
