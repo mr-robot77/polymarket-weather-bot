@@ -84,3 +84,4 @@ timestamp,market,outcome,price,prob,edge,size,type,pnl,status
 2026-04-24T09:00:13.200935,Will London have between 60-70mm of precipitation in April?,London,Yes,0.0075,0.49911097470089155,0.49161097470089155,683.2266666666667,PAPER,0.0,OPEN,1
 2026-04-24T12:25:27.809905,Will global temperature increase by between 1.20ºC and 1.24ºC in April 2026?,Global,Yes,0.125,0.19349645851630248,0.06849645851630248,1950.3876606262124,PAPER,0.0,OPEN,0
 2026-04-26T08:05:15.020326,Will Seoul have between 65-70mm of precipitation in April?,Seoul,Yes,0.005,0.49379033467422384,0.48879033467422384,2497.9174452549087,PAPER,0.0,OPEN,1
+2026-04-28T13:41:19.782995,Will London have between 60-70mm of precipitation in April?,London,Yes,0.097,0.49575054406539887,0.3987505440653989,2447.959096349811,PAPER,0.0,OPEN,0
