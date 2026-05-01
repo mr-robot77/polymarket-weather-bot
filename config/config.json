@@ -31,7 +31,7 @@
             "name": "Dallas",
             "lat": 32.78,
             "lon": -96.8,
-            "rmse": 19.0,
+            "rmse": 25.0,
             "aliases": [
                 "dallas"
             ]
@@ -40,7 +40,7 @@
             "name": "Atlanta",
             "lat": 33.749,
             "lon": -84.388,
-            "rmse": 18.0,
+            "rmse": 22.0,
             "aliases": [
                 "atlanta"
             ]
@@ -49,7 +49,7 @@
             "name": "Miami",
             "lat": 25.7617,
             "lon": -80.1918,
-            "rmse": 15.5,
+            "rmse": 20.0,
             "aliases": [
                 "miami"
             ]
