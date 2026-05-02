@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T23:57:34.405962",
+  "timestamp": "2026-05-01T23:59:46.749522",
   "markets": [
     {
       "id": "678691",
@@ -11,10 +11,10 @@
       "max_temp": 2026.0,
       "tokens": [
         {
-          "price": 0.0385
+          "price": 0.036
         },
         {
-          "price": 0.9615
+          "price": 0.964
         }
       ],
       "clobTokenIds": [
@@ -37,10 +37,10 @@
       "max_temp": 1.1,
       "tokens": [
         {
-          "price": 0.002
+          "price": 0.003
         },
         {
-          "price": 0.998
+          "price": 0.997
         }
       ],
       "clobTokenIds": [
@@ -63,10 +63,10 @@
       "max_temp": 1.19,
       "tokens": [
         {
-          "price": 0.585
+          "price": 0.565
         },
         {
-          "price": 0.415
+          "price": 0.435
         }
       ],
       "clobTokenIds": [
@@ -89,10 +89,10 @@
       "max_temp": 1.29,
       "tokens": [
         {
-          "price": 0.0325
+          "price": 0.019
         },
         {
-          "price": 0.9675
+          "price": 0.981
         }
       ],
       "clobTokenIds": [
@@ -115,10 +115,10 @@
       "max_temp": 1.14,
       "tokens": [
         {
-          "price": 0.335
+          "price": 0.275
         },
         {
-          "price": 0.665
+          "price": 0.725
         }
       ],
       "clobTokenIds": [
@@ -141,10 +141,10 @@
       "max_temp": 1.24,
       "tokens": [
         {
-          "price": 0.085
+          "price": 0.1
         },
         {
-          "price": 0.915
+          "price": 0.9
         }
       ],
       "clobTokenIds": [
@@ -167,10 +167,10 @@
       "max_temp": Infinity,
       "tokens": [
         {
-          "price": 0.008
+          "price": 0.0045
         },
         {
-          "price": 0.992
+          "price": 0.9955
         }
       ],
       "clobTokenIds": [
@@ -184,344 +184,6 @@
       "market_slug": "will-global-temperature-increase-by-more-than-1pt29c-in-april-2026"
     },
     {
-      "id": "1706748",
-      "question": "Will NYC have between 2 and 3 inches of precipitation in April?",
-      "title": "Will NYC have between 2 and 3 inches of precipitation in April?",
-      "city": "NYC",
-      "date": "April 15",
-      "min_temp": 2.0,
-      "max_temp": 3.0,
-      "tokens": [
-        {
-          "price": 0.985
-        },
-        {
-          "price": 0.015
-        }
-      ],
-      "clobTokenIds": [
-        "57717856028673081345303128109015080562494302867554416950233761232695249915662",
-        "32747138681252305988147528091486601023418842016923374259511113654967803479901"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-nyc-have-between-2-and-3-inches-of-precipitation-in-april"
-    },
-    {
-      "id": "1706750",
-      "question": "Will NYC have between 4 and 5 inches of precipitation in April?",
-      "title": "Will NYC have between 4 and 5 inches of precipitation in April?",
-      "city": "NYC",
-      "date": "April 15",
-      "min_temp": 4.0,
-      "max_temp": 5.0,
-      "tokens": [
-        {
-          "price": 0.0005
-        },
-        {
-          "price": 0.9995
-        }
-      ],
-      "clobTokenIds": [
-        "38679765460776857702389947054377992633599597542595771560869429379299521731835",
-        "105656987984677964230731072321424231536235516751704140113736195118968068721879"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-nyc-have-between-4-and-5-inches-of-precipitation-in-april"
-    },
-    {
-      "id": "1706752",
-      "question": "Will NYC have more than 6 inches of precipitation in April?",
-      "title": "Will NYC have more than 6 inches of precipitation in April?",
-      "city": "NYC",
-      "date": "April 15",
-      "min_temp": 6.0,
-      "max_temp": Infinity,
-      "tokens": [
-        {
-          "price": 0.0025
-        },
-        {
-          "price": 0.9975
-        }
-      ],
-      "clobTokenIds": [
-        "9373905957428255851627268951834119471711710373532961329118350591390007403422",
-        "52656916955966357222679759449392743818707500494855180164198342076402126515773"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-nyc-have-more-than-6-inches-of-precipitation-in-april"
-    },
-    {
-      "id": "1706747",
-      "question": "Will NYC have less than 2 inches of precipitation in April?",
-      "title": "Will NYC have less than 2 inches of precipitation in April?",
-      "city": "NYC",
-      "date": "April 15",
-      "min_temp": -Infinity,
-      "max_temp": 2.0,
-      "tokens": [
-        {
-          "price": 0.001
-        },
-        {
-          "price": 0.999
-        }
-      ],
-      "clobTokenIds": [
-        "63858500713747176478752584758430988416303383429767388459076590340933799417431",
-        "113409880230292298233407295132840039308407512477092152217529840507076789827749"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-nyc-have-less-than-2-inches-of-precipitation-in-april"
-    },
-    {
-      "id": "1706749",
-      "question": "Will NYC have between 3 and 4 inches of precipitation in April?",
-      "title": "Will NYC have between 3 and 4 inches of precipitation in April?",
-      "city": "NYC",
-      "date": "April 15",
-      "min_temp": 3.0,
-      "max_temp": 4.0,
-      "tokens": [
-        {
-          "price": 0.0245
-        },
-        {
-          "price": 0.9755
-        }
-      ],
-      "clobTokenIds": [
-        "54564975463869910781542885878223241849111760184699124229806291047131802684420",
-        "76069768608584606270238845356415784893324601326284637785064814886830024212732"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-nyc-have-between-3-and-4-inches-of-precipitation-in-april"
-    },
-    {
-      "id": "1706751",
-      "question": "Will NYC have between 5 and 6 inches of precipitation in April?",
-      "title": "Will NYC have between 5 and 6 inches of precipitation in April?",
-      "city": "NYC",
-      "date": "April 15",
-      "min_temp": 5.0,
-      "max_temp": 6.0,
-      "tokens": [
-        {
-          "price": 0.0015
-        },
-        {
-          "price": 0.9985
-        }
-      ],
-      "clobTokenIds": [
-        "3236036260460672637007991323436387352941839394204335078275058887362912930017",
-        "40088428823061489878476890620161143726440108841689257260099744262279067754640"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-nyc-have-between-5-and-6-inches-of-precipitation-in-april"
-    },
-    {
-      "id": "1706781",
-      "question": "Will Seattle have less than 2.5 inches of precipitation in April?",
-      "title": "Will Seattle have less than 2.5 inches of precipitation in April?",
-      "city": "Seattle",
-      "date": "April 15",
-      "min_temp": -Infinity,
-      "max_temp": 2.5,
-      "tokens": [
-        {
-          "price": 0.001
-        },
-        {
-          "price": 0.999
-        }
-      ],
-      "clobTokenIds": [
-        "53270242580199775244739616936040427217548620923217168382658945156600832041421",
-        "90576173359779419595999169180604380741133232551765998963975131125856594678690"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-seattle-have-less-than-2pt5-inches-of-precipitation-in-april"
-    },
-    {
-      "id": "1706782",
-      "question": "Will Seattle have between 2.5 and 3 inches of precipitation in April?",
-      "title": "Will Seattle have between 2.5 and 3 inches of precipitation in April?",
-      "city": "Seattle",
-      "date": "April 15",
-      "min_temp": 2.5,
-      "max_temp": 3.0,
-      "tokens": [
-        {
-          "price": 0.9565
-        },
-        {
-          "price": 0.0435
-        }
-      ],
-      "clobTokenIds": [
-        "112795100969695566108112390291347818733368092386256798511842317208141869267253",
-        "13571059075027702830959952106112484916661499170878162083043324728925111700706"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-seattle-have-between-2pt5-and-3-inches-of-precipitation-in-april"
-    },
-    {
-      "id": "1706783",
-      "question": "Will Seattle have between 3 and 3.5 inches of precipitation in April?",
-      "title": "Will Seattle have between 3 and 3.5 inches of precipitation in April?",
-      "city": "Seattle",
-      "date": "April 15",
-      "min_temp": 3.0,
-      "max_temp": 3.5,
-      "tokens": [
-        {
-          "price": 0.003
-        },
-        {
-          "price": 0.997
-        }
-      ],
-      "clobTokenIds": [
-        "41752011864423597916233347786066068786287343816366712982702683219216947590794",
-        "68716002330443385375925285537216626854795594394956800780614716947057523434027"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-seattle-have-between-3-and-3pt5-inches-of-precipitation-in-april"
-    },
-    {
-      "id": "1706784",
-      "question": "Will Seattle have between 3.5 and 4 inches of precipitation in April?",
-      "title": "Will Seattle have between 3.5 and 4 inches of precipitation in April?",
-      "city": "Seattle",
-      "date": "April 15",
-      "min_temp": 3.5,
-      "max_temp": 4.0,
-      "tokens": [
-        {
-          "price": 0.001
-        },
-        {
-          "price": 0.999
-        }
-      ],
-      "clobTokenIds": [
-        "35870414777226076640576583989491301683276157386778726951190076667859686394188",
-        "63437460552674174449939745781151557721378183758882216519266162809905954275944"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-seattle-have-between-3pt5-and-4-inches-of-precipitation-in-april"
-    },
-    {
-      "id": "1706785",
-      "question": "Will Seattle have between 4 and 4.5 inches of precipitation in April?",
-      "title": "Will Seattle have between 4 and 4.5 inches of precipitation in April?",
-      "city": "Seattle",
-      "date": "April 15",
-      "min_temp": 4.0,
-      "max_temp": 4.5,
-      "tokens": [
-        {
-          "price": 0.0015
-        },
-        {
-          "price": 0.9985
-        }
-      ],
-      "clobTokenIds": [
-        "70552751979891009675796525023310834393496378305601899247774135035851384497901",
-        "8914940939307638544669961685130124348027569290088544505085205292518863638242"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-seattle-have-between-4-and-4pt5-inches-of-precipitation-in-april"
-    },
-    {
-      "id": "1706786",
-      "question": "Will Seattle have between 4.5 and 5 inches of precipitation in April?",
-      "title": "Will Seattle have between 4.5 and 5 inches of precipitation in April?",
-      "city": "Seattle",
-      "date": "April 15",
-      "min_temp": 4.5,
-      "max_temp": 5.0,
-      "tokens": [
-        {
-          "price": 0.0015
-        },
-        {
-          "price": 0.9985
-        }
-      ],
-      "clobTokenIds": [
-        "9801831286557416759167454308209223593666858045954832198007274378054436674477",
-        "70729635647933933445554638663966796270634571472272554051708122262188974166773"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-seattle-have-between-4pt5-and-5-inches-of-precipitation-in-april"
-    },
-    {
-      "id": "1706787",
-      "question": "Will Seattle have more than 5 inches of precipitation in April?",
-      "title": "Will Seattle have more than 5 inches of precipitation in April?",
-      "city": "Seattle",
-      "date": "April 15",
-      "min_temp": 5.0,
-      "max_temp": Infinity,
-      "tokens": [
-        {
-          "price": 0.0435
-        },
-        {
-          "price": 0.9565
-        }
-      ],
-      "clobTokenIds": [
-        "64321315309196868534395626259825880646987926515506770089504973056321990696675",
-        "76016199602151777057327089553647593207277786039636303696313198701040353357664"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-seattle-have-more-than-5-inches-of-precipitation-in-april"
-    },
-    {
       "id": "1706816",
       "question": "Will London have less than 20mm of precipitation in April?",
       "title": "Will London have less than 20mm of precipitation in April?",
@@ -531,10 +193,10 @@
       "max_temp": 20.0,
       "tokens": [
         {
-          "price": 0.9815
+          "price": 0.99
         },
         {
-          "price": 0.0185
+          "price": 0.01
         }
       ],
       "clobTokenIds": [
@@ -557,10 +219,10 @@
       "max_temp": 30.0,
       "tokens": [
         {
-          "price": 0.0135
+          "price": 0.001
         },
         {
-          "price": 0.9865
+          "price": 0.999
         }
       ],
       "clobTokenIds": [
@@ -583,10 +245,10 @@
       "max_temp": 40.0,
       "tokens": [
         {
-          "price": 0.0045
+          "price": 0.0015
         },
         {
-          "price": 0.9955
+          "price": 0.9985
         }
       ],
       "clobTokenIds": [
@@ -635,10 +297,10 @@
       "max_temp": 60.0,
       "tokens": [
         {
-          "price": 0.0015
+          "price": 0.002
         },
         {
-          "price": 0.9985
+          "price": 0.998
         }
       ],
       "clobTokenIds": [
@@ -713,10 +375,10 @@
       "max_temp": 40.0,
       "tokens": [
         {
-          "price": 0.9775
+          "price": 0.9945
         },
         {
-          "price": 0.0225
+          "price": 0.0055
         }
       ],
       "clobTokenIds": [
@@ -739,10 +401,10 @@
       "max_temp": 45.0,
       "tokens": [
         {
-          "price": 0.002
+          "price": 0.0055
         },
         {
-          "price": 0.998
+          "price": 0.9945
         }
       ],
       "clobTokenIds": [
@@ -765,10 +427,10 @@
       "max_temp": 50.0,
       "tokens": [
         {
-          "price": 0.0015
+          "price": 0.0005
         },
         {
-          "price": 0.9985
+          "price": 0.9995
         }
       ],
       "clobTokenIds": [
@@ -791,10 +453,10 @@
       "max_temp": 60.0,
       "tokens": [
         {
-          "price": 0.004
+          "price": 0.0005
         },
         {
-          "price": 0.996
+          "price": 0.9995
         }
       ],
       "clobTokenIds": [
@@ -817,10 +479,10 @@
       "max_temp": 70.0,
       "tokens": [
         {
-          "price": 0.014
+          "price": 0.0045
         },
         {
-          "price": 0.986
+          "price": 0.9955
         }
       ],
       "clobTokenIds": [
@@ -895,10 +557,10 @@
       "max_temp": Infinity,
       "tokens": [
         {
-          "price": 0.018
+          "price": 0.0045
         },
         {
-          "price": 0.982
+          "price": 0.9955
         }
       ],
       "clobTokenIds": [
@@ -947,10 +609,10 @@
       "max_temp": 130.0,
       "tokens": [
         {
-          "price": 0.005
+          "price": 0.0005
         },
         {
-          "price": 0.995
+          "price": 0.9995
         }
       ],
       "clobTokenIds": [
@@ -973,10 +635,10 @@
       "max_temp": 160.0,
       "tokens": [
         {
-          "price": 0.003
+          "price": 0.002
         },
         {
-          "price": 0.997
+          "price": 0.998
         }
       ],
       "clobTokenIds": [
@@ -999,10 +661,10 @@
       "max_temp": 170.0,
       "tokens": [
         {
-          "price": 0.9795
+          "price": 0.979
         },
         {
-          "price": 0.0205
+          "price": 0.021
         }
       ],
       "clobTokenIds": [
@@ -1025,10 +687,10 @@
       "max_temp": 150.0,
       "tokens": [
         {
-          "price": 0.003
+          "price": 0.0025
         },
         {
-          "price": 0.997
+          "price": 0.9975
         }
       ],
       "clobTokenIds": [
@@ -1051,10 +713,10 @@
       "max_temp": 140.0,
       "tokens": [
         {
-          "price": 0.0045
+          "price": 0.0005
         },
         {
-          "price": 0.9955
+          "price": 0.9995
         }
       ],
       "clobTokenIds": [
@@ -1103,10 +765,10 @@
       "max_temp": Infinity,
       "tokens": [
         {
-          "price": 0.01
+          "price": 0.018
         },
         {
-          "price": 0.99
+          "price": 0.982
         }
       ],
       "clobTokenIds": [
