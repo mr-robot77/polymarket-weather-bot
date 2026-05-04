@@ -1,6 +1,6 @@
 {
     "edge_threshold": 0.2,
-    "kelly_fraction": 0.22,
+    "kelly_fraction": 0.25,
     "max_trade_dollars": 50000.0,
     "max_market_dollars": 100000.0,
     "max_total_exposure": 1500000.0,

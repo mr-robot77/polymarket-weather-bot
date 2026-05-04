@@ -11,7 +11,7 @@
             "name": "New York",
             "lat": 40.7128,
             "lon": -74.006,
-            "rmse": 10.5,
+            "rmse": 12.0,
             "aliases": [
                 "nyc",
                 "new york",
