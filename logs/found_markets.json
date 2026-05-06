@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T23:58:39.674392",
+  "timestamp": "2026-05-05T23:55:33.770127",
   "markets": [
     {
       "id": "678691",
@@ -11,10 +11,10 @@
       "max_temp": 2026.0,
       "tokens": [
         {
-          "price": 0.0355
+          "price": 0.032
         },
         {
-          "price": 0.9645
+          "price": 0.968
         }
       ],
       "clobTokenIds": [
@@ -63,10 +63,10 @@
       "max_temp": 1.19,
       "tokens": [
         {
-          "price": 0.76
+          "price": 0.91
         },
         {
-          "price": 0.24
+          "price": 0.09
         }
       ],
       "clobTokenIds": [
@@ -89,10 +89,10 @@
       "max_temp": 1.29,
       "tokens": [
         {
-          "price": 0.007
+          "price": 0.0065
         },
         {
-          "price": 0.993
+          "price": 0.9935
         }
       ],
       "clobTokenIds": [
@@ -115,10 +115,10 @@
       "max_temp": 1.14,
       "tokens": [
         {
-          "price": 0.18
+          "price": 0.065
         },
         {
-          "price": 0.82
+          "price": 0.935
         }
       ],
       "clobTokenIds": [
@@ -141,10 +141,10 @@
       "max_temp": 1.24,
       "tokens": [
         {
-          "price": 0.06
+          "price": 0.028
         },
         {
-          "price": 0.94
+          "price": 0.972
         }
       ],
       "clobTokenIds": [
@@ -167,10 +167,10 @@
       "max_temp": Infinity,
       "tokens": [
         {
-          "price": 0.0105
+          "price": 0.0045
         },
         {
-          "price": 0.9895
+          "price": 0.9955
         }
       ],
       "clobTokenIds": [
@@ -182,188 +182,6 @@
         "No"
       ],
       "market_slug": "will-global-temperature-increase-by-more-than-1pt29c-in-april-2026"
-    },
-    {
-      "id": "1706816",
-      "question": "Will London have less than 20mm of precipitation in April?",
-      "title": "Will London have less than 20mm of precipitation in April?",
-      "city": "London",
-      "date": "April 15",
-      "min_temp": -Infinity,
-      "max_temp": 20.0,
-      "tokens": [
-        {
-          "price": 0.984
-        },
-        {
-          "price": 0.016
-        }
-      ],
-      "clobTokenIds": [
-        "53777716639291851441970211467973069733521406694501496079437082964010476618058",
-        "86993217358886279990837420918051945346125508613936973444268220881199647792817"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-london-have-less-than-20mm-of-precipitation-in-april"
-    },
-    {
-      "id": "1706817",
-      "question": "Will London have between 20-30mm of precipitation in April?",
-      "title": "Will London have between 20-30mm of precipitation in April?",
-      "city": "London",
-      "date": "April 15",
-      "min_temp": 20.0,
-      "max_temp": 30.0,
-      "tokens": [
-        {
-          "price": 0.0005
-        },
-        {
-          "price": 0.9995
-        }
-      ],
-      "clobTokenIds": [
-        "45714514058704895778940197125906188973638001031577187897315881892547241896658",
-        "8869264450280198229642937143136660591808169272311581468695456529716555559521"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-london-have-between-20-30mm-of-precipitation-in-april"
-    },
-    {
-      "id": "1706818",
-      "question": "Will London have between 30-40mm of precipitation in April?",
-      "title": "Will London have between 30-40mm of precipitation in April?",
-      "city": "London",
-      "date": "April 15",
-      "min_temp": 30.0,
-      "max_temp": 40.0,
-      "tokens": [
-        {
-          "price": 0.002
-        },
-        {
-          "price": 0.998
-        }
-      ],
-      "clobTokenIds": [
-        "82150514435328701446965256271743448012395846166106769480258928530246123624288",
-        "37946940750431822990595780729500227086921923506708666207257370217552509046218"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-london-have-between-30-40mm-of-precipitation-in-april"
-    },
-    {
-      "id": "1706819",
-      "question": "Will London have between 40-50mm of precipitation in April?",
-      "title": "Will London have between 40-50mm of precipitation in April?",
-      "city": "London",
-      "date": "April 15",
-      "min_temp": 40.0,
-      "max_temp": 50.0,
-      "tokens": [
-        {
-          "price": 0.0005
-        },
-        {
-          "price": 0.9995
-        }
-      ],
-      "clobTokenIds": [
-        "65563283087987011069558737631162335477444554396644512455829568385108758182168",
-        "34384979072293025162000885341415898201252850741275454617304210698845936650747"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-london-have-between-40-50mm-of-precipitation-in-april"
-    },
-    {
-      "id": "1706820",
-      "question": "Will London have between 50-60mm of precipitation in April?",
-      "title": "Will London have between 50-60mm of precipitation in April?",
-      "city": "London",
-      "date": "April 15",
-      "min_temp": 50.0,
-      "max_temp": 60.0,
-      "tokens": [
-        {
-          "price": 0.0015
-        },
-        {
-          "price": 0.9985
-        }
-      ],
-      "clobTokenIds": [
-        "87362869043815415940903363721462771791262464210423919428026149680871155647274",
-        "60030731254526976509675057139938616811270489215932221506794189970360011254652"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-london-have-between-50-60mm-of-precipitation-in-april"
-    },
-    {
-      "id": "1706821",
-      "question": "Will London have between 60-70mm of precipitation in April?",
-      "title": "Will London have between 60-70mm of precipitation in April?",
-      "city": "London",
-      "date": "April 15",
-      "min_temp": 60.0,
-      "max_temp": 70.0,
-      "tokens": [
-        {
-          "price": 0.0015
-        },
-        {
-          "price": 0.9985
-        }
-      ],
-      "clobTokenIds": [
-        "2746457331672491950060854244708000600611295563432210086634847364586036886180",
-        "115221606776810810356285017664504169176270758291237520375110077325828245180622"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-london-have-between-60-70mm-of-precipitation-in-april"
-    },
-    {
-      "id": "1706822",
-      "question": "Will London have 70mm or more of precipitation in April?",
-      "title": "Will London have 70mm or more of precipitation in April?",
-      "city": "London",
-      "date": "April 15",
-      "min_temp": 70.0,
-      "max_temp": Infinity,
-      "tokens": [
-        {
-          "price": 0.0005
-        },
-        {
-          "price": 0.9995
-        }
-      ],
-      "clobTokenIds": [
-        "114316844919846542286196454453267019941369308272383558367555926780720605957053",
-        "31627382811422686586565965327573384011509376055192212165183374550737036295830"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-london-have-70mm-or-more-of-precipitation-in-april"
     }
   ]
 }
