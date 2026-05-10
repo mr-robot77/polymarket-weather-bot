@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T23:59:58.564365",
+  "timestamp": "2026-05-09T23:57:11.748464",
   "markets": [
     {
       "id": "678691",
@@ -63,10 +63,10 @@
       "max_temp": 1.19,
       "tokens": [
         {
-          "price": 0.9155
+          "price": 0.9695
         },
         {
-          "price": 0.0845
+          "price": 0.0305
         }
       ],
       "clobTokenIds": [
@@ -89,10 +89,10 @@
       "max_temp": 1.29,
       "tokens": [
         {
-          "price": 0.003
+          "price": 0.0045
         },
         {
-          "price": 0.997
+          "price": 0.9955
         }
       ],
       "clobTokenIds": [
@@ -115,10 +115,10 @@
       "max_temp": 1.14,
       "tokens": [
         {
-          "price": 0.0075
+          "price": 0.006
         },
         {
-          "price": 0.9925
+          "price": 0.994
         }
       ],
       "clobTokenIds": [
@@ -167,10 +167,10 @@
       "max_temp": Infinity,
       "tokens": [
         {
-          "price": 0.0045
+          "price": 0.004
         },
         {
-          "price": 0.9955
+          "price": 0.996
         }
       ],
       "clobTokenIds": [
