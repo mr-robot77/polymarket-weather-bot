@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T23:56:33.752070",
+  "timestamp": "2026-05-11T23:58:32.592904",
   "markets": [
     {
       "id": "678691",
@@ -11,10 +11,10 @@
       "max_temp": 2026.0,
       "tokens": [
         {
-          "price": 0.0215
+          "price": 0.023
         },
         {
-          "price": 0.9785
+          "price": 0.977
         }
       ],
       "clobTokenIds": [
@@ -26,162 +26,6 @@
         "No"
       ],
       "market_slug": "will-2026-rank-as-the-sixth-hottest-year-on-record-or-lower"
-    },
-    {
-      "id": "1694903",
-      "question": "Will global temperature increase by less than 1.10\u00baC in April 2026?",
-      "title": "Will global temperature increase by less than 1.10\u00baC in April 2026?",
-      "city": "Global",
-      "date": "April 15",
-      "min_temp": -Infinity,
-      "max_temp": 1.1,
-      "tokens": [
-        {
-          "price": 0.0015
-        },
-        {
-          "price": 0.9985
-        }
-      ],
-      "clobTokenIds": [
-        "106987232092119331851503756323253833748533577200200880319563791965438288110964",
-        "97083233676415655602978668500073083175234758634138990962830586540458181707974"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-global-temperature-increase-by-less-than-1pt10c-in-april-2026"
-    },
-    {
-      "id": "1694905",
-      "question": "Will global temperature increase by between 1.15\u00baC and 1.19\u00baC in April 2026?",
-      "title": "Will global temperature increase by between 1.15\u00baC and 1.19\u00baC in April 2026?",
-      "city": "Global",
-      "date": "April 15",
-      "min_temp": 1.15,
-      "max_temp": 1.19,
-      "tokens": [
-        {
-          "price": 0.9815
-        },
-        {
-          "price": 0.0185
-        }
-      ],
-      "clobTokenIds": [
-        "47912081354368752767254821044160664293940278577709430548636918533805003410858",
-        "42264990790083529484996533877118007470885312480685442874185209424273938260895"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-global-temperature-increase-by-between-1pt15c-and-1pt19c-in-april-2026"
-    },
-    {
-      "id": "1694907",
-      "question": "Will global temperature increase by between 1.25\u00baC and 1.29\u00baC in April 2026?",
-      "title": "Will global temperature increase by between 1.25\u00baC and 1.29\u00baC in April 2026?",
-      "city": "Global",
-      "date": "April 15",
-      "min_temp": 1.25,
-      "max_temp": 1.29,
-      "tokens": [
-        {
-          "price": 0.003
-        },
-        {
-          "price": 0.997
-        }
-      ],
-      "clobTokenIds": [
-        "106553161893936609284085859686549432912399261646114889978383051839095808456226",
-        "110996122142356798921446777179812057897204147067618359685872706064436527428083"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-global-temperature-increase-by-between-1pt25c-and-1pt29c-in-april-2026"
-    },
-    {
-      "id": "1694904",
-      "question": "Will global temperature increase by between 1.10\u00baC and 1.14\u00baC in April 2026?",
-      "title": "Will global temperature increase by between 1.10\u00baC and 1.14\u00baC in April 2026?",
-      "city": "Global",
-      "date": "April 15",
-      "min_temp": 1.1,
-      "max_temp": 1.14,
-      "tokens": [
-        {
-          "price": 0.0055
-        },
-        {
-          "price": 0.9945
-        }
-      ],
-      "clobTokenIds": [
-        "83031633810830454586089400562573867845758918681662321838538333106997367910495",
-        "13277122919740584923850350734235494122141565323723447393395572649873310835489"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-global-temperature-increase-by-between-1pt10c-and-1pt14c-in-april-2026"
-    },
-    {
-      "id": "1694906",
-      "question": "Will global temperature increase by between 1.20\u00baC and 1.24\u00baC in April 2026?",
-      "title": "Will global temperature increase by between 1.20\u00baC and 1.24\u00baC in April 2026?",
-      "city": "Global",
-      "date": "April 15",
-      "min_temp": 1.2,
-      "max_temp": 1.24,
-      "tokens": [
-        {
-          "price": 0.0105
-        },
-        {
-          "price": 0.9895
-        }
-      ],
-      "clobTokenIds": [
-        "102878482636468471949240361047222114562647035458708031344718178863860116167492",
-        "106000698254753594145475179399411432795450159364071929531660009164988756600355"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-global-temperature-increase-by-between-1pt20c-and-1pt24c-in-april-2026"
-    },
-    {
-      "id": "1694908",
-      "question": "Will global temperature increase by more than 1.29\u00baC in April 2026?",
-      "title": "Will global temperature increase by more than 1.29\u00baC in April 2026?",
-      "city": "Global",
-      "date": "April 15",
-      "min_temp": 1.29,
-      "max_temp": Infinity,
-      "tokens": [
-        {
-          "price": 0.003
-        },
-        {
-          "price": 0.997
-        }
-      ],
-      "clobTokenIds": [
-        "72712740388988248397918784219019841330515559089076202525436708188625999631932",
-        "40835657787443233781833789358047899630918486545889842453898520644328240744361"
-      ],
-      "outcomes": [
-        "Yes",
-        "No"
-      ],
-      "market_slug": "will-global-temperature-increase-by-more-than-1pt29c-in-april-2026"
     }
   ]
 }
