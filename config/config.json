@@ -78,7 +78,8 @@
             "lon": -118.2437,
             "rmse": 4.5,
             "aliases": [
-                "los angeles"
+                "los angeles",
+                "la"
             ]
         }
     }
