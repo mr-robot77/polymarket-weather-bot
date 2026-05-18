@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T23:56:54.239472",
+  "timestamp": "2026-05-17T23:59:47.447515",
   "markets": [
     {
       "id": "678691",
@@ -26,6 +26,32 @@
         "No"
       ],
       "market_slug": "will-2026-rank-as-the-sixth-hottest-year-on-record-or-lower"
+    },
+    {
+      "id": "2062818",
+      "question": "Will AS Nancy Lorraine achieve promotion from Ligue 2 to Ligue 1 for the 2026-27 season?",
+      "title": "Will AS Nancy Lorraine achieve promotion from Ligue 2 to Ligue 1 for the 2026-27 season?",
+      "city": "Nancy",
+      "date": "Unknown",
+      "min_temp": 2026.0,
+      "max_temp": 27.0,
+      "tokens": [
+        {
+          "price": 0.0
+        },
+        {
+          "price": 1.0
+        }
+      ],
+      "clobTokenIds": [
+        "107647601283635258176074641663851573849686496939702134878081939783075921627371",
+        "114527327673014542008807931553360062986512465014444411532816078365059355674224"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-as-nancy-lorraine-achieve-promotion-from-ligue-2-to-ligue-1-for-the-2026-27-season"
     }
   ]
 }
