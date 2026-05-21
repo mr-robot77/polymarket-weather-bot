@@ -3,10 +3,10 @@
     "kelly_fraction": 0.25,
     "max_trade_dollars": 20000000.0,
     "max_market_dollars": 100000000.0,
-    "max_total_exposure": 500000000.0,
+    "max_total_exposure": 1000000000.0,
     "min_confidence_interval": 0.8,
     "max_trades_per_day": 50,
-    "risk_free_arb_threshold": 0.01,
+    "risk_free_arb_threshold": 0.005,
     "last_updated": "2026-04-22T17:00:00Z",
     "version": 1.4,
     "blacklist": []
