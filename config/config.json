@@ -58,7 +58,7 @@
             "name": "London",
             "lat": 51.5074,
             "lon": -0.1278,
-            "rmse": 0.2,
+            "rmse": 0.1,
             "aliases": [
                 "london"
             ]
@@ -67,7 +67,7 @@
             "name": "Tokyo",
             "lat": 35.6895,
             "lon": 139.6917,
-            "rmse": 0.4,
+            "rmse": 0.2,
             "aliases": [
                 "tokyo"
             ]

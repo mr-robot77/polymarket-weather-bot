@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T23:59:19.920086",
+  "timestamp": "2026-05-23T23:57:52.534851",
   "markets": [
     {
       "id": "678691",
@@ -52,6 +52,162 @@
         "No"
       ],
       "market_slug": "will-as-nancy-lorraine-achieve-promotion-from-ligue-2-to-ligue-1-for-the-2026-27-season"
+    },
+    {
+      "id": "2097731",
+      "question": "Will global temperature increase by less than 1.10\u00baC in May 2026?",
+      "title": "Will global temperature increase by less than 1.10\u00baC in May 2026?",
+      "city": "Global",
+      "date": "May 15",
+      "min_temp": -Infinity,
+      "max_temp": 1.1,
+      "tokens": [
+        {
+          "price": 0.19
+        },
+        {
+          "price": 0.81
+        }
+      ],
+      "clobTokenIds": [
+        "103903623902234534734643595352937207636800780581806597323199894204427802374039",
+        "110311752111731631265753302653772875938153639205296351824289654031852779561860"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-global-temperature-increase-by-less-than-1pt10c-in-may-2026"
+    },
+    {
+      "id": "2097732",
+      "question": "Will global temperature increase by between 1.10\u00baC and 1.14\u00baC in May 2026?",
+      "title": "Will global temperature increase by between 1.10\u00baC and 1.14\u00baC in May 2026?",
+      "city": "Global",
+      "date": "May 15",
+      "min_temp": 1.1,
+      "max_temp": 1.14,
+      "tokens": [
+        {
+          "price": 0.7
+        },
+        {
+          "price": 0.3
+        }
+      ],
+      "clobTokenIds": [
+        "100849003909665512702601901008742914680541396487975905426589894865849612746338",
+        "39349505308383422298904930737889989521316619460841586633207193858366843205669"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-global-temperature-increase-by-between-1pt10c-and-1pt14c-in-may-2026"
+    },
+    {
+      "id": "2097733",
+      "question": "Will global temperature increase by between 1.15\u00baC and 1.19\u00baC in May 2026?",
+      "title": "Will global temperature increase by between 1.15\u00baC and 1.19\u00baC in May 2026?",
+      "city": "Global",
+      "date": "May 15",
+      "min_temp": 1.15,
+      "max_temp": 1.19,
+      "tokens": [
+        {
+          "price": 0.046
+        },
+        {
+          "price": 0.954
+        }
+      ],
+      "clobTokenIds": [
+        "8637242611396060896158572937307688893666489086382175968067688372781636799144",
+        "42854553696974477460042112482691315891867848854165966212935885944800183753411"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-global-temperature-increase-by-between-1pt15c-and-1pt19c-in-may-2026"
+    },
+    {
+      "id": "2097734",
+      "question": "Will global temperature increase by between 1.20\u00baC and 1.24\u00baC in May 2026?",
+      "title": "Will global temperature increase by between 1.20\u00baC and 1.24\u00baC in May 2026?",
+      "city": "Global",
+      "date": "May 15",
+      "min_temp": 1.2,
+      "max_temp": 1.24,
+      "tokens": [
+        {
+          "price": 0.0095
+        },
+        {
+          "price": 0.9905
+        }
+      ],
+      "clobTokenIds": [
+        "58504283733541686385912548881986881482302729090356840975025192975989895597929",
+        "5173023764064003643379499274262110458360114539755078567561466439870453214320"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-global-temperature-increase-by-between-1pt20c-and-1pt24c-in-may-2026"
+    },
+    {
+      "id": "2097735",
+      "question": "Will global temperature increase by between 1.25\u00baC and 1.29\u00baC in May 2026?",
+      "title": "Will global temperature increase by between 1.25\u00baC and 1.29\u00baC in May 2026?",
+      "city": "Global",
+      "date": "May 15",
+      "min_temp": 1.25,
+      "max_temp": 1.29,
+      "tokens": [
+        {
+          "price": 0.008
+        },
+        {
+          "price": 0.992
+        }
+      ],
+      "clobTokenIds": [
+        "88143363252627225415206475626699250912243432659104905024981842645339081812134",
+        "13522359401451936834585357650605035536805034621226704392848623590503954527555"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-global-temperature-increase-by-between-1pt25c-and-1pt29c-in-may-2026"
+    },
+    {
+      "id": "2097736",
+      "question": "Will global temperature increase by more than 1.29\u00baC in May 2026?",
+      "title": "Will global temperature increase by more than 1.29\u00baC in May 2026?",
+      "city": "Global",
+      "date": "May 15",
+      "min_temp": 1.29,
+      "max_temp": Infinity,
+      "tokens": [
+        {
+          "price": 0.004
+        },
+        {
+          "price": 0.996
+        }
+      ],
+      "clobTokenIds": [
+        "8937313326452841650335270776677393076297373673942368234753018748051884233148",
+        "85532839899917528684562534134307522447745673439025517850284361778336297352206"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-global-temperature-increase-by-more-than-1pt29c-in-may-2026"
     }
   ]
 }
