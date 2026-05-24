@@ -87,3 +87,14 @@ timestamp,market,outcome,price,prob,edge,size,type,pnl,status
 2026-04-28T13:41:19.782995,Will London have between 60-70mm of precipitation in April?,London,Yes,0.097,0.49575054406539887,0.3987505440653989,2447.959096349811,PAPER,0.0,OPEN,0
 2026-05-05T20:12:53.557622,Will London have between 60-70mm of precipitation in April?,London,Yes,0.0005,0.49786263301991374,0.49736263301991374,2903.7337487217446,PAPER,0.0,OPEN,0
 2026-05-23T13:52:31.068089,Will global temperature increase by between 1.15ºC and 1.19ºC in May 2026?,Global,Yes,0.05,0.3108434832206486,0.2608434832206486,118995.00902261709,PAPER,0.0,OPEN,0
+2026-05-24T04:47:25.836273,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0395,0.8997274320455579,0.860227432045558,116615.10884216474,PAPER,0.0,OPEN,1
+2026-05-24T04:47:26.957376,Will Seattle have more than 3 inches of precipitation in May?,Seattle,Yes,0.322,1.0,0.6779999999999999,116615.10884216474,PAPER,0.0,OPEN,1
+2026-05-24T05:03:26.873547,Will London have 30mm or more of precipitation in May?,London,Yes,0.11,1.0,0.89,111950.50448847815,PAPER,0.0,OPEN,1
+2026-05-24T05:03:27.973163,Will Seoul have less than 100mm of precipitation in May?,Seoul,Yes,0.037,1.0,0.963,111950.50448847815,PAPER,0.0,OPEN,1
+2026-05-24T05:03:29.154536,Will Hong Kong have less than 180mm of precipitation in May?,Hong,Yes,0.0005,1.0,0.9995,111950.50448847815,PAPER,0.0,OPEN,1
+2026-05-24T07:18:15.274487,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0395,0.9993128620620841,0.9598128620620842,184633.73612910273,PAPER,0.0,OPEN,1
+2026-05-24T07:18:16.411970,Will London have 30mm or more of precipitation in May?,London,Yes,0.11,1.0,0.89,184633.73612910273,PAPER,0.0,OPEN,1
+2026-05-24T11:20:23.580470,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0395,1.0,0.9605,304303.5929039656,PAPER,0.0,OPEN,1
+2026-05-24T11:20:24.714463,Will London have 30mm or more of precipitation in May?,London,Yes,0.11,1.0,0.89,304303.5929039656,PAPER,0.0,OPEN,1
+2026-05-24T15:22:33.227140,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0395,1.0,0.9605,501537.1437293161,PAPER,0.0,OPEN,0
+2026-05-24T15:22:34.314573,Will London have 30mm or more of precipitation in May?,London,Yes,0.05,1.0,0.95,501537.1437293161,PAPER,0.0,OPEN,0

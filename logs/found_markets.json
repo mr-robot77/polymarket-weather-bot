@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T23:57:52.534851",
+  "timestamp": "2026-05-24T18:52:01.419971",
   "markets": [
     {
       "id": "678691",
@@ -63,10 +63,10 @@
       "max_temp": 1.1,
       "tokens": [
         {
-          "price": 0.19
+          "price": 0.14
         },
         {
-          "price": 0.81
+          "price": 0.86
         }
       ],
       "clobTokenIds": [
@@ -89,10 +89,10 @@
       "max_temp": 1.14,
       "tokens": [
         {
-          "price": 0.7
+          "price": 0.815
         },
         {
-          "price": 0.3
+          "price": 0.185
         }
       ],
       "clobTokenIds": [
@@ -208,6 +208,942 @@
         "No"
       ],
       "market_slug": "will-global-temperature-increase-by-more-than-1pt29c-in-may-2026"
+    },
+    {
+      "id": "2106425",
+      "question": "Will NYC have less than 2 inches of precipitation in May?",
+      "title": "Will NYC have less than 2 inches of precipitation in May?",
+      "city": "NYC",
+      "date": "May 15",
+      "min_temp": -Infinity,
+      "max_temp": 2.0,
+      "tokens": [
+        {
+          "price": 0.05
+        },
+        {
+          "price": 0.95
+        }
+      ],
+      "clobTokenIds": [
+        "95827101742162188847642860281723573338149716838556977863096187744912598424829",
+        "88135445775768115026143055159911210654310291113069862920287452180395828915806"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-nyc-have-less-than-2-inches-of-precipitation-in-may"
+    },
+    {
+      "id": "2106426",
+      "question": "Will NYC have between 2 and 3 inches of precipitation in May?",
+      "title": "Will NYC have between 2 and 3 inches of precipitation in May?",
+      "city": "NYC",
+      "date": "May 15",
+      "min_temp": 2.0,
+      "max_temp": 3.0,
+      "tokens": [
+        {
+          "price": 0.49
+        },
+        {
+          "price": 0.51
+        }
+      ],
+      "clobTokenIds": [
+        "92077438018546694914567847840355146210356320758314537035852374357832095031869",
+        "57124822312945593282731554284980277689683564857604896844116098207733259310466"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-nyc-have-between-2-and-3-inches-of-precipitation-in-may"
+    },
+    {
+      "id": "2106427",
+      "question": "Will NYC have between 3 and 4 inches of precipitation in May?",
+      "title": "Will NYC have between 3 and 4 inches of precipitation in May?",
+      "city": "NYC",
+      "date": "May 15",
+      "min_temp": 3.0,
+      "max_temp": 4.0,
+      "tokens": [
+        {
+          "price": 0.235
+        },
+        {
+          "price": 0.765
+        }
+      ],
+      "clobTokenIds": [
+        "79416577557807364521302411077851422025490867117024606228672435208344002766205",
+        "90107710291783369254051148638877357092247189327225443835507830445818954277360"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-nyc-have-between-3-and-4-inches-of-precipitation-in-may"
+    },
+    {
+      "id": "2106428",
+      "question": "Will NYC have between 4 and 5 inches of precipitation in May?",
+      "title": "Will NYC have between 4 and 5 inches of precipitation in May?",
+      "city": "NYC",
+      "date": "May 15",
+      "min_temp": 4.0,
+      "max_temp": 5.0,
+      "tokens": [
+        {
+          "price": 0.2445
+        },
+        {
+          "price": 0.7555
+        }
+      ],
+      "clobTokenIds": [
+        "98251036257636149681289346484491705274502142544735327082153899959866872825819",
+        "106446033309906439548326198721443651544964150052766838965744280560302173155165"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-nyc-have-between-4-and-5-inches-of-precipitation-in-may"
+    },
+    {
+      "id": "2106429",
+      "question": "Will NYC have between 5 and 6 inches of precipitation in May?",
+      "title": "Will NYC have between 5 and 6 inches of precipitation in May?",
+      "city": "NYC",
+      "date": "May 15",
+      "min_temp": 5.0,
+      "max_temp": 6.0,
+      "tokens": [
+        {
+          "price": 0.011
+        },
+        {
+          "price": 0.989
+        }
+      ],
+      "clobTokenIds": [
+        "86754992759453226203593991337327756910338797408359842891795932964958396983215",
+        "32069979053546735072197164344681482742351506738460499070599752488695777082154"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-nyc-have-between-5-and-6-inches-of-precipitation-in-may"
+    },
+    {
+      "id": "2106430",
+      "question": "Will NYC have more than 6 inches of precipitation in May?",
+      "title": "Will NYC have more than 6 inches of precipitation in May?",
+      "city": "NYC",
+      "date": "May 15",
+      "min_temp": 6.0,
+      "max_temp": Infinity,
+      "tokens": [
+        {
+          "price": 0.0395
+        },
+        {
+          "price": 0.9605
+        }
+      ],
+      "clobTokenIds": [
+        "106407290625173124793770119858013658247423455919430070174313543945033568355842",
+        "22327895302485717283382016967476832128278263153033335172590319152004427967111"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-nyc-have-more-than-6-inches-of-precipitation-in-may"
+    },
+    {
+      "id": "2106439",
+      "question": "Will Seattle have less than 0.5 inches of precipitation in May?",
+      "title": "Will Seattle have less than 0.5 inches of precipitation in May?",
+      "city": "Seattle",
+      "date": "May 15",
+      "min_temp": -Infinity,
+      "max_temp": 0.5,
+      "tokens": [
+        {
+          "price": 0.1825
+        },
+        {
+          "price": 0.8175
+        }
+      ],
+      "clobTokenIds": [
+        "77702574768532557494087348283215816278761146590484383966909856785340669245243",
+        "79497140441585269109728460470337489182256111893418348195533796196140141445398"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-less-than-0pt5-inches-of-precipitation-in-may"
+    },
+    {
+      "id": "2106440",
+      "question": "Will Seattle have between 0.5 and 1 inches of precipitation in May?",
+      "title": "Will Seattle have between 0.5 and 1 inches of precipitation in May?",
+      "city": "Seattle",
+      "date": "May 15",
+      "min_temp": 0.5,
+      "max_temp": 1.0,
+      "tokens": [
+        {
+          "price": 0.55
+        },
+        {
+          "price": 0.45
+        }
+      ],
+      "clobTokenIds": [
+        "80983042672086152048949740812200062595093890731013202092860703905121379103895",
+        "6170872017748596398464997582734068009604230642686290601363669668490387608475"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-between-0pt5-and-1-inches-of-precipitation-in-may"
+    },
+    {
+      "id": "2106441",
+      "question": "Will Seattle have between 1 and 1.5 inches of precipitation in May?",
+      "title": "Will Seattle have between 1 and 1.5 inches of precipitation in May?",
+      "city": "Seattle",
+      "date": "May 15",
+      "min_temp": 1.0,
+      "max_temp": 1.5,
+      "tokens": [
+        {
+          "price": 0.11
+        },
+        {
+          "price": 0.89
+        }
+      ],
+      "clobTokenIds": [
+        "99608445754278298437503033262078579888292536114247998937012167374518747334668",
+        "10054110269680740018863290740677199056552375399893744143630425565544791310858"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-between-1-and-1pt5-inches-of-precipitation-in-may"
+    },
+    {
+      "id": "2106442",
+      "question": "Will Seattle have between 1.5 and 2 inches of precipitation in May?",
+      "title": "Will Seattle have between 1.5 and 2 inches of precipitation in May?",
+      "city": "Seattle",
+      "date": "May 15",
+      "min_temp": 1.5,
+      "max_temp": 2.0,
+      "tokens": [
+        {
+          "price": 0.065
+        },
+        {
+          "price": 0.935
+        }
+      ],
+      "clobTokenIds": [
+        "55252824811055484192121428158298350237863740899170376025357047986774544813030",
+        "111538902945382820830131707713005931636454465617102013782774150241318702342120"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-between-1pt5-and-2-inches-of-precipitation-in-may"
+    },
+    {
+      "id": "2106443",
+      "question": "Will Seattle have between 2 and 2.5 inches of precipitation in May?",
+      "title": "Will Seattle have between 2 and 2.5 inches of precipitation in May?",
+      "city": "Seattle",
+      "date": "May 15",
+      "min_temp": 2.0,
+      "max_temp": 2.5,
+      "tokens": [
+        {
+          "price": 0.185
+        },
+        {
+          "price": 0.815
+        }
+      ],
+      "clobTokenIds": [
+        "102519379592140275518320394709971851128620267455510598303237349161832273799836",
+        "62499986203969218640433116141541032095309893245095968186391386967333198526717"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-between-2-and-2pt5-inches-of-precipitation-in-may"
+    },
+    {
+      "id": "2106444",
+      "question": "Will Seattle have between 2.5 and 3 inches of precipitation in May?",
+      "title": "Will Seattle have between 2.5 and 3 inches of precipitation in May?",
+      "city": "Seattle",
+      "date": "May 15",
+      "min_temp": 2.5,
+      "max_temp": 3.0,
+      "tokens": [
+        {
+          "price": 0.077
+        },
+        {
+          "price": 0.923
+        }
+      ],
+      "clobTokenIds": [
+        "40543547058012226236982678935433687609681250599158720266264939454542169534989",
+        "55328945288523951196147349957571229365012772554513148201789245567874757898134"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-between-2pt5-and-3-inches-of-precipitation-in-may"
+    },
+    {
+      "id": "2106445",
+      "question": "Will Seattle have more than 3 inches of precipitation in May?",
+      "title": "Will Seattle have more than 3 inches of precipitation in May?",
+      "city": "Seattle",
+      "date": "May 15",
+      "min_temp": 3.0,
+      "max_temp": Infinity,
+      "tokens": [
+        {
+          "price": 0.263
+        },
+        {
+          "price": 0.737
+        }
+      ],
+      "clobTokenIds": [
+        "68142133480058674593745453587613472374203519876538040586957758676927796162349",
+        "92341903506492705537000696155966322178838402219154191902363139186452199991135"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seattle-have-more-than-3-inches-of-precipitation-in-may"
+    },
+    {
+      "id": "2106446",
+      "question": "Will London have less than 5mm of precipitation in May?",
+      "title": "Will London have less than 5mm of precipitation in May?",
+      "city": "London",
+      "date": "May 15",
+      "min_temp": -Infinity,
+      "max_temp": 5.0,
+      "tokens": [
+        {
+          "price": 0.0155
+        },
+        {
+          "price": 0.9845
+        }
+      ],
+      "clobTokenIds": [
+        "39005395355659829109120656807502980755053189129470010503355244344164235405447",
+        "46908727230411113576362646520279986039912532822730393375307318339188044291595"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-less-than-5mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106447",
+      "question": "Will London have between 5-10mm of precipitation in May?",
+      "title": "Will London have between 5-10mm of precipitation in May?",
+      "city": "London",
+      "date": "May 15",
+      "min_temp": 5.0,
+      "max_temp": 10.0,
+      "tokens": [
+        {
+          "price": 0.29
+        },
+        {
+          "price": 0.71
+        }
+      ],
+      "clobTokenIds": [
+        "72188108106097153898269347987630056106911878183279501000007199873079334252272",
+        "36014609159924418198299369951624127495056484953477364621851597232943040818702"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-between-5-10mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106448",
+      "question": "Will London have between 10-15mm of precipitation in May?",
+      "title": "Will London have between 10-15mm of precipitation in May?",
+      "city": "London",
+      "date": "May 15",
+      "min_temp": 10.0,
+      "max_temp": 15.0,
+      "tokens": [
+        {
+          "price": 0.23
+        },
+        {
+          "price": 0.77
+        }
+      ],
+      "clobTokenIds": [
+        "66476303332141113993309784728573623732548170547292600216616062391166100179401",
+        "46814192993960630906833463576455676592546803704265663585702267584479080168126"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-between-10-15mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106449",
+      "question": "Will London have between 15-20mm of precipitation in May?",
+      "title": "Will London have between 15-20mm of precipitation in May?",
+      "city": "London",
+      "date": "May 15",
+      "min_temp": 15.0,
+      "max_temp": 20.0,
+      "tokens": [
+        {
+          "price": 0.2
+        },
+        {
+          "price": 0.8
+        }
+      ],
+      "clobTokenIds": [
+        "54155893314111305249765380940986042618251000488861777737074892759091459595546",
+        "46468809007821548415979526822072060731654628071938502154717644712336633428361"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-between-15-20mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106450",
+      "question": "Will London have between 20-25mm of precipitation in May?",
+      "title": "Will London have between 20-25mm of precipitation in May?",
+      "city": "London",
+      "date": "May 15",
+      "min_temp": 20.0,
+      "max_temp": 25.0,
+      "tokens": [
+        {
+          "price": 0.041
+        },
+        {
+          "price": 0.959
+        }
+      ],
+      "clobTokenIds": [
+        "79842209158450633278077451839457911473482776785652543659820345679104079004753",
+        "109928405842012819756969531055362906784475192202520929847683709029272096319170"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-between-20-25mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106451",
+      "question": "Will London have between 25-30mm of precipitation in May?",
+      "title": "Will London have between 25-30mm of precipitation in May?",
+      "city": "London",
+      "date": "May 15",
+      "min_temp": 25.0,
+      "max_temp": 30.0,
+      "tokens": [
+        {
+          "price": 0.0625
+        },
+        {
+          "price": 0.9375
+        }
+      ],
+      "clobTokenIds": [
+        "72229160285097182018070174854652132367384487867217100621003005244763776131705",
+        "90503865571444550754131283390451853650488838698381417817906057764565677385490"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-between-25-30mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106452",
+      "question": "Will London have 30mm or more of precipitation in May?",
+      "title": "Will London have 30mm or more of precipitation in May?",
+      "city": "London",
+      "date": "May 15",
+      "min_temp": 30.0,
+      "max_temp": Infinity,
+      "tokens": [
+        {
+          "price": 0.05
+        },
+        {
+          "price": 0.95
+        }
+      ],
+      "clobTokenIds": [
+        "23786009861607578610475312618266374029318959786171125842374617965138445997993",
+        "62530727860581457834398358673645663391163983593057696005239032071194110663396"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-london-have-30mm-or-more-of-precipitation-in-may"
+    },
+    {
+      "id": "2106924",
+      "question": "Will Seoul have less than 100mm of precipitation in May?",
+      "title": "Will Seoul have less than 100mm of precipitation in May?",
+      "city": "Seoul",
+      "date": "May 15",
+      "min_temp": -Infinity,
+      "max_temp": 100.0,
+      "tokens": [
+        {
+          "price": 0.025
+        },
+        {
+          "price": 0.975
+        }
+      ],
+      "clobTokenIds": [
+        "59654158018378159807329818852842138983875100664059274329690710367302534818274",
+        "69156323661811158500628593975551908818608680758384136845783911523233197543096"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-less-than-100mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106925",
+      "question": "Will Seoul have between 100-110mm of precipitation in May?",
+      "title": "Will Seoul have between 100-110mm of precipitation in May?",
+      "city": "Seoul",
+      "date": "May 15",
+      "min_temp": 100.0,
+      "max_temp": 110.0,
+      "tokens": [
+        {
+          "price": 0.0025
+        },
+        {
+          "price": 0.9975
+        }
+      ],
+      "clobTokenIds": [
+        "111176776160977342038034471300019685288028902514564534859616942876144906259983",
+        "46390177219213465273171767866695658230387311433836274947134882526994298448276"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-between-100-110mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106926",
+      "question": "Will Seoul have between 110-120mm of precipitation in May?",
+      "title": "Will Seoul have between 110-120mm of precipitation in May?",
+      "city": "Seoul",
+      "date": "May 15",
+      "min_temp": 110.0,
+      "max_temp": 120.0,
+      "tokens": [
+        {
+          "price": 0.095
+        },
+        {
+          "price": 0.905
+        }
+      ],
+      "clobTokenIds": [
+        "26750010827939183975547391943088047649054849377487351572480153859236059970505",
+        "114721983478341936854800628154276831211314975503105497533602416908275765266675"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-between-110-120mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106927",
+      "question": "Will Seoul have between 120-130mm of precipitation in May?",
+      "title": "Will Seoul have between 120-130mm of precipitation in May?",
+      "city": "Seoul",
+      "date": "May 15",
+      "min_temp": 120.0,
+      "max_temp": 130.0,
+      "tokens": [
+        {
+          "price": 0.1285
+        },
+        {
+          "price": 0.8715
+        }
+      ],
+      "clobTokenIds": [
+        "75788071198313650654418662879435679286207667541212943466441716458679508558003",
+        "49710695709317877888669230696785611904250876067168934581933649193861629754950"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-between-120-130mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106928",
+      "question": "Will Seoul have between 130-140mm of precipitation in May?",
+      "title": "Will Seoul have between 130-140mm of precipitation in May?",
+      "city": "Seoul",
+      "date": "May 15",
+      "min_temp": 130.0,
+      "max_temp": 140.0,
+      "tokens": [
+        {
+          "price": 0.252
+        },
+        {
+          "price": 0.748
+        }
+      ],
+      "clobTokenIds": [
+        "95622981634892312530978191570453451663789221223786576812328195157401363450732",
+        "108268804896839439179495251086242303888114597046291320490758156890967176872646"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-between-130-140mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106929",
+      "question": "Will Seoul have between 140-150mm of precipitation in May?",
+      "title": "Will Seoul have between 140-150mm of precipitation in May?",
+      "city": "Seoul",
+      "date": "May 15",
+      "min_temp": 140.0,
+      "max_temp": 150.0,
+      "tokens": [
+        {
+          "price": 0.384
+        },
+        {
+          "price": 0.616
+        }
+      ],
+      "clobTokenIds": [
+        "110658272287985870935683351338751031799227547972653698964768576791469845060538",
+        "48819175514693888851871577365955477730552783432747831364233406998301274929355"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-between-140-150mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106930",
+      "question": "Will Seoul have between 150-160mm of precipitation in May?",
+      "title": "Will Seoul have between 150-160mm of precipitation in May?",
+      "city": "Seoul",
+      "date": "May 15",
+      "min_temp": 150.0,
+      "max_temp": 160.0,
+      "tokens": [
+        {
+          "price": 0.396
+        },
+        {
+          "price": 0.604
+        }
+      ],
+      "clobTokenIds": [
+        "82111779907258459611084613191889489174445350379664049490868921204649251718889",
+        "12299635107115604038924048355073486836738429587883516364659691486165320185688"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-between-150-160mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106931",
+      "question": "Will Seoul have 160mm or more of precipitation in May?",
+      "title": "Will Seoul have 160mm or more of precipitation in May?",
+      "city": "Seoul",
+      "date": "May 15",
+      "min_temp": 160.0,
+      "max_temp": Infinity,
+      "tokens": [
+        {
+          "price": 0.3545
+        },
+        {
+          "price": 0.6455
+        }
+      ],
+      "clobTokenIds": [
+        "37346732572869262673556737207256720410938493342702893257051035622143271520039",
+        "25680922372281638116509725593566986987722180511927035692502927081851146980885"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-seoul-have-160mm-or-more-of-precipitation-in-may"
+    },
+    {
+      "id": "2106961",
+      "question": "Will Hong Kong have less than 180mm of precipitation in May?",
+      "title": "Will Hong Kong have less than 180mm of precipitation in May?",
+      "city": "Hong",
+      "date": "May 15",
+      "min_temp": -Infinity,
+      "max_temp": 180.0,
+      "tokens": [
+        {
+          "price": 0.0005
+        },
+        {
+          "price": 0.9995
+        }
+      ],
+      "clobTokenIds": [
+        "223961257878954475952193827644492445310880613941746216425615795917799131032",
+        "111083693814985897747198603893578164200510163026996416064220141991372291663192"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-less-than-180mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106962",
+      "question": "Will Hong Kong have between 180-190mm of precipitation in May?",
+      "title": "Will Hong Kong have between 180-190mm of precipitation in May?",
+      "city": "Hong",
+      "date": "May 15",
+      "min_temp": 180.0,
+      "max_temp": 190.0,
+      "tokens": [
+        {
+          "price": 0.0005
+        },
+        {
+          "price": 0.9995
+        }
+      ],
+      "clobTokenIds": [
+        "27146505634102341312585026722518921573860332933780932621478703365275849487017",
+        "50961010869455398243818069800209822724697028611657801762380802406923550369123"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-between-180-190mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106963",
+      "question": "Will Hong Kong have between 190-200mm of precipitation in May?",
+      "title": "Will Hong Kong have between 190-200mm of precipitation in May?",
+      "city": "Hong",
+      "date": "May 15",
+      "min_temp": 190.0,
+      "max_temp": 200.0,
+      "tokens": [
+        {
+          "price": 0.0005
+        },
+        {
+          "price": 0.9995
+        }
+      ],
+      "clobTokenIds": [
+        "35813018147121108122408520410901834979530664420208763338044434365359522644421",
+        "68467979248057416815114271651203323298952183215499632197606296799137802371808"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-between-190-200mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106964",
+      "question": "Will Hong Kong have between 200-210mm of precipitation in May?",
+      "title": "Will Hong Kong have between 200-210mm of precipitation in May?",
+      "city": "Hong",
+      "date": "May 15",
+      "min_temp": 200.0,
+      "max_temp": 210.0,
+      "tokens": [
+        {
+          "price": 0.0005
+        },
+        {
+          "price": 0.9995
+        }
+      ],
+      "clobTokenIds": [
+        "90482997869337436235667028451859972723696020930137899879670971390573498454797",
+        "24767806566808184066540580666364272870955090260593327799770657513700097961103"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-between-200-210mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106965",
+      "question": "Will Hong Kong have between 210-220mm of precipitation in May?",
+      "title": "Will Hong Kong have between 210-220mm of precipitation in May?",
+      "city": "Hong",
+      "date": "May 15",
+      "min_temp": 210.0,
+      "max_temp": 220.0,
+      "tokens": [
+        {
+          "price": 0.3455
+        },
+        {
+          "price": 0.6545
+        }
+      ],
+      "clobTokenIds": [
+        "95548920393476815827498580180816464959747455741119726110896466186311997082441",
+        "75333162465688033754454551009974810789295352748000060980818081634761546104739"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-between-210-220mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106966",
+      "question": "Will Hong Kong have between 220-230mm of precipitation in May?",
+      "title": "Will Hong Kong have between 220-230mm of precipitation in May?",
+      "city": "Hong",
+      "date": "May 15",
+      "min_temp": 220.0,
+      "max_temp": 230.0,
+      "tokens": [
+        {
+          "price": 0.347
+        },
+        {
+          "price": 0.653
+        }
+      ],
+      "clobTokenIds": [
+        "55790303740335127848510277966286757925058585916628679835964126415435041196687",
+        "36039037365511600757610500050512264137109880388377048332093783142350782102318"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-between-220-230mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106967",
+      "question": "Will Hong Kong have between 230-240mm of precipitation in May?",
+      "title": "Will Hong Kong have between 230-240mm of precipitation in May?",
+      "city": "Hong",
+      "date": "May 15",
+      "min_temp": 230.0,
+      "max_temp": 240.0,
+      "tokens": [
+        {
+          "price": 0.187
+        },
+        {
+          "price": 0.813
+        }
+      ],
+      "clobTokenIds": [
+        "44162075477681039080050007470641200699184308243063829082509188645577727418025",
+        "65973921257820598424516444330211581437710038686617568199223226812095251514788"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-between-230-240mm-of-precipitation-in-may"
+    },
+    {
+      "id": "2106968",
+      "question": "Will Hong Kong have 240mm or more of precipitation in May?",
+      "title": "Will Hong Kong have 240mm or more of precipitation in May?",
+      "city": "Hong",
+      "date": "May 15",
+      "min_temp": 240.0,
+      "max_temp": Infinity,
+      "tokens": [
+        {
+          "price": 0.225
+        },
+        {
+          "price": 0.775
+        }
+      ],
+      "clobTokenIds": [
+        "6900547250013239565464702956726922220801533252898731074272880167323266694832",
+        "4459416044745311242397718829119095969342159282160124540910725741279793098493"
+      ],
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "market_slug": "will-hong-kong-have-240mm-or-more-of-precipitation-in-may"
     }
   ]
 }
