@@ -11,7 +11,7 @@
             "name": "New York",
             "lat": 40.7128,
             "lon": -74.006,
-            "rmse": 1.0,
+            "rmse": 0.5,
             "aliases": [
                 "nyc",
                 "new york",
@@ -22,7 +22,7 @@
             "name": "Chicago",
             "lat": 41.8781,
             "lon": -87.6298,
-            "rmse": 2.0,
+            "rmse": 1.5,
             "aliases": [
                 "chicago"
             ]
@@ -58,7 +58,7 @@
             "name": "London",
             "lat": 51.5074,
             "lon": -0.1278,
-            "rmse": 0.1,
+            "rmse": 0.05,
             "aliases": [
                 "london"
             ]
@@ -76,7 +76,7 @@
             "name": "Los Angeles",
             "lat": 34.0522,
             "lon": -118.2437,
-            "rmse": 0.5,
+            "rmse": 0.3,
             "aliases": [
                 "los angeles",
                 "lax"
