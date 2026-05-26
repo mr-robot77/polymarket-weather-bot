@@ -110,3 +110,10 @@ Everything up-to-date
 [main b7eeec8] Auto-sync: Sun May 24 00:00:03 UTC 2026
  9 files changed, 10590 insertions(+), 4 deletions(-)
 Everything up-to-date
+[main a4eb788] Auto-sync: Mon May 25 00:00:03 UTC 2026
+ 11 files changed, 21739 insertions(+), 28 deletions(-)
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File logs/bot.log is 50.53 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/mr-robot77/polymarket-weather-bot.git
+   856bd0e..a4eb788  main -> main

@@ -163,9 +163,18 @@ class WisdomManager:
                 current_config = json.load(f)
             
             if "cities" in config_update:
+                if "cities" not in current_config:
+                    current_config["cities"] = {}
                 for city, updates in config_update["cities"].items():
-                    if city in current_config.get("cities", {}):
+                    if city in current_config["cities"]:
                         current_config["cities"][city].update(updates)
+                    else:
+                        current_config["cities"][city] = updates
+            
+            # Allow updating top-level config fields too
+            for k, v in config_update.items():
+                if k != "cities":
+                    current_config[k] = v
             
             with open(self.config_path, "w") as f:
                 json.dump(current_config, f, indent=4)

@@ -131,9 +131,13 @@ class MarketScanner:
         found_city = False
         for city_key, city_data in CITIES.items():
             aliases = city_data.get("aliases", [])
-            if any(alias in search_text.lower() for alias in aliases):
-                details["city"] = city_key
-                found_city = True
+            for alias in aliases:
+                # Use word boundaries to avoid substring matches (e.g., "la" in "Manila")
+                if re.search(rf"\b{re.escape(alias.lower())}\b", search_text.lower()):
+                    details["city"] = city_key
+                    found_city = True
+                    break
+            if found_city:
                 break
         
         # If not in predefined list, try to extract a word that looks like a city
