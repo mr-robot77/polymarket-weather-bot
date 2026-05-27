@@ -326,3 +326,114 @@ timestamp,market,outcome,price,prob,edge,size,type,pnl,status
 2026-05-25T21:40:18.200626,Will the highest temperature in Los Angeles be 72°F or higher on May 26?,LA,Yes,0.0205,0.12228570416567464,0.10178570416567463,94936834.56836045,PAPER,0.0,OPEN,0
 2026-05-25T23:23:17.106807,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0455,1.0,0.9545,179990672.460059,PAPER,0.0,OPEN,0
 2026-05-25T23:23:18.176777,Will London have 30mm or more of precipitation in May?,London,Yes,0.05,1.0,0.95,179990672.460059,PAPER,0.0,OPEN,0
+2026-05-26T00:06:42.781471,Will the lowest temperature in Miami be 73°F or below on May 25?,Miami,Yes,0.0005,0.5239221826541068,0.5234221826541069,172791045.56165665,PAPER,0.0,OPEN,0
+2026-05-26T00:06:48.512000,Will the highest temperature in San Francisco be 70°F or higher on May 25?,San Francisco,Yes,0.002,0.5,0.498,172791045.56165665,PAPER,0.0,OPEN,0
+2026-05-26T00:06:49.615915,Will the highest temperature in San Francisco be between 68-69°F on May 25?,San Francisco be,Yes,0.0015,0.1498822847945298,0.1483822847945298,172791045.56165665,PAPER,0.0,OPEN,0
+2026-05-26T02:15:31.510395,Will the highest temperature in Miami be 77°F or below on May 26?,Miami,Yes,0.0005,0.44275023481822995,0.44225023481822995,162423582.82795724,PAPER,0.0,OPEN,0
+2026-05-26T03:24:31.331454,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0185,1.0,0.9815,343192838.7316598,PAPER,0.0,OPEN,0
+2026-05-26T03:24:32.418288,Will London have 30mm or more of precipitation in May?,London,Yes,0.05,1.0,0.95,343192838.7316598,PAPER,0.0,OPEN,0
+2026-05-26T03:24:33.506046,Will the lowest temperature in Miami be 73°F or below on May 25?,Miami,Yes,0.003,0.804317030846224,0.801317030846224,343192838.7316598,PAPER,0.0,OPEN,0
+2026-05-26T03:24:34.600555,Will the lowest temperature in Miami be between 84-85°F on May 26?,Miami,Yes,0.006,0.11358041628046567,0.10758041628046566,343192838.7316598,PAPER,0.0,OPEN,0
+2026-05-26T03:24:35.742953,Will the highest temperature in Los Angeles be 72°F or higher on May 25?,LA,Yes,0.0005,0.2524925375469229,0.2519925375469229,343192838.7316598,PAPER,0.0,OPEN,0
+2026-05-26T03:24:36.928295,Will the lowest temperature in Miami be between 86-87°F on May 27?,Miami,Yes,0.007,0.10872367673712624,0.10172367673712623,343192838.7316598,PAPER,0.0,OPEN,0
+2026-05-26T03:24:38.113463,Will the lowest temperature in Miami be between 86-87°F on May 28?,Miami,Yes,0.008,0.09467560524555019,0.08667560524555018,343192838.7316598,PAPER,0.0,OPEN,0
+2026-05-26T03:24:39.254492,Will the highest temperature in Atlanta be between 74-75°F on May 27?,Atlanta,Yes,0.0075,0.05368201122697491,0.04618201122697491,199613797.6237142,PAPER,0.0,OPEN,0
+2026-05-26T03:33:33.111045,Will the highest temperature in Los Angeles be between 72-73°F on May 27?,LA,Yes,0.0055,0.09383728361546584,0.08833728361546583,291153565.3567533,PAPER,0.0,OPEN,0
+2026-05-26T03:42:16.097719,Will the lowest temperature in Miami be between 86-87°F on May 26?,Miami,Yes,0.0045,0.11358962562204916,0.10908962562204916,285330494.04961824,PAPER,0.0,OPEN,0
+2026-05-26T04:16:47.019286,Will the highest temperature in Sao Paulo be 26°C or higher on May 28?,Sao Paulo,Yes,0.5,1.0,0.5,279623884.1686259,PAPER,0.0,OPEN,1
+2026-05-26T04:25:30.989707,Will the highest temperature in Chicago be 65°F or below on May 28?,Chicago,Yes,0.5,0.9793248371339303,0.47932483713393026,274031406.4852534,PAPER,0.0,OPEN,1
+2026-05-26T04:25:36.810375,Will the highest temperature in Lucknow be 49°C or higher on May 28?,Lucknow,Yes,0.5,1.0,0.5,274031406.4852534,PAPER,0.0,OPEN,1
+2026-05-26T04:25:37.902475,Will the highest temperature in Singapore be 36°C or higher on May 28?,Singapore,Yes,0.5,1.0,0.5,274031406.4852534,PAPER,0.0,OPEN,1
+2026-05-26T04:25:39.015186,Will the highest temperature in Madrid be 39°C or higher on May 28?,Madrid,Yes,0.5,1.0,0.5,274031406.4852534,PAPER,0.0,OPEN,1
+2026-05-26T04:25:40.112422,Will the highest temperature in Taipei be 38°C or higher on May 28?,Taipei,Yes,0.5,1.0,0.5,274031406.4852534,PAPER,0.0,OPEN,1
+2026-05-26T04:25:41.199831,Will the highest temperature in Helsinki be 17°C or higher on May 28?,Helsinki,Yes,0.5,1.0,0.5,274031406.4852534,PAPER,0.0,OPEN,1
+2026-05-26T04:34:44.392539,Will the highest temperature in Buenos Aires be 22°C or higher on May 28?,Buenos Aires,Yes,0.5,1.0,0.5,241147637.70702288,PAPER,0.0,OPEN,1
+2026-05-26T04:34:45.511185,Will the highest temperature in Munich be 28°C or higher on May 28?,Munich,Yes,0.5,1.0,0.5,241147637.70702288,PAPER,0.0,OPEN,1
+2026-05-26T04:34:46.624539,Will the highest temperature in Tel Aviv be 30°C or higher on May 28?,Tel Aviv,Yes,0.5,1.0,0.5,241147637.70702288,PAPER,0.0,OPEN,1
+2026-05-26T04:34:47.779221,Will the highest temperature in Shenzhen be 35°C or higher on May 28?,Shenzhen,Yes,0.5,1.0,0.5,241147637.70702288,PAPER,0.0,OPEN,1
+2026-05-26T04:34:48.881119,Will the highest temperature in Austin be 82°F or higher on May 28?,Austin,Yes,0.5,0.998134186699616,0.49813418669961596,241147637.70702288,PAPER,0.0,OPEN,1
+2026-05-26T04:34:50.032044,Will the highest temperature in Busan be 31°C or higher on May 28?,Busan,Yes,0.5,1.0,0.5,241147637.70702288,PAPER,0.0,OPEN,1
+2026-05-26T04:34:55.846061,Will the highest temperature in Cape Town be 24°C or higher on May 28?,Cape Town,Yes,0.5,1.0,0.5,241147637.70702288,PAPER,0.0,OPEN,1
+2026-05-26T04:44:09.709623,Will the highest temperature in Toronto be 23°C or higher on May 28?,Toronto,Yes,0.5,1.0,0.5,207386968.42803955,PAPER,0.0,OPEN,1
+2026-05-26T04:44:10.903748,Will the highest temperature in Milan be 37°C or higher on May 28?,Milan,Yes,0.5,1.0,0.5,207386968.42803955,PAPER,0.0,OPEN,1
+2026-05-26T04:44:12.042313,Will the highest temperature in Warsaw be 24°C or higher on May 28?,Warsaw,Yes,0.5,1.0,0.5,207386968.42803955,PAPER,0.0,OPEN,1
+2026-05-26T04:44:13.221718,Will the highest temperature in Chongqing be 27°C or higher on May 28?,Chongqing,Yes,0.5,1.0,0.5,207386968.42803955,PAPER,0.0,OPEN,1
+2026-05-26T04:44:14.298350,Will the highest temperature in Beijing be 37°C or higher on May 28?,Beijing,Yes,0.5,1.0,0.5,207386968.42803955,PAPER,0.0,OPEN,1
+2026-05-26T04:44:15.394056,Will the highest temperature in Wuhan be 35°C or higher on May 28?,Wuhan,Yes,0.04,1.0,0.96,207386968.42803955,PAPER,0.0,OPEN,1
+2026-05-26T04:53:37.250458,Will the highest temperature in Seattle be 64°F or higher on May 28?,Seattle,Yes,0.5,1.0,0.5,182500532.2166748,PAPER,0.0,OPEN,1
+2026-05-26T04:53:38.338127,Will the highest temperature in Ankara be 29°C or higher on May 28?,Ankara,Yes,0.5,1.0,0.5,182500532.2166748,PAPER,0.0,OPEN,1
+2026-05-26T04:53:39.456578,Will the highest temperature in Wellington be 19°C or higher on May 28?,Wellington,Yes,0.5,1.0,0.5,182500532.2166748,PAPER,0.0,OPEN,1
+2026-05-26T04:53:40.587388,Will the highest temperature in Chengdu be 29°C or higher on May 28?,Chengdu,Yes,0.48,1.0,0.52,182500532.2166748,PAPER,0.0,OPEN,1
+2026-05-26T04:53:46.397570,Will the highest temperature in Panama City be 32°C or higher on May 28?,Panama City,Yes,0.5,1.0,0.5,182500532.2166748,PAPER,0.0,OPEN,1
+2026-05-26T05:03:54.412920,Will the highest temperature in Paris be 35°C or higher on May 28?,Paris,Yes,0.04,1.0,0.96,164250478.99500734,PAPER,0.0,OPEN,1
+2026-05-26T05:03:55.548160,Will the highest temperature in Shanghai be 34°C or higher on May 28?,Shanghai,Yes,0.005,1.0,0.995,164250478.99500734,PAPER,0.0,OPEN,1
+2026-05-26T05:03:56.704212,Will the highest temperature in Dallas be 84°F or higher on May 28?,Dallas,Yes,0.5,0.9328219548640078,0.43282195486400776,164250478.99500734,PAPER,0.0,OPEN,1
+2026-05-26T05:03:57.846296,Will the highest temperature in Denver be 80°F or higher on May 28?,Denver,Yes,0.5,0.9958546986389639,0.4958546986389639,164250478.99500734,PAPER,0.0,OPEN,1
+2026-05-26T05:03:58.998310,Will the highest temperature in Los Angeles be between 72-73°F on May 28?,LA,Yes,0.04,0.060285737265479034,0.020285737265479033,43384662.273721375,PAPER,0.0,OPEN,1
+2026-05-26T05:04:04.812237,Will the highest temperature in Istanbul be 26°C or higher on May 28?,Istanbul,Yes,0.5,1.0,0.5,164250478.99500734,PAPER,0.0,OPEN,1
+2026-05-26T05:04:05.908661,Will the highest temperature in Mexico City be 23°C or higher on May 28?,Mexico City,Yes,0.5,1.0,0.5,164250478.99500734,PAPER,0.0,OPEN,1
+2026-05-26T05:04:07.042577,Will the highest temperature in Amsterdam be 28°C or higher on May 28?,Amsterdam,Yes,0.04,1.0,0.96,164250478.99500734,PAPER,0.0,OPEN,1
+2026-05-26T05:04:08.177240,Will the highest temperature in Kuala Lumpur be 37°C or higher on May 28?,Kuala Lumpur,Yes,0.5,1.0,0.5,164250478.99500734,PAPER,0.0,OPEN,1
+2026-05-26T05:04:09.308435,Will the highest temperature in Qingdao be 34°C or higher on May 28?,Qingdao,Yes,0.5,1.0,0.5,164250478.99500734,PAPER,0.0,OPEN,1
+2026-05-26T05:04:10.482066,Will the highest temperature in Karachi be 37°C or higher on May 28?,Karachi,Yes,0.5,1.0,0.5,164250478.99500734,PAPER,0.0,OPEN,1
+2026-05-26T05:04:11.600437,Will the highest temperature in Manila be 38°C or higher on May 28?,Manila,Yes,0.5,1.0,0.5,164250478.99500734,PAPER,0.0,OPEN,1
+2026-05-26T05:13:48.863386,Will the highest temperature in Moscow be 14°C or higher on May 28?,Moscow,Yes,0.04,1.0,0.96,127247680.37063123,PAPER,0.0,OPEN,1
+2026-05-26T05:13:49.986396,Will the highest temperature in Jeddah be 38°C or higher on May 28?,Jeddah,Yes,0.5,1.0,0.5,127247680.37063123,PAPER,0.0,OPEN,1
+2026-05-26T05:13:51.167355,Will the highest temperature in Guangzhou be 41°C or higher on May 28?,Guangzhou,Yes,0.5,1.0,0.5,127247680.37063123,PAPER,0.0,OPEN,1
+2026-05-26T05:23:18.873832,Will the highest temperature in Atlanta be between 90-91°F on May 28?,Atlanta,Yes,0.05,0.08453146759506214,0.034531467595062135,54347450.02880737,PAPER,0.0,OPEN,1
+2026-05-26T05:42:56.691803,Will the highest temperature in Dallas be between 78-79°F on May 26?,Dallas,Yes,0.006,0.027966649796309292,0.021966649796309294,32741653.547869597,PAPER,0.0,OPEN,1
+2026-05-26T05:42:57.889756,Will the lowest temperature in Miami be between 84-85°F on May 28?,Miami,Yes,0.0335,0.10890542151987426,0.07540542151987426,115590962.61857481,PAPER,0.0,OPEN,1
+2026-05-26T05:52:30.049448,Will the highest temperature in Atlanta be between 76-77°F on May 27?,Atlanta,Yes,0.046,0.0885283481576144,0.0425283481576144,64393902.84948609,PAPER,0.0,OPEN,1
+2026-05-26T06:31:08.398174,Will the highest temperature in Miami be between 82-83°F on May 28?,Miami,Yes,0.035,0.10925919214647128,0.07425919214647128,109918360.18566139,PAPER,0.0,OPEN,1
+2026-05-26T06:50:02.470232,Will the highest temperature in Seattle be 55°F or below on May 26?,Seattle,Yes,0.005,0.05050258347410364,0.045502583474103644,64065449.842658356,PAPER,0.0,OPEN,1
+2026-05-26T06:59:39.830166,Will the highest temperature in Los Angeles be between 70-71°F on May 28?,LA,Yes,0.07,0.12442920886277165,0.05442920886277164,81052454.54717961,PAPER,0.0,OPEN,1
+2026-05-26T07:18:57.859480,Will the lowest temperature in Miami be between 74-75°F on May 25?,Miami,Yes,0.0005,0.04998522896372293,0.04948522896372293,67562942.38680232,PAPER,0.0,OPEN,1
+2026-05-26T07:28:41.381308,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0165,1.0,0.9835,14343829325.902618,PAPER,0.0,OPEN,1
+2026-05-26T07:28:42.488847,Will London have 30mm or more of precipitation in May?,London,Yes,0.05,1.0,0.95,14343829325.902618,PAPER,0.0,OPEN,1
+2026-05-26T07:28:48.312879,Will the lowest temperature in Miami be between 74-75°F on May 25?,Miami,Yes,0.0005,0.05320014465193956,0.05270014465193956,9453750379.412214,PAPER,0.0,OPEN,1
+2026-05-26T07:28:54.205428,Will the highest temperature in Los Angeles be 72°F or higher on May 25?,LA,Yes,0.0005,0.21185539858339664,0.21135539858339664,14343829325.902618,PAPER,0.0,OPEN,1
+2026-05-26T07:28:55.461891,Will the highest temperature in Miami be 77°F or below on May 28?,Miami,Yes,0.003,0.09748774244531233,0.09448774244531233,14343829325.902618,PAPER,0.0,OPEN,1
+2026-05-26T07:28:56.675333,Will the highest temperature in Atlanta be between 94-95°F on May 28?,Atlanta,Yes,0.0075,0.02949313600582637,0.02199313600582637,3973120770.8934135,PAPER,0.0,OPEN,1
+2026-05-26T07:57:18.882979,Will the highest temperature in Miami be between 82-83°F on May 26?,Miami,Yes,0.0025,0.06239771916667691,0.05989771916667691,9703569783.579994,PAPER,0.0,OPEN,1
+2026-05-26T07:57:24.768766,Will the highest temperature in London be 31°C or higher on May 28?,London,Yes,0.08,1.0,0.92,12927785556.824297,PAPER,0.0,OPEN,1
+2026-05-26T08:54:08.507184,Will the highest temperature in New York City be 84°F or higher on May 26?,NYC,Yes,0.0195,0.24966143379776184,0.23016143379776186,12475158450.01621,PAPER,0.0,OPEN,1
+2026-05-26T10:56:10.848997,Will the highest temperature in Los Angeles be between 68-69°F on May 27?,LA,Yes,0.055,0.07716169611956192,0.022161696119561917,3583879063.4972405,PAPER,0.0,OPEN,1
+2026-05-26T11:33:32.868325,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0165,1.0,0.9835,500000000000.0,PAPER,0.0,OPEN,1
+2026-05-26T11:33:33.985946,Will London have 30mm or more of precipitation in May?,London,Yes,0.05,1.0,0.95,500000000000.0,PAPER,0.0,OPEN,1
+2026-05-26T11:33:35.147229,Will the highest temperature in Miami be 96°F or higher on May 26?,Miami,Yes,0.002,0.07669022061221087,0.07469022061221087,455798300348.16156,PAPER,0.0,OPEN,1
+2026-05-26T11:33:36.266184,Will the highest temperature in Dallas be between 78-79°F on May 25?,Dallas,Yes,0.0005,0.02611954096818281,0.025619540968182808,156109037517.81763,PAPER,0.0,OPEN,1
+2026-05-26T11:33:37.589092,Will the highest temperature in Atlanta be 79°F or below on May 28?,Atlanta,Yes,0.035,0.09706439228905689,0.062064392289056886,391701012737.5978,PAPER,0.0,OPEN,1
+2026-05-26T11:42:53.893277,Will the highest temperature in Houston be 90°F or higher on May 28?,Houston,Yes,0.39,0.6984682124530324,0.30846821245303235,500000000000.0,PAPER,0.0,OPEN,1
+2026-05-26T11:42:55.016876,Will the highest temperature in Los Angeles be between 68-69°F on May 28?,LA,Yes,0.13,0.2107426392460281,0.08074263924602809,500000000000.0,PAPER,0.0,OPEN,1
+2026-05-26T11:42:56.076129,Will the highest temperature in San Francisco be 70°F or higher on May 28?,San Francisco,Yes,0.165,0.3556912451994516,0.1906912451994516,500000000000.0,PAPER,0.0,OPEN,1
+2026-05-26T12:01:25.137835,Will the highest temperature in Seoul be 25°C or higher on May 28?,Seoul,Yes,0.595,1.0,0.405,500000000000.0,PAPER,0.0,OPEN,0
+2026-05-26T12:01:26.220297,Will the highest temperature in New York City be 86°F or higher on May 28?,NYC,Yes,0.006,0.2563802262547157,0.2503802262547157,500000000000.0,PAPER,0.0,OPEN,0
+2026-05-26T12:17:41.616520,Will the highest temperature in New York City be between 70-71°F on May 26?,NYC,Yes,0.0005,0.07213729233996424,0.07163729233996424,371954135287.0351,PAPER,0.0,OPEN,0
+2026-05-26T12:17:42.926015,Will the highest temperature in San Francisco be 72°F or higher on May 26?,San Francisco,Yes,0.0025,0.15865525393145707,0.15615525393145707,500000000000.0,PAPER,0.0,OPEN,0
+2026-05-26T12:17:44.095500,Will the highest temperature in Houston be 69°F or below on May 27?,Houston,Yes,0.002,0.3085375387259869,0.3065375387259869,500000000000.0,PAPER,0.0,OPEN,0
+2026-05-26T12:17:49.870277,Will the highest temperature in Los Angeles be between 70-71°F on May 27?,LA,Yes,0.05,0.2107426392460281,0.1607426392460281,500000000000.0,PAPER,0.0,OPEN,0
+2026-05-26T12:17:51.070335,Will the highest temperature in Houston be 71°F or below on May 28?,Houston,Yes,0.001,0.6914624612740131,0.6904624612740131,500000000000.0,PAPER,0.0,OPEN,0
+2026-05-26T13:17:42.923021,Will the lowest temperature in Miami be 73°F or below on May 26?,Miami,Yes,0.0045,0.6777938331150943,0.6732938331150944,471519892537.3724,PAPER,0.0,OPEN,0
+2026-05-26T13:17:44.048293,Will the highest temperature in Seattle be 74°F or higher on May 26?,Seattle,Yes,0.002,0.02275013194817921,0.020750131948179207,98037074011.44044,PAPER,0.0,OPEN,0
+2026-05-26T13:17:45.221002,Will the highest temperature in Austin be 67°F or below on May 26?,Austin,Yes,0.0005,0.06680720126885807,0.06630720126885807,312808048191.55457,PAPER,0.0,OPEN,0
+2026-05-26T13:17:46.379734,Will the highest temperature in San Francisco be between 70-71°F on May 26?,San Francisco be,Yes,0.002,0.19146246127401312,0.18946246127401312,471519892537.3724,PAPER,0.0,OPEN,0
+2026-05-26T13:17:47.563459,Will the highest temperature in Chicago be between 70-71°F on May 27?,Chicago,Yes,0.002,0.3413447460685429,0.3393447460685429,471519892537.3724,PAPER,0.0,OPEN,0
+2026-05-26T13:17:48.674232,Will the highest temperature in Austin be 69°F or below on May 27?,Austin,Yes,0.0025,0.3085375387259869,0.3060375387259869,471519892537.3724,PAPER,0.0,OPEN,0
+2026-05-26T13:17:49.772858,Will the lowest temperature in Miami be 71°F or below on May 29?,Miami,Yes,0.026,0.561134479249142,0.5351344792491419,471519892537.3724,PAPER,0.0,OPEN,0
+2026-05-26T15:30:05.586727,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0165,1.0,0.9835,500000000000.0,PAPER,0.0,OPEN,0
+2026-05-26T15:30:06.670459,Will London have 30mm or more of precipitation in May?,London,Yes,0.055,1.0,0.945,500000000000.0,PAPER,0.0,OPEN,0
+2026-05-26T15:30:07.818180,Will the highest temperature in Dallas be between 78-79°F on May 25?,Dallas,Yes,0.0005,0.027277557630226767,0.026777557630226767,245581603852.68884,PAPER,0.0,OPEN,0
+2026-05-26T15:30:09.232115,Will the highest temperature in Chicago be between 68-69°F on May 28?,Chicago,Yes,0.13,0.21501275501473,0.08501275501472999,500000000000.0,PAPER,0.0,OPEN,0
+2026-05-26T19:31:59.975763,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0165,1.0,0.9835,1975178762701.9153,PAPER,0.0,OPEN,0
+2026-05-26T19:32:01.045289,Will London have 30mm or more of precipitation in May?,London,Yes,0.055,1.0,0.945,1975178762701.9153,PAPER,0.0,OPEN,0
+2026-05-26T19:32:02.186404,Will the highest temperature in Miami be between 84-85°F on May 26?,Miami,Yes,0.0005,0.07529797030193996,0.07479797030193996,369533172670.33606,PAPER,0.0,OPEN,0
+2026-05-26T19:32:03.512039,Will the highest temperature in Atlanta be between 92-93°F on May 28?,Atlanta,Yes,0.025,0.051284242929468205,0.026284242929468203,133118149815.34248,PAPER,0.0,OPEN,0
+2026-05-26T20:16:13.679533,Will the highest temperature in Miami be between 90-91°F on May 26?,Miami,Yes,0.012,0.05491065836337883,0.04291065836337883,204794003708.71808,PAPER,0.0,OPEN,0
+2026-05-26T20:16:14.821314,Will the highest temperature in Atlanta be between 78-79°F on May 26?,Atlanta,Yes,0.0005,0.07668852321386554,0.07618852321386554,359431189730.0388,PAPER,0.0,OPEN,0
+2026-05-26T20:24:57.646302,Will the highest temperature in Seoul be 25°C or higher on May 27?,Seoul,Yes,0.57,1.0,0.43000000000000005,1874834081875.3496,PAPER,0.0,OPEN,0
+2026-05-26T20:33:46.259539,Will the highest temperature in Tokyo be 29°C or higher on May 27?,Tokyo,Yes,0.0765,1.0,0.9235,1837337400237.8428,PAPER,0.0,OPEN,0
+2026-05-26T20:33:47.484596,Will the highest temperature in Chicago be between 78-79°F on May 28?,Chicago,Yes,0.06,0.344435254389209,0.284435254389209,1389903007541.114,PAPER,0.0,OPEN,0
+2026-05-26T21:43:48.083262,Will the highest temperature in Miami be between 88-89°F on May 26?,Miami,Yes,0.015,0.07378364021447703,0.05878364021447703,264495436314.3501,PAPER,0.0,OPEN,0
+2026-05-26T22:10:10.584051,Will the highest temperature in Atlanta be between 82-83°F on May 26?,Atlanta,Yes,0.003,0.06527871386520778,0.06227871386520778,276022552338.801,PAPER,0.0,OPEN,0
+2026-05-26T23:36:44.400948,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0165,1.0,0.9835,4874385131112.219,PAPER,0.0,OPEN,0
+2026-05-26T23:36:45.480416,Will London have 30mm or more of precipitation in May?,London,Yes,0.055,1.0,0.945,4874385131112.219,PAPER,0.0,OPEN,0
