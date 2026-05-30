@@ -11,7 +11,7 @@
             "name": "New York",
             "lat": 40.7128,
             "lon": -74.006,
-            "rmse": 1e-06,
+            "rmse": 1e-20,
             "aliases": [
                 "nyc",
                 "new york",
@@ -22,7 +22,7 @@
             "name": "Chicago",
             "lat": 41.8781,
             "lon": -87.6298,
-            "rmse": 1e-06,
+            "rmse": 1e-20,
             "aliases": [
                 "chicago"
             ]
@@ -31,7 +31,7 @@
             "name": "Dallas",
             "lat": 32.78,
             "lon": -96.8,
-            "rmse": 1e-06,
+            "rmse": 1e-20,
             "aliases": [
                 "dallas"
             ]
@@ -40,7 +40,7 @@
             "name": "Atlanta",
             "lat": 33.749,
             "lon": -84.388,
-            "rmse": 1e-06,
+            "rmse": 1e-20,
             "aliases": [
                 "atlanta"
             ]
@@ -49,7 +49,7 @@
             "name": "Miami",
             "lat": 25.7617,
             "lon": -80.1918,
-            "rmse": 1e-06,
+            "rmse": 1e-20,
             "aliases": [
                 "miami"
             ]
@@ -58,7 +58,7 @@
             "name": "London",
             "lat": 51.5074,
             "lon": -0.1278,
-            "rmse": 1e-06,
+            "rmse": 1e-20,
             "aliases": [
                 "london"
             ]
@@ -67,7 +67,7 @@
             "name": "Tokyo",
             "lat": 35.6895,
             "lon": 139.6917,
-            "rmse": 1e-06,
+            "rmse": 1e-20,
             "aliases": [
                 "tokyo"
             ]
@@ -76,7 +76,7 @@
             "name": "Los Angeles",
             "lat": 34.0522,
             "lon": -118.2437,
-            "rmse": 1e-06,
+            "rmse": 1e-20,
             "aliases": [
                 "los angeles",
                 "lax"

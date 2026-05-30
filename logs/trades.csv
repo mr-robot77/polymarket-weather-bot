@@ -621,3 +621,99 @@ timestamp,market,outcome,price,prob,edge,size,type,pnl,status
 2026-05-28T20:25:08.968248,Will the highest temperature in Chicago be between 64-65°F on May 30?,Chicago,Yes,0.008,1.0,0.992,1.509479155023785e+24,PAPER,0.0,OPEN,0
 2026-05-28T23:54:53.168120,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0035,1.0,0.9965,1.5272169174022332e+25,PAPER,0.0,OPEN,0
 2026-05-28T23:54:54.274782,Will London have 30mm or more of precipitation in May?,London,Yes,0.0065,1.0,0.9935,1.5272169174022332e+25,PAPER,0.0,OPEN,0
+2026-05-29T00:04:03.104892,Will the highest temperature in New York City be between 70-71°F on May 28?,NYC,Yes,0.0005,0.5,0.4995,1.466128240706144e+25,PAPER,0.0,OPEN,0
+2026-05-29T00:04:04.326316,Will the highest temperature in Dallas be between 70-71°F on May 28?,Dallas,Yes,0.0005,0.5,0.4995,1.466128240706144e+25,PAPER,0.0,OPEN,0
+2026-05-29T00:04:05.462066,Will the highest temperature in San Francisco be between 68-69°F on May 28?,San Francisco be,Yes,0.05,0.1498822847945298,0.0998822847945298,1.466128240706144e+25,PAPER,0.0,OPEN,0
+2026-05-29T00:38:46.713459,Will the lowest temperature in London be 19°C or higher on May 30?,London,Yes,0.0115,1.0,0.9885,1.3781605462637754e+25,PAPER,0.0,OPEN,0
+2026-05-29T00:38:47.805545,Will the lowest temperature in Paris be 23°C or higher on May 30?,Paris,Yes,0.049,1.0,0.951,1.3781605462637754e+25,PAPER,0.0,OPEN,0
+2026-05-29T01:13:37.646877,Will the highest temperature in Chicago be between 74-75°F on May 29?,Chicago,Yes,0.0065,1.0,0.9935,1.3230341244132243e+25,PAPER,0.0,OPEN,0
+2026-05-29T02:14:27.708082,Will the highest temperature in Seattle be 63°F or below on May 30?,Seattle,Yes,0.715,0.8212136203856288,0.10621362038562887,1.2965734419249598e+25,PAPER,0.0,OPEN,0
+2026-05-29T02:14:28.962891,Will the lowest temperature in Miami be between 86-87°F on May 30?,Miami,Yes,0.006,0.5,0.494,1.2965734419249598e+25,PAPER,0.0,OPEN,0
+2026-05-29T02:14:30.076138,Will the highest temperature in Chicago be between 68-69°F on May 30?,Chicago,Yes,0.16,0.5,0.33999999999999997,1.2965734419249598e+25,PAPER,0.0,OPEN,0
+2026-05-29T02:14:31.261114,Will the highest temperature in San Francisco be 66°F or higher on May 30?,San Francisco,Yes,0.29,0.6443087548005484,0.3543087548005484,1.2965734419249598e+25,PAPER,0.0,OPEN,0
+2026-05-29T03:59:49.483374,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0035,1.0,0.9965,1.4618930356921836e+26,PAPER,0.0,OPEN,0
+2026-05-29T03:59:50.620072,Will London have 30mm or more of precipitation in May?,London,Yes,0.008,1.0,0.992,1.4618930356921836e+26,PAPER,0.0,OPEN,0
+2026-05-29T03:59:51.710130,Will the highest temperature in New York City be between 70-71°F on May 28?,NYC,Yes,0.0005,0.5,0.4995,1.4618930356921836e+26,PAPER,0.0,OPEN,0
+2026-05-29T03:59:52.808851,Will the highest temperature in Miami be 77°F or below on May 28?,Miami,Yes,0.0005,1.0,0.9995,1.4618930356921836e+26,PAPER,0.0,OPEN,0
+2026-05-29T03:59:58.520549,Will the highest temperature in Dallas be between 70-71°F on May 28?,Dallas,Yes,0.0005,0.5,0.4995,1.4618930356921836e+26,PAPER,0.0,OPEN,0
+2026-05-29T03:59:59.645554,Will the highest temperature in Atlanta be 79°F or below on May 28?,Atlanta,Yes,0.0005,1.0,0.9995,1.4618930356921836e+26,PAPER,0.0,OPEN,0
+2026-05-29T04:00:00.769225,Will the highest temperature in Los Angeles be between 70-71°F on May 28?,LA,Yes,0.0005,0.5,0.4995,1.4618930356921836e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:17:51.598547,Will the lowest temperature in Miami be 71°F or below on May 28?,Miami,Yes,0.0005,1.0,0.9995,1.2572280106952784e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:17:52.997515,Will the highest temperature in Wellington be 21°C or higher on May 31?,Wellington,Yes,0.5,1.0,0.5,1.2572280106952784e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:17:54.173295,Will the highest temperature in Houston be 90°F or higher on May 31?,Houston,Yes,0.5,0.9624620196514834,0.46246201965148337,1.2572280106952784e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:27:07.644919,Will the highest temperature in Sao Paulo be 28°C or higher on May 31?,Sao Paulo,Yes,0.04,1.0,0.96,1.181794330053562e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:27:08.867468,Will the highest temperature in Buenos Aires be 24°C or higher on May 31?,Buenos Aires,Yes,0.5,1.0,0.5,1.181794330053562e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:27:09.966604,Will the highest temperature in Chicago be 66°F or higher on May 31?,Chicago,Yes,0.715,1.0,0.28500000000000003,1.181794330053562e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:27:11.061419,Will the highest temperature in Ankara be 25°C or higher on May 31?,Ankara,Yes,0.5,1.0,0.5,1.181794330053562e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:27:12.234826,Will the highest temperature in Milan be 35°C or higher on May 31?,Milan,Yes,0.5,1.0,0.5,1.181794330053562e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:27:13.364393,Will the highest temperature in Warsaw be 25°C or higher on May 31?,Warsaw,Yes,0.5,1.0,0.5,1.181794330053562e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:27:14.480546,Will the highest temperature in Austin be 92°F or higher on May 31?,Austin,Yes,0.455,0.9065824910065282,0.4515824910065282,1.181794330053562e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:27:15.565987,Will the highest temperature in Denver be 78°F or higher on May 31?,Denver,Yes,0.5,0.9998073844243643,0.49980738442436434,1.181794330053562e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:27:16.700326,Will the highest temperature in Los Angeles be 72°F or higher on May 31?,LA,Yes,0.455,1.0,0.5449999999999999,1.181794330053562e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:27:17.824920,Will the highest temperature in Amsterdam be 27°C or higher on May 31?,Amsterdam,Yes,0.04,1.0,0.96,1.181794330053562e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:27:18.895497,Will the highest temperature in Jeddah be 39°C or higher on May 31?,Jeddah,Yes,0.5,1.0,0.5,1.181794330053562e+26,PAPER,0.0,OPEN,1
+2026-05-29T04:36:40.546610,Will the highest temperature in Paris be 28°C or higher on May 31?,Paris,Yes,0.5,1.0,0.5,9.217995774417788e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:36:41.701072,Will the highest temperature in Toronto be 26°C or higher on May 31?,Toronto,Yes,0.145,1.0,0.855,9.217995774417788e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:36:42.813066,Will the highest temperature in Tel Aviv be 32°C or higher on May 31?,Tel Aviv,Yes,0.5,1.0,0.5,9.217995774417788e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:36:43.933572,Will the highest temperature in Tokyo be 31°C or higher on May 31?,Tokyo,Yes,0.04,1.0,0.96,9.217995774417788e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:36:45.023838,Will the highest temperature in Shanghai be 33°C or higher on May 31?,Shanghai,Yes,0.5,1.0,0.5,9.217995774417788e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:36:46.140365,Will the highest temperature in Kuala Lumpur be 37°C or higher on May 31?,Kuala Lumpur,Yes,0.5,1.0,0.5,9.217995774417788e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:36:48.275138,Will the highest temperature in Cape Town be 28°C or higher on May 31?,Cape Town,Yes,0.405,1.0,0.595,9.217995774417788e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:36:49.359502,Will the highest temperature in Qingdao be 37°C or higher on May 31?,Qingdao,Yes,0.4,1.0,0.6,9.217995774417788e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:46:11.501938,Will the highest temperature in London be 29°C or higher on May 31?,London,Yes,0.03,1.0,0.97,7.743116450510945e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:46:12.691513,Will the highest temperature in Lucknow be 45°C or higher on May 31?,Lucknow,Yes,0.5,1.0,0.5,7.743116450510945e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:46:13.791149,Will the highest temperature in Munich be 31°C or higher on May 31?,Munich,Yes,0.04,1.0,0.96,7.743116450510945e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:46:14.944842,Will the highest temperature in Madrid be 40°C or higher on May 31?,Madrid,Yes,0.5,1.0,0.5,7.743116450510945e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:46:16.142602,Will the highest temperature in Wuhan be 36°C or higher on May 31?,Wuhan,Yes,0.04,1.0,0.96,7.743116450510945e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:46:17.344365,Will the highest temperature in Shenzhen be 34°C or higher on May 31?,Shenzhen,Yes,0.04,1.0,0.96,7.743116450510945e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:46:18.472602,Will the highest temperature in Panama City be 33°C or higher on May 31?,Panama City,Yes,0.5,1.0,0.5,7.743116450510945e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:46:19.641132,Will the highest temperature in Karachi be 37°C or higher on May 31?,Karachi,Yes,0.5,1.0,0.5,7.743116450510945e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:46:20.825329,Will the highest temperature in Manila be 37°C or higher on May 31?,Manila,Yes,0.5,1.0,0.5,7.743116450510945e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:55:58.097607,Will the highest temperature in Beijing be 42°C or higher on May 31?,Beijing,Yes,0.5,1.0,0.5,6.349355489418976e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:55:59.161115,Will the highest temperature in Chengdu be 36°C or higher on May 31?,Chengdu,Yes,0.5,1.0,0.5,6.349355489418976e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:56:00.272940,Will the highest temperature in San Francisco be 70°F or higher on May 31?,San Francisco,Yes,0.5,0.6700314463394055,0.17003144633940548,6.349355489418976e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:56:01.400299,Will the highest temperature in Mexico City be 24°C or higher on May 31?,Mexico City,Yes,0.5,1.0,0.5,6.349355489418976e+25,PAPER,0.0,OPEN,1
+2026-05-29T04:56:02.526180,Will the highest temperature in Helsinki be 17°C or higher on May 31?,Helsinki,Yes,0.5,1.0,0.5,6.349355489418976e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:05:31.371897,Will the highest temperature in Seoul be 28°C or higher on May 31?,Seoul,Yes,0.41,1.0,0.5900000000000001,5.7144199404770795e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:05:32.506382,Will the highest temperature in Dallas be 92°F or higher on May 31?,Dallas,Yes,0.655,1.0,0.345,5.7144199404770795e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:05:33.709978,Will the highest temperature in Hong Kong be 32°C or higher on May 31?,Hong Kong,Yes,0.5,1.0,0.5,5.7144199404770795e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:05:34.820753,Will the highest temperature in Singapore be 36°C or higher on May 31?,Singapore,Yes,0.5,1.0,0.5,5.7144199404770795e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:05:40.522487,Will the highest temperature in Chongqing be 36°C or higher on May 31?,Chongqing,Yes,0.5,1.0,0.5,5.7144199404770795e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:05:41.694498,Will the highest temperature in Moscow be 20°C or higher on May 31?,Moscow,Yes,0.5,1.0,0.5,5.7144199404770795e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:05:47.428922,Will the highest temperature in Busan be 33°C or higher on May 31?,Busan,Yes,0.5,1.0,0.5,5.7144199404770795e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:05:53.192041,Will the highest temperature in Guangzhou be 38°C or higher on May 31?,Guangzhou,Yes,0.5,1.0,0.5,5.7144199404770795e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:15:28.671436,Will the lowest temperature in New York City be 62°F or higher on May 31?,NYC,Yes,0.5,1.0,0.5,4.800112750000744e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:15:29.789653,Will the highest temperature in Taipei be 34°C or higher on May 31?,Taipei,Yes,0.045,1.0,0.955,4.800112750000744e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:15:30.929062,Will the highest temperature in Istanbul be 26°C or higher on May 31?,Istanbul,Yes,0.065,1.0,0.935,4.800112750000744e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:34:29.511159,Will the highest temperature in New York City be between 74-75°F on May 30?,NYC,Yes,0.05,1.0,0.95,4.5121059850007e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:34:30.746712,Will the lowest temperature in Hong Kong be 30°C or higher on May 31?,Hong Kong,Yes,0.005,1.0,0.995,4.5121059850007e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:44:16.249458,Will the highest temperature in Chicago be between 76-77°F on May 29?,Chicago,Yes,0.0135,0.5,0.4865,4.331621745600672e+25,PAPER,0.0,OPEN,1
+2026-05-29T05:54:32.191926,Will the lowest temperature in Seoul be 23°C or higher on May 31?,Seoul,Yes,0.015,1.0,0.985,4.244989310688658e+25,PAPER,0.0,OPEN,1
+2026-05-29T06:04:29.036811,Will the highest temperature in Atlanta be between 74-75°F on May 31?,Atlanta,Yes,0.255,1.0,0.745,4.160089524474885e+25,PAPER,0.0,OPEN,1
+2026-05-29T06:23:51.044458,Will the lowest temperature in London be 20°C or higher on May 31?,London,Yes,0.0055,1.0,0.9945,4.0768877339853875e+25,PAPER,0.0,OPEN,1
+2026-05-29T06:23:52.178038,Will the lowest temperature in Paris be 21°C or higher on May 31?,Paris,Yes,0.28,1.0,0.72,4.0768877339853875e+25,PAPER,0.0,OPEN,1
+2026-05-29T06:32:59.767313,Will the lowest temperature in Tokyo be 25°C or higher on May 31?,Tokyo,Yes,0.005,1.0,0.995,3.913812224625972e+25,PAPER,0.0,OPEN,1
+2026-05-29T06:33:00.914771,Will the lowest temperature in Shanghai be 25°C or higher on May 31?,Shanghai,Yes,0.05,1.0,0.95,3.913812224625972e+25,PAPER,0.0,OPEN,1
+2026-05-29T07:58:59.159297,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.003,1.0,0.997,7.085985448015152e+27,PAPER,0.0,OPEN,1
+2026-05-29T07:59:00.310626,Will London have 30mm or more of precipitation in May?,London,Yes,0.0075,1.0,0.9925,7.085985448015152e+27,PAPER,0.0,OPEN,1
+2026-05-29T07:59:01.463478,Will the highest temperature in New York City be between 70-71°F on May 28?,NYC,Yes,0.0005,0.5,0.4995,7.085985448015152e+27,PAPER,0.0,OPEN,1
+2026-05-29T07:59:02.599097,Will the lowest temperature in Miami be 71°F or below on May 28?,Miami,Yes,0.0005,1.0,0.9995,7.085985448015152e+27,PAPER,0.0,OPEN,1
+2026-05-29T07:59:08.376081,Will the highest temperature in Dallas be between 70-71°F on May 28?,Dallas,Yes,0.0005,0.5,0.4995,7.085985448015152e+27,PAPER,0.0,OPEN,1
+2026-05-29T07:59:09.546722,Will the highest temperature in Los Angeles be between 70-71°F on May 28?,LA,Yes,0.0005,0.5,0.4995,7.085985448015152e+27,PAPER,0.0,OPEN,1
+2026-05-29T08:08:37.348553,Will the highest temperature in Atlanta be 76°F or higher on May 31?,Atlanta,Yes,0.275,1.0,0.725,6.235667194253333e+27,PAPER,0.0,OPEN,1
+2026-05-29T08:18:16.499610,Will global temperature increase by between 1.10ºC and 1.14ºC in June 2026?,Global,Yes,0.16,0.19349645851630193,0.033496458516301925,3.046061192617502e+27,PAPER,0.0,OPEN,1
+2026-05-29T10:22:54.160169,Will the highest temperature in New York City be between 74-75°F on May 31?,NYC,Yes,0.235,1.0,0.765,6.050032626515915e+27,PAPER,0.0,OPEN,1
+2026-05-29T11:48:22.695638,Will the highest temperature in Chicago be between 72-73°F on May 29?,Chicago,Yes,0.002,1.0,0.998,5.929031973985597e+27,PAPER,0.0,OPEN,1
+2026-05-29T12:07:27.035123,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.003,1.0,0.997,3.5538573343658674e+29,PAPER,0.0,OPEN,0
+2026-05-29T12:07:28.160005,Will London have 30mm or more of precipitation in May?,London,Yes,0.2215,1.0,0.7785,3.5538573343658674e+29,PAPER,0.0,OPEN,0
+2026-05-29T12:07:33.906157,Will the highest temperature in Dallas be between 70-71°F on May 28?,Dallas,Yes,0.0005,0.5,0.4995,3.5538573343658674e+29,PAPER,0.0,OPEN,0
+2026-05-29T12:07:35.029544,Will the highest temperature in Los Angeles be between 70-71°F on May 28?,LA,Yes,0.0005,0.5,0.4995,3.5538573343658674e+29,PAPER,0.0,OPEN,0
+2026-05-29T13:02:40.092571,Will the lowest temperature in Miami be between 82-83°F on May 29?,Miami,Yes,0.0005,1.0,0.9995,3.2695487476165975e+29,PAPER,0.0,OPEN,0
+2026-05-29T13:55:38.581296,Will the highest temperature in Seoul be 27°C or higher on May 29?,Seoul,Yes,0.0005,1.0,0.9995,3.204157772664266e+29,PAPER,0.0,OPEN,0
+2026-05-29T13:55:39.868588,Will the lowest temperature in Miami be between 88-89°F on May 31?,Miami,Yes,0.006,1.0,0.994,3.204157772664266e+29,PAPER,0.0,OPEN,0
+2026-05-29T14:48:37.251372,Will the highest temperature in Miami be between 88-89°F on May 31?,Miami,Yes,0.18,1.0,0.8200000000000001,3.075991461757695e+29,PAPER,0.0,OPEN,0
+2026-05-29T16:08:11.992072,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.003,1.0,0.997,1.6918203728902743e+31,PAPER,0.0,OPEN,0
+2026-05-29T16:08:17.728110,Will London have 30mm or more of precipitation in May?,London,Yes,0.2245,1.0,0.7755,1.6918203728902743e+31,PAPER,0.0,OPEN,0
+2026-05-29T16:52:02.187649,Will the highest temperature in Chicago be between 70-71°F on May 30?,Chicago,Yes,0.245,1.0,0.755,1.624147557974663e+31,PAPER,0.0,OPEN,0
+2026-05-29T20:05:22.463495,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.003,1.0,0.997,1.302118605692764e+32,PAPER,0.0,OPEN,0
+2026-05-29T20:05:23.592691,Will London have 30mm or more of precipitation in May?,London,Yes,0.2245,1.0,0.7755,1.302118605692764e+32,PAPER,0.0,OPEN,0
