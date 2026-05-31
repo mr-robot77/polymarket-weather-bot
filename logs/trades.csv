@@ -717,3 +717,105 @@ timestamp,market,outcome,price,prob,edge,size,type,pnl,status
 2026-05-29T16:52:02.187649,Will the highest temperature in Chicago be between 70-71°F on May 30?,Chicago,Yes,0.245,1.0,0.755,1.624147557974663e+31,PAPER,0.0,OPEN,0
 2026-05-29T20:05:22.463495,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.003,1.0,0.997,1.302118605692764e+32,PAPER,0.0,OPEN,0
 2026-05-29T20:05:23.592691,Will London have 30mm or more of precipitation in May?,London,Yes,0.2245,1.0,0.7755,1.302118605692764e+32,PAPER,0.0,OPEN,0
+2026-05-30T00:09:41.897064,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.003,1.0,0.997,1.0046826227921386e+33,PAPER,0.0,OPEN,0
+2026-05-30T00:09:47.594522,Will London have 30mm or more of precipitation in May?,London,Yes,0.2245,1.0,0.7755,1.0046826227921386e+33,PAPER,0.0,OPEN,0
+2026-05-30T00:09:48.728755,Will the lowest temperature in London be 22°C or higher on May 29?,London,Yes,0.0005,1.0,0.9995,1.0046826227921386e+33,PAPER,0.0,OPEN,0
+2026-05-30T00:09:49.850167,Will the lowest temperature in New York City be 70°F or higher on May 29?,NYC,Yes,0.0005,0.5,0.4995,1.0046826227921386e+33,PAPER,0.0,OPEN,0
+2026-05-30T00:09:50.976892,Will the highest temperature in Miami be 81°F or below on May 29?,Miami,Yes,0.0005,1.0,0.9995,1.0046826227921386e+33,PAPER,0.0,OPEN,0
+2026-05-30T00:09:52.132214,Will the highest temperature in Dallas be between 70-71°F on May 29?,Dallas,Yes,0.0005,0.5,0.4995,1.0046826227921386e+33,PAPER,0.0,OPEN,0
+2026-05-30T00:09:53.302257,Will the highest temperature in Atlanta be between 70-71°F on May 29?,Atlanta,Yes,0.0005,0.5,0.4995,1.0046826227921386e+33,PAPER,0.0,OPEN,0
+2026-05-30T00:09:54.542416,Will the highest temperature in Chicago be between 70-71°F on May 29?,Chicago,Yes,0.0005,0.5,0.4995,1.0046826227921386e+33,PAPER,0.0,OPEN,0
+2026-05-30T00:09:55.668925,Will the highest temperature in Houston be 71°F or below on May 29?,Houston,Yes,0.0005,0.6914624612740131,0.6909624612740132,1.0046826227921386e+33,PAPER,0.0,OPEN,0
+2026-05-30T00:09:56.770392,Will the highest temperature in Los Angeles be between 70-71°F on May 29?,LA,Yes,0.01,0.5,0.49,1.0046826227921386e+33,PAPER,0.0,OPEN,0
+2026-05-30T02:42:27.724073,Will the lowest temperature in Miami be 71°F or below on May 29?,Miami,Yes,0.0005,1.0,0.9995,8.03746098233711e+32,PAPER,0.0,OPEN,0
+2026-05-30T04:13:27.974282,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.003,1.0,0.997,8.794966917143555e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:13:29.184317,Will London have 30mm or more of precipitation in May?,London,Yes,0.161,1.0,0.839,8.794966917143555e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:13:34.880138,Will the lowest temperature in London be 22°C or higher on May 29?,London,Yes,0.0005,1.0,0.9995,8.794966917143555e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:13:40.543658,Will the lowest temperature in New York City be 70°F or higher on May 29?,NYC,Yes,0.0005,0.5,0.4995,8.794966917143555e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:13:41.738876,Will the lowest temperature in Miami be 71°F or below on May 29?,Miami,Yes,0.0005,1.0,0.9995,8.794966917143555e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:13:42.939133,Will the highest temperature in Dallas be between 70-71°F on May 29?,Dallas,Yes,0.0005,0.5,0.4995,8.794966917143555e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:13:44.126106,Will the highest temperature in Atlanta be between 70-71°F on May 29?,Atlanta,Yes,0.0005,0.5,0.4995,8.794966917143555e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:13:45.323538,Will the highest temperature in Chicago be between 70-71°F on May 29?,Chicago,Yes,0.0005,0.5,0.4995,8.794966917143555e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:13:46.503280,Will the highest temperature in Los Angeles be between 70-71°F on May 29?,LA,Yes,0.0005,0.5,0.4995,8.794966917143555e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:22:53.655794,Will the highest temperature in Munich be 26°C or higher on June 1?,Munich,Yes,0.5,1.0,0.5,7.2118728720577215e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:22:54.837985,Will the highest temperature in Beijing be 40°C or higher on June 1?,Beijing,Yes,0.5,1.0,0.5,7.2118728720577215e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:22:56.058886,Will the highest temperature in Wuhan be 38°C or higher on June 1?,Wuhan,Yes,0.5,1.0,0.5,7.2118728720577215e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:22:57.354155,Will the highest temperature in Houston be 92°F or higher on June 1?,Houston,Yes,0.5,0.9793248371339303,0.47932483713393026,7.2118728720577215e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:22:58.512544,Will the highest temperature in Kuala Lumpur be 37°C or higher on June 1?,Kuala Lumpur,Yes,0.5,1.0,0.5,7.2118728720577215e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:32:32.633352,Will the highest temperature in Paris be 30°C or higher on June 1?,Paris,Yes,0.5,1.0,0.5,6.490685584851947e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:32:33.877528,Will the highest temperature in Seattle be 66°F or higher on June 1?,Seattle,Yes,0.5,0.997444869669572,0.497444869669572,6.490685584851947e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:32:35.042980,Will the highest temperature in Madrid be 39°C or higher on June 1?,Madrid,Yes,0.5,1.0,0.5,6.490685584851947e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:32:36.214245,Will the highest temperature in Denver be 76°F or higher on June 1?,Denver,Yes,0.5,0.9970202367649454,0.49702023676494544,6.490685584851947e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:32:37.370602,Will the highest temperature in Guangzhou be 39°C or higher on June 1?,Guangzhou,Yes,0.5,1.0,0.5,6.490685584851947e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:42:11.657694,Will the highest temperature in London be 26°C or higher on June 1?,London,Yes,0.5,1.0,0.5,5.841617026366752e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:42:12.846150,Will the highest temperature in Dallas be 94°F or higher on June 1?,Dallas,Yes,0.5,1.0,0.5,5.841617026366752e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:42:14.008285,Will the highest temperature in Warsaw be 26°C or higher on June 1?,Warsaw,Yes,0.5,1.0,0.5,5.841617026366752e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:42:15.168363,Will the highest temperature in Chongqing be 35°C or higher on June 1?,Chongqing,Yes,0.5,1.0,0.5,5.841617026366752e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:42:16.329082,Will the highest temperature in Los Angeles be 74°F or higher on June 1?,LA,Yes,0.5,1.0,0.5,5.841617026366752e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:42:18.587169,Will the highest temperature in Istanbul be 29°C or higher on June 1?,Istanbul,Yes,0.5,1.0,0.5,5.841617026366752e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:42:19.800606,Will the highest temperature in Panama City be 31°C or higher on June 1?,Panama City,Yes,0.5,1.0,0.5,5.841617026366752e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:42:20.962338,Will the highest temperature in Cape Town be 26°C or higher on June 1?,Cape Town,Yes,0.5,1.0,0.5,5.841617026366752e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:42:22.223169,Will the highest temperature in Qingdao be 35°C or higher on June 1?,Qingdao,Yes,0.5,1.0,0.5,5.841617026366752e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:42:23.425324,Will the highest temperature in Karachi be 37°C or higher on June 1?,Karachi,Yes,0.5,1.0,0.5,5.841617026366752e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:42:24.561196,Will the highest temperature in Manila be 34°C or higher on June 1?,Manila,Yes,0.5,1.0,0.5,5.841617026366752e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:51:57.097591,Will the highest temperature in Seoul be 27°C or higher on June 1?,Seoul,Yes,0.5,1.0,0.5,4.556461280566067e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:51:58.287182,Will the highest temperature in Toronto be 25°C or higher on June 1?,Toronto,Yes,0.5,1.0,0.5,4.556461280566067e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:51:59.489592,Will the highest temperature in New York City be between 74-75°F on June 1?,NYC,Yes,0.5,1.0,0.5,4.556461280566067e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:52:00.671798,Will the highest temperature in Shanghai be 32°C or higher on June 1?,Shanghai,Yes,0.5,1.0,0.5,4.556461280566067e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:52:01.859957,Will the highest temperature in Singapore be 36°C or higher on June 1?,Singapore,Yes,0.5,1.0,0.5,4.556461280566067e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:52:03.017924,Will the highest temperature in Milan be 34°C or higher on June 1?,Milan,Yes,0.5,1.0,0.5,4.556461280566067e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:52:04.218313,Will the highest temperature in San Francisco be 68°F or higher on June 1?,San Francisco,Yes,0.5,0.5714237159009006,0.07142371590090058,4.556461280566067e+34,PAPER,0.0,OPEN,1
+2026-05-30T04:52:05.392991,Will the highest temperature in Moscow be 20°C or higher on June 1?,Moscow,Yes,0.5,1.0,0.5,4.556461280566067e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:01:43.076604,Will the highest temperature in Sao Paulo be 29°C or higher on June 1?,Sao Paulo,Yes,0.5,1.0,0.5,3.8274274756754965e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:01:48.767556,Will the highest temperature in Buenos Aires be 18°C or higher on June 1?,Buenos Aires,Yes,0.5,1.0,0.5,3.8274274756754965e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:01:49.953328,Will the highest temperature in Wellington be 22°C or higher on June 1?,Wellington,Yes,0.5,1.0,0.5,3.8274274756754965e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:01:51.151828,Will the highest temperature in Tokyo be 29°C or higher on June 1?,Tokyo,Yes,0.5,1.0,0.5,3.8274274756754965e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:01:52.398031,Will the highest temperature in Hong Kong be 33°C or higher on June 1?,Hong Kong,Yes,0.5,1.0,0.5,3.8274274756754965e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:01:53.608113,Will the highest temperature in Chengdu be 39°C or higher on June 1?,Chengdu,Yes,0.5,1.0,0.5,3.8274274756754965e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:01:54.822636,Will the highest temperature in Shenzhen be 35°C or higher on June 1?,Shenzhen,Yes,0.5,1.0,0.5,3.8274274756754965e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:11:36.032041,Will the highest temperature in Atlanta be between 90-91°F on June 1?,Atlanta,Yes,0.5,1.0,0.5,3.291587629080927e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:11:37.214360,Will the highest temperature in Chicago be between 66-67°F on June 1?,Chicago,Yes,0.5,1.0,0.5,3.291587629080927e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:11:38.383578,Will the highest temperature in Ankara be 27°C or higher on June 1?,Ankara,Yes,0.5,1.0,0.5,3.291587629080927e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:11:39.556863,Will the highest temperature in Lucknow be 42°C or higher on June 1?,Lucknow,Yes,0.5,1.0,0.5,3.291587629080927e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:11:40.704131,Will the highest temperature in Tel Aviv be 31°C or higher on June 1?,Tel Aviv,Yes,0.5,1.0,0.5,3.291587629080927e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:11:46.388952,Will the lowest temperature in Tokyo be 26°C or higher on June 1?,Tokyo,Yes,0.5,1.0,0.5,3.291587629080927e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:11:52.074551,Will the highest temperature in Taipei be 31°C or higher on June 1?,Taipei,Yes,0.5,1.0,0.5,3.291587629080927e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:11:53.266245,Will the highest temperature in Austin be 92°F or higher on June 1?,Austin,Yes,0.5,0.9867906161927437,0.48679061619274366,3.291587629080927e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:11:54.472273,Will the highest temperature in Amsterdam be 25°C or higher on June 1?,Amsterdam,Yes,0.5,1.0,0.5,3.291587629080927e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:11:55.717260,Will the highest temperature in Jeddah be 39°C or higher on June 1?,Jeddah,Yes,0.205,1.0,0.795,3.291587629080927e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:21:43.439034,Will the lowest temperature in Shanghai be 26°C or higher on June 1?,Shanghai,Yes,0.005,1.0,0.995,2.633270103264744e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:21:44.690348,Will the highest temperature in Mexico City be 26°C or higher on June 1?,Mexico City,Yes,0.5,1.0,0.5,2.633270103264744e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:21:50.481408,Will the highest temperature in Busan be 32°C or higher on June 1?,Busan,Yes,0.5,1.0,0.5,2.633270103264744e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:21:51.615563,Will the highest temperature in Helsinki be 23°C or higher on June 1?,Helsinki,Yes,0.01,1.0,0.99,2.633270103264744e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:31:30.812119,Will the lowest temperature in New York City be 70°F or higher on June 1?,NYC,Yes,0.165,1.0,0.835,2.422608495003564e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:41:10.981627,Will the lowest temperature in Paris be 18°C or higher on June 1?,Paris,Yes,0.005,1.0,0.995,2.374156325103493e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:50:48.113754,Will the lowest temperature in Seoul be 24°C or higher on June 1?,Seoul,Yes,0.045,1.0,0.955,2.3266731986014227e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:50:49.292022,Will the lowest temperature in Miami be between 90-91°F on June 1?,Miami,Yes,0.0055,1.0,0.9945,2.3266731986014227e+34,PAPER,0.0,OPEN,1
+2026-05-30T05:50:50.469658,Will the lowest temperature in Hong Kong be 30°C or higher on June 1?,Hong Kong,Yes,0.37,1.0,0.63,2.3266731986014227e+34,PAPER,0.0,OPEN,1
+2026-05-30T06:48:18.429457,Will the highest temperature in Atlanta be between 78-79°F on May 30?,Atlanta,Yes,0.044,1.0,0.956,2.187072806685338e+34,PAPER,0.0,OPEN,1
+2026-05-30T08:15:32.455273,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.003,1.0,0.997,7.654663399771723e+36,PAPER,0.0,OPEN,1
+2026-05-30T08:15:33.647274,Will London have 30mm or more of precipitation in May?,London,Yes,0.1595,1.0,0.8405,7.654663399771723e+36,PAPER,0.0,OPEN,1
+2026-05-30T08:15:34.831267,Will the lowest temperature in London be 22°C or higher on May 29?,London,Yes,0.0005,1.0,0.9995,7.654663399771723e+36,PAPER,0.0,OPEN,1
+2026-05-30T08:15:40.517091,Will the lowest temperature in New York City be 70°F or higher on May 29?,NYC,Yes,0.0005,0.5,0.4995,7.654663399771723e+36,PAPER,0.0,OPEN,1
+2026-05-30T08:15:41.759776,Will the lowest temperature in Miami be 71°F or below on May 29?,Miami,Yes,0.0005,1.0,0.9995,7.654663399771723e+36,PAPER,0.0,OPEN,1
+2026-05-30T08:15:42.960039,Will the highest temperature in Dallas be between 70-71°F on May 29?,Dallas,Yes,0.0005,0.5,0.4995,7.654663399771723e+36,PAPER,0.0,OPEN,1
+2026-05-30T08:15:44.128306,Will the highest temperature in Atlanta be between 70-71°F on May 29?,Atlanta,Yes,0.0005,0.5,0.4995,7.654663399771723e+36,PAPER,0.0,OPEN,1
+2026-05-30T08:15:49.849051,Will the highest temperature in Chicago be between 70-71°F on May 29?,Chicago,Yes,0.0005,0.5,0.4995,7.654663399771723e+36,PAPER,0.0,OPEN,1
+2026-05-30T08:15:51.140412,Will the highest temperature in Los Angeles be between 70-71°F on May 29?,LA,Yes,0.0005,0.5,0.4995,7.654663399771723e+36,PAPER,0.0,OPEN,1
+2026-05-30T10:36:45.063093,Will the highest temperature in Miami be between 90-91°F on June 1?,Miami,Yes,0.35,1.0,0.65,6.276823987812811e+36,PAPER,0.0,OPEN,1
+2026-05-30T12:18:52.665947,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.003,1.0,0.997,6.705152812228311e+38,PAPER,0.0,OPEN,0
+2026-05-30T12:18:53.962206,Will London have 30mm or more of precipitation in May?,London,Yes,0.1605,1.0,0.8395,6.705152812228311e+38,PAPER,0.0,OPEN,0
+2026-05-30T12:18:55.080336,Will the lowest temperature in New York City be 70°F or higher on May 29?,NYC,Yes,0.0005,0.5,0.4995,6.705152812228311e+38,PAPER,0.0,OPEN,0
+2026-05-30T12:18:56.158041,Will the lowest temperature in Miami be 71°F or below on May 29?,Miami,Yes,0.0005,1.0,0.9995,6.705152812228311e+38,PAPER,0.0,OPEN,0
+2026-05-30T12:18:57.250118,Will the highest temperature in Dallas be between 70-71°F on May 29?,Dallas,Yes,0.0005,0.5,0.4995,6.705152812228311e+38,PAPER,0.0,OPEN,0
+2026-05-30T12:18:58.339798,Will the highest temperature in Chicago be between 70-71°F on May 29?,Chicago,Yes,0.0005,0.5,0.4995,6.705152812228311e+38,PAPER,0.0,OPEN,0
+2026-05-30T12:18:59.419797,Will the highest temperature in Los Angeles be between 70-71°F on May 29?,LA,Yes,0.0005,0.5,0.4995,6.705152812228311e+38,PAPER,0.0,OPEN,0
+2026-05-30T13:23:12.509664,Will the lowest temperature in London be 17°C or higher on June 1?,London,Yes,0.029,1.0,0.971,5.7664314185163455e+38,PAPER,0.0,OPEN,0
+2026-05-30T14:37:46.691651,Will the lowest temperature in Miami be between 84-85°F on May 30?,Miami,Yes,0.0005,1.0,0.9995,5.6511027901460194e+38,PAPER,0.0,OPEN,0
+2026-05-30T16:15:28.631925,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0025,1.0,0.9975,3.192807450323781e+40,PAPER,0.0,OPEN,0
+2026-05-30T16:15:34.327963,Will London have 30mm or more of precipitation in May?,London,Yes,0.0345,1.0,0.9655,3.192807450323781e+40,PAPER,0.0,OPEN,0
+2026-05-30T17:44:06.182898,Will the highest temperature in Atlanta be between 88-89°F on June 1?,Atlanta,Yes,0.23,1.0,0.77,3.0650951523108295e+40,PAPER,0.0,OPEN,0
+2026-05-30T17:44:07.260463,Will the lowest temperature in Miami be 92°F or higher on June 1?,Miami,Yes,0.0035,1.0,0.9965,3.0650951523108295e+40,PAPER,0.0,OPEN,0
+2026-05-30T20:23:06.629974,Will NYC have more than 6 inches of precipitation in May?,NYC,Yes,0.0025,1.0,0.9975,3.033585381856156e+41,PAPER,0.0,OPEN,0
+2026-05-30T20:23:07.820948,Will London have 30mm or more of precipitation in May?,London,Yes,0.0255,1.0,0.9745,3.033585381856156e+41,PAPER,0.0,OPEN,0
+2026-05-30T21:51:14.191974,Will the highest temperature in Atlanta be between 84-85°F on May 30?,Atlanta,Yes,0.945,1.0,0.05500000000000005,2.91224196658191e+41,PAPER,0.0,OPEN,0

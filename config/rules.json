@@ -1,9 +1,9 @@
 {
     "edge_threshold": 0.02,
     "kelly_fraction": 0.25,
-    "max_trade_dollars": 1e+70,
-    "max_market_dollars": 5e+72,
-    "max_total_exposure": 1e+75,
+    "max_trade_dollars": 1e+250,
+    "max_market_dollars": 1e+275,
+    "max_total_exposure": 1e+308,
     "min_confidence_interval": 0.8,
     "max_trades_per_day": 100,
     "risk_free_arb_threshold": 0.005,
